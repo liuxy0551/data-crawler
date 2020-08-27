@@ -32,7 +32,7 @@ module.exports = async function getFilmsInfo (url, pageNum) {
   
         // 按页码写入 json 文件
         let fileName = pageNum + 1
-        await fs.writeFile(`./result/filmsInfo/page-${ fileName }.json`, JSON.stringify(films, null, 2), err => {
+        await fs.writeFile(`./result/top250/page-${ fileName }.json`, JSON.stringify(films, null, 2), err => {
           if (err) {
             reject(err)
           } else {

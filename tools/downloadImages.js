@@ -14,7 +14,7 @@ module.exports = function downloadImage (pics, pageNum) {
         str += chunk
       })
       res.on('end', function () {
-        fs.writeFile(`./result/images/page-${ pageNum + 1 }-${ Number(i) + 1 }.jpg`, str, 'binary', err => {
+        fs.writeFile(`./result/top250/images/page-${ pageNum + 1 }-${ Number(i) + 1 }.jpg`, str, 'binary', err => {
           err && console.log(err)
         })
       })
