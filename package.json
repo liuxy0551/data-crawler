@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/liuxy0551/data-crawler#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
   }
 }
