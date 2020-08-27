@@ -6,7 +6,7 @@ const https = require('https')
 const cheerio = require('cheerio')
 
 // url 爬取的网址，pageNum 已存在多少条数据
-module.exports = async function getFilms (url, pageNum) {
+module.exports = async function getFilmsInfo (url, pageNum) {
   return new Promise((resolve, reject) => {
     https.get(url, res => {
       // 分段返回的 自己拼接
@@ -22,10 +22,12 @@ module.exports = async function getFilms (url, pageNum) {
         const $ = cheerio.load(html)
         let films = []
         $('li .item').each(function () {
+          const sort = pageNum * 25 + films.length + 1
           const title = $('.title', this).text()
           const star = $('.rating_num', this).text()
+          const slogan = $('.inq', this).text()
           const pic = $('.pic img', this).attr('src')
-          films.push({ sort: pageNum * 25 + films.length + 1, title, star, pic })
+          films.push({ sort, title, star, slogan, pic })
         })
   
         // 按页码写入 json 文件

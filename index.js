@@ -1,4 +1,4 @@
-const getFilms = require('./tools/getFilms')
+const getFilmsInfo = require('./tools/getFilmsInfo')
 const downloadImages = require('./tools/downloadImages')
 
 getAllFilms()
@@ -12,7 +12,7 @@ getAllFilms()
 async function getAllFilms () {
   for (let pageNum = 0; pageNum < 10; pageNum++) {
     // 爬取数据并将需要的数据写到 json 文件
-    let films = await getFilms(`https://movie.douban.com/top250?start=${ pageNum * 25 }`, pageNum)
+    let films = await getFilmsInfo(`https://movie.douban.com/top250?start=${ pageNum * 25 }`, pageNum)
   
     // 下载图片
     await downloadImages(films.map(i => i.pic), pageNum)
