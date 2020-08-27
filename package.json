@@ -1,0 +1,26 @@
+{
+  "name": "data-crawler",
+  "version": "1.0.0",
+  "description": "data-crawler by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxy0551/data-crawler.git"
+  },
+  "keywords": [
+    "node",
+    "data-crawler"
+  ],
+  "author": "liuxy0551@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxy0551/data-crawler/issues"
+  },
+  "homepage": "https://github.com/liuxy0551/data-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
