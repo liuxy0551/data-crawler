@@ -1,60 +1,20 @@
-const fs = require('fs')
-const https = require('https')
-const cheerio = require('cheerio')
+const getFilms = require('./tools/getFilms')
+const downloadImages = require('./tools/downloadImages')
 
-https.get('https://movie.douban.com/top250', res => {
-    // 分段返回的 自己拼接
-    let html = ''
+getAllFilms()
 
-    // 有数据产生的时候 拼接
-    res.on('data', chunk => {
-      html += chunk
-    })
-
-    // 拼接完成
-    res.on('end', () => {
-      // console.log(html)
-      const $ = cheerio.load(html)
-      let films = []
-      $('li .item').each(function () {
-        const title = $('.title', this).text()
-        const star = $('.rating_num', this).text()
-        const pic = $('.pic img', this).attr('src')
-        films.push({ title, star, pic })
-      })
-
-      downloadImage(films.map(i => i.pic))
-
-      // 写入 json 文件
-      fs.writeFile('./films.json', JSON.stringify(films, null, 2), err => {
-        if (err) {
-          console.log(err)
-        } else {
-          console.log('films.json 保存成功\n')
-        }
-      })
-    })
-})
-
-// 下载图片
-function downloadImage (pics) {
-  for (let i in pics) {
-    https.get(pics[i], res => {
-      res.setEncoding('binary')
-      let str = ''
-
-      res.on('data', chunk => {
-        str += chunk
-      })
-      res.on('end', function () {
-        fs.writeFile(`./images/${ Number(i) + 1 }.png`, str, 'binary', err => {
-          if (err) {
-            console.log(err)
-          } else {
-            console.log(`第${ Number(i) + 1 }张图片下载成功`)
-          }
-        })
-      })
-    })
+/**
+ * https://movie.douban.com/top250 页面分页的规则
+ * get 请求，参数为 start，含义是每页25条数据，从第几条开始
+ * 如 https://movie.douban.com/top250?start=25, https://movie.douban.com/top250?start=100
+ */
+// 根据 url 抓取当前页面所有电影的信息
+async function getAllFilms () {
+  for (let pageNum = 0; pageNum < 10; pageNum++) {
+    // 爬取数据并将需要的数据写到 json 文件
+    let films = await getFilms(`https://movie.douban.com/top250?start=${ pageNum * 25 }`, pageNum)
+  
+    // 下载图片
+    await downloadImages(films.map(i => i.pic), pageNum)
   }
 }
