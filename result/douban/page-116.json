@@ -1,0 +1,411 @@
+[
+  {
+    "directors": [
+      "麦当杰"
+    ],
+    "rate": "7.8",
+    "cover_x": 757,
+    "star": "40",
+    "title": "黑金",
+    "url": "https://movie.douban.com/subject/1292962/",
+    "casts": [
+      "刘德华",
+      "梁家辉",
+      "孙佳君",
+      "吴辰君",
+      "郭静纯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2463618493.jpg",
+    "id": "1292962",
+    "cover_y": 1072
+  },
+  {
+    "directors": [
+      "陈玉勋"
+    ],
+    "rate": "6.7",
+    "cover_x": 715,
+    "star": "35",
+    "title": "健忘村",
+    "url": "https://movie.douban.com/subject/26717795/",
+    "casts": [
+      "舒淇",
+      "王千源",
+      "张孝全",
+      "曾志伟",
+      "杨祐宁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2412370372.jpg",
+    "id": "26717795",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "刘誉"
+    ],
+    "rate": "5.4",
+    "cover_x": 752,
+    "star": "25",
+    "title": "局中人",
+    "url": "https://movie.douban.com/subject/30329909/",
+    "casts": [
+      "张一山",
+      "潘粤明",
+      "王瑞子",
+      "王一菲",
+      "赵达"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555427086.jpg",
+    "id": "30329909",
+    "cover_y": 1274
+  },
+  {
+    "directors": [
+      "张惠民"
+    ],
+    "rate": "8.4",
+    "cover_x": 709,
+    "star": "40",
+    "title": "快乐星球 第一部",
+    "url": "https://movie.douban.com/subject/2147630/",
+    "casts": [
+      "李瑞",
+      "冯锦",
+      "周乾畅",
+      "孙格",
+      "张兆艺"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2368574692.jpg",
+    "id": "2147630",
+    "cover_y": 872
+  },
+  {
+    "directors": [
+      "罗伯特·斯文克"
+    ],
+    "rate": "7.5",
+    "cover_x": 640,
+    "star": "40",
+    "title": "赤焰战场",
+    "url": "https://movie.douban.com/subject/3104794/",
+    "casts": [
+      "布鲁斯·威利斯",
+      "摩根·弗里曼",
+      "约翰·马尔科维奇",
+      "海伦·米伦",
+      "卡尔·厄本"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536150267.jpg",
+    "id": "3104794",
+    "cover_y": 949
+  },
+  {
+    "directors": [
+      "汤浅政明"
+    ],
+    "rate": "8.6",
+    "cover_x": 2200,
+    "star": "45",
+    "title": "春宵苦短，少女前进吧！",
+    "url": "https://movie.douban.com/subject/26935251/",
+    "casts": [
+      "星野源",
+      "花泽香菜",
+      "神谷浩史",
+      "中井和哉",
+      "甲斐田裕子"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2418455758.jpg",
+    "id": "26935251",
+    "cover_y": 3112
+  },
+  {
+    "directors": [
+      "特德·科特切夫"
+    ],
+    "rate": "8.3",
+    "cover_x": 939,
+    "star": "40",
+    "title": "第一滴血",
+    "url": "https://movie.douban.com/subject/1294323/",
+    "casts": [
+      "西尔维斯特·史泰龙",
+      "理查德·克里纳",
+      "布莱恩·丹内利",
+      "比尔·麦金尼",
+      "杰克·斯塔雷特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2485300934.jpg",
+    "id": "1294323",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "陈虹",
+      "曹毅立"
+    ],
+    "rate": "8.2",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "我们的歌",
+    "url": "https://movie.douban.com/subject/34863464/",
+    "casts": [
+      "林海",
+      "费玉清",
+      "任贤齐",
+      "李克勤",
+      "罗琦"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2572055474.jpg",
+    "id": "34863464",
+    "cover_y": 2543
+  },
+  {
+    "directors": [
+      "任大炯"
+    ],
+    "rate": "8.2",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "致允熙",
+    "url": "https://movie.douban.com/subject/30488003/",
+    "casts": [
+      "金喜爱",
+      "中村优子",
+      "金素慧",
+      "成侑彬",
+      "木野花"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2571774021.jpg",
+    "id": "30488003",
+    "cover_y": 2865
+  },
+  {
+    "directors": [
+      "彼得·拉姆齐"
+    ],
+    "rate": "8.1",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "守护者联盟",
+    "url": "https://movie.douban.com/subject/3769423/",
+    "casts": [
+      "克里斯·派恩",
+      "休·杰克曼",
+      "艾拉·菲舍尔",
+      "裘德·洛",
+      "亚历克·鲍德温"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1758887194.jpg",
+    "id": "3769423",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "陈赫",
+      "洪忠灿"
+    ],
+    "rate": "7.3",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "Doctor异乡人",
+    "url": "https://movie.douban.com/subject/25792670/",
+    "casts": [
+      "李钟硕",
+      "陈世妍",
+      "朴海镇",
+      "姜素拉",
+      "全国焕"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2180997660.jpg",
+    "id": "25792670",
+    "cover_y": 1495
+  },
+  {
+    "directors": [
+      "韩洋"
+    ],
+    "rate": "4.5",
+    "cover_x": 1298,
+    "star": "25",
+    "title": "夏至未至",
+    "url": "https://movie.douban.com/subject/26734684/",
+    "casts": [
+      "陈学冬",
+      "郑爽",
+      "白敬亭",
+      "夏梓桐",
+      "柴碧云"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2452637997.jpg",
+    "id": "26734684",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "王天林",
+      "杜琪峰"
+    ],
+    "rate": "9.1",
+    "cover_x": 743,
+    "star": "45",
+    "title": "射雕英雄传",
+    "url": "https://movie.douban.com/subject/1478186/",
+    "casts": [
+      "黄日华",
+      "翁美玲",
+      "苗侨伟",
+      "杨盼盼",
+      "曾江"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538637598.jpg",
+    "id": "1478186",
+    "cover_y": 1080
+  },
+  {
+    "directors": [
+      "钟鸣"
+    ],
+    "rate": "9.0",
+    "cover_x": 1975,
+    "star": "45",
+    "title": "非人哉",
+    "url": "https://movie.douban.com/subject/27620007/",
+    "casts": [
+      "杨凝",
+      "山新",
+      "姜广涛",
+      "苏尚卿",
+      "佟心竹"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2609520857.jpg",
+    "id": "27620007",
+    "cover_y": 3504
+  },
+  {
+    "directors": [
+      "大地丙太郎",
+      "山本泰一郎",
+      "永冈智佳",
+      "湖山祯崇",
+      "菱川直树",
+      "神原敏昭",
+      "小野田雄亮"
+    ],
+    "rate": "8.7",
+    "cover_x": 550,
+    "star": "45",
+    "title": "元气少女缘结神",
+    "url": "https://movie.douban.com/subject/10877415/",
+    "casts": [
+      "三森铃子",
+      "立花慎之介",
+      "岸尾大辅",
+      "冈本信彦",
+      "石田彰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1669678053.jpg",
+    "id": "10877415",
+    "cover_y": 794
+  },
+  {
+    "directors": [
+      "Álex Pina"
+    ],
+    "rate": "8.6",
+    "cover_x": 1200,
+    "star": "45",
+    "title": "纸钞屋 第一季",
+    "url": "https://movie.douban.com/subject/27185036/",
+    "casts": [
+      "乌苏拉·科尔维罗",
+      "伊西娅尔·伊图诺",
+      "阿尔瓦罗·莫奇",
+      "达尔科.佩里克",
+      "爱诺亚萨娜塔玛蕊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505704270.jpg",
+    "id": "27185036",
+    "cover_y": 1798
+  },
+  {
+    "directors": [
+      "汉密尔顿·卢斯科",
+      "宾·沙普斯坦"
+    ],
+    "rate": "8.3",
+    "cover_x": 500,
+    "star": "40",
+    "title": "木偶奇遇记",
+    "url": "https://movie.douban.com/subject/1292757/",
+    "casts": [
+      "梅尔·布兰科",
+      "弗兰基·达罗",
+      "克里夫·爱德华兹",
+      "Dickie Jones"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1958894020.jpg",
+    "id": "1292757",
+    "cover_y": 757
+  },
+  {
+    "directors": [
+      "保罗·索伦蒂诺"
+    ],
+    "rate": "8.2",
+    "cover_x": 3431,
+    "star": "40",
+    "title": "年轻气盛",
+    "url": "https://movie.douban.com/subject/25766754/",
+    "casts": [
+      "蕾切尔·薇兹",
+      "简·方达",
+      "迈克尔·凯恩",
+      "保罗·达诺",
+      "哈威·凯特尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561567154.jpg",
+    "id": "25766754",
+    "cover_y": 4661
+  },
+  {
+    "directors": [
+      "阿尔弗雷德·希区柯克"
+    ],
+    "rate": "8.1",
+    "cover_x": 1944,
+    "star": "40",
+    "title": "群鸟",
+    "url": "https://movie.douban.com/subject/1310175/",
+    "casts": [
+      "罗德·泰勒",
+      "杰西卡·坦迪",
+      "苏珊娜·普莱舍特",
+      "蒂比·海德莉",
+      "维罗尼卡·卡维特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1493936502.jpg",
+    "id": "1310175",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "阿尔弗雷德·希区柯克"
+    ],
+    "rate": "8.1",
+    "cover_x": 900,
+    "star": "40",
+    "title": "夺魂索",
+    "url": "https://movie.douban.com/subject/1301230/",
+    "casts": [
+      "约翰·道尔",
+      "法利·格兰杰",
+      "詹姆斯·斯图尔特",
+      "伊迪丝·埃文森",
+      "道格拉斯·迪克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2154845412.jpg",
+    "id": "1301230",
+    "cover_y": 1296
+  }
+]

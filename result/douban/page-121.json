@@ -1,0 +1,450 @@
+[
+  {
+    "directors": [
+      "野村和也",
+      "板津匡览",
+      "江副仁美",
+      "佐藤雅子",
+      "丝贺慎太郎",
+      "镰田祐辅"
+    ],
+    "rate": "9.6",
+    "cover_x": 1300,
+    "star": "50",
+    "title": "强风吹拂",
+    "url": "https://movie.douban.com/subject/30238385/",
+    "casts": [
+      "大冢刚央",
+      "丰永利行",
+      "榎木淳弥",
+      "上村祐翔",
+      "内山昂辉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535645337.jpg",
+    "id": "30238385",
+    "cover_y": 1838
+  },
+  {
+    "directors": [
+      "陈可辛"
+    ],
+    "rate": "8.4",
+    "cover_x": 501,
+    "star": "40",
+    "title": "金枝玉叶",
+    "url": "https://movie.douban.com/subject/1303376/",
+    "casts": [
+      "袁咏仪",
+      "张国荣",
+      "刘嘉玲",
+      "陈小春",
+      "曾志伟"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2167118411.jpg",
+    "id": "1303376",
+    "cover_y": 732
+  },
+  {
+    "directors": [
+      "詹姆斯·卡梅隆"
+    ],
+    "rate": "8.2",
+    "cover_x": 1343,
+    "star": "40",
+    "title": "真实的谎言",
+    "url": "https://movie.douban.com/subject/1292553/",
+    "casts": [
+      "阿诺·施瓦辛格",
+      "杰米·李·柯蒂斯",
+      "汤姆·阿诺德",
+      "比尔·帕克斯顿",
+      "蒂亚·卡雷尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408831888.jpg",
+    "id": "1292553",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "蔡岳勋"
+    ],
+    "rate": "6.4",
+    "cover_x": 1665,
+    "star": "30",
+    "title": "痞子英雄之全面开战",
+    "url": "https://movie.douban.com/subject/4154669/",
+    "casts": [
+      "黄渤",
+      "赵又廷",
+      "杨颖",
+      "关颖",
+      "戴立忍"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1561566023.jpg",
+    "id": "4154669",
+    "cover_y": 2364
+  },
+  {
+    "directors": [
+      "孙莉",
+      "顾玉帆"
+    ],
+    "rate": "5.9",
+    "cover_x": 1000,
+    "star": "30",
+    "title": "创造101",
+    "url": "https://movie.douban.com/subject/30157162/",
+    "casts": [
+      "黄子韬",
+      "陈嘉桦",
+      "张杰",
+      "胡彦斌",
+      "罗志祥"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517517517.jpg",
+    "id": "30157162",
+    "cover_y": 1778
+  },
+  {
+    "directors": [
+      "杨磊",
+      "陈家霖",
+      "韩青"
+    ],
+    "rate": "5.5",
+    "cover_x": 770,
+    "star": "30",
+    "title": "九州天空城",
+    "url": "https://movie.douban.com/subject/26611039/",
+    "casts": [
+      "张若昀",
+      "关晓彤",
+      "刘畅",
+      "鞠婧祎",
+      "陈若轩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2369293279.jpg",
+    "id": "26611039",
+    "cover_y": 1080
+  },
+  {
+    "directors": [
+      "大卫·塞梅尔",
+      "理查德·刘易斯",
+      "海伦·谢费",
+      "肯尼斯·芬克",
+      "史蒂芬·瑟吉克",
+      "杰弗里·G.亨特",
+      "弗雷德·托耶",
+      "克里斯·费舍",
+      "乔纳森·诺兰",
+      "费利克斯·恩里克斯·阿尔科拉",
+      "翠西亚·布洛克",
+      "克拉克·约翰森",
+      "约翰·达尔",
+      "理查德·J·刘易斯",
+      "小詹姆斯·惠特摩",
+      "强·卡萨"
+    ],
+    "rate": "9.5",
+    "cover_x": 820,
+    "star": "50",
+    "title": "疑犯追踪 第二季",
+    "url": "https://movie.douban.com/subject/10549251/",
+    "casts": [
+      "迈克尔·爱默生",
+      "吉姆·卡维泽",
+      "塔拉吉·P·汉森",
+      "莎拉·夏希",
+      "艾米·阿克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2210308173.jpg",
+    "id": "10549251",
+    "cover_y": 1062
+  },
+  {
+    "directors": [
+      "原惠一"
+    ],
+    "rate": "8.7",
+    "cover_x": 1432,
+    "star": "45",
+    "title": "河童之夏",
+    "url": "https://movie.douban.com/subject/2982823/",
+    "casts": [
+      "富泽风斗",
+      "横川贵大",
+      "田中直树",
+      "西田尚美",
+      "松元环季"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1015305516.jpg",
+    "id": "2982823",
+    "cover_y": 2026
+  },
+  {
+    "directors": [
+      "许鞍华"
+    ],
+    "rate": "7.8",
+    "cover_x": 676,
+    "star": "40",
+    "title": "半生缘",
+    "url": "https://movie.douban.com/subject/1299624/",
+    "casts": [
+      "黎明",
+      "吴倩莲",
+      "梅艳芳",
+      "黄磊",
+      "葛优"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1526661173.jpg",
+    "id": "1299624",
+    "cover_y": 949
+  },
+  {
+    "directors": [
+      "伊萨克·厄兹本"
+    ],
+    "rate": "7.6",
+    "cover_x": 2109,
+    "star": "40",
+    "title": "意外空间",
+    "url": "https://movie.douban.com/subject/25936147/",
+    "casts": [
+      "胡伯托·巴斯托",
+      "埃尔南·门多萨",
+      "劳尔·门德兹",
+      "费尔南多·阿尔瓦雷斯·雷贝尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2192863764.jpg",
+    "id": "25936147",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "简·坎皮恩"
+    ],
+    "rate": "8.0",
+    "cover_x": 404,
+    "star": "40",
+    "title": "钢琴课",
+    "url": "https://movie.douban.com/subject/1293818/",
+    "casts": [
+      "霍利·亨特",
+      "哈威·凯特尔",
+      "山姆·尼尔",
+      "安娜·帕奎因",
+      "克利夫·柯蒂斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p764799071.jpg",
+    "id": "1293818",
+    "cover_y": 545
+  },
+  {
+    "directors": [
+      "文斯·吉里根"
+    ],
+    "rate": "8.0",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "续命之徒：绝命毒师电影",
+    "url": "https://movie.douban.com/subject/30372377/",
+    "casts": [
+      "亚伦·保尔",
+      "乔纳森·班克斯",
+      "马特·琼斯",
+      "查尔斯·贝克",
+      "托德·特里"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569548689.jpg",
+    "id": "30372377",
+    "cover_y": 2222
+  },
+  {
+    "directors": [
+      "黄百鸣",
+      "邱礼涛"
+    ],
+    "rate": "5.2",
+    "cover_x": 2000,
+    "star": "25",
+    "title": "花田喜事2010",
+    "url": "https://movie.douban.com/subject/3804746/",
+    "casts": [
+      "黄百鸣",
+      "吴君如",
+      "古天乐",
+      "郑中基",
+      "潘粤明"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p815404632.jpg",
+    "id": "3804746",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "汤山邦彦",
+      "日高政光",
+      "小野胜巳",
+      "石原立也",
+      "秦义人",
+      "福本洁",
+      "大原实",
+      "原口浩",
+      "江上洁",
+      "浅田裕二",
+      "藤本义孝",
+      "岩崎太郎",
+      "小川浩司",
+      "广岛秀树",
+      "松本正幸",
+      "冈崎幸男",
+      "石仓贤一",
+      "岩本保雄",
+      "井硲清高",
+      "深泽幸司",
+      "元永庆太郎"
+    ],
+    "rate": "9.1",
+    "cover_x": 426,
+    "star": "45",
+    "title": "精灵宝可梦",
+    "url": "https://movie.douban.com/subject/2015069/",
+    "casts": [
+      "松本梨香",
+      "大谷育江",
+      "饭冢雅弓",
+      "兴梠里美",
+      "上田祐司"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500312681.jpg",
+    "id": "2015069",
+    "cover_y": 600
+  },
+  {
+    "directors": [
+      "科奇·吉尔佐",
+      "琪娜·木杨"
+    ],
+    "rate": "8.4",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "名姝 第一季",
+    "url": "https://movie.douban.com/subject/26805324/",
+    "casts": [
+      "萨曼莎·莫顿",
+      "杰西卡·布朗·芬德利",
+      "莱丝利·曼维尔",
+      "布朗温·詹姆斯",
+      "亚历克萨·戴维斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2466378191.jpg",
+    "id": "26805324",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "刘左锋"
+    ],
+    "rate": "8.2",
+    "cover_x": 500,
+    "star": "40",
+    "title": "海尔兄弟",
+    "url": "https://movie.douban.com/subject/2148391/",
+    "casts": [
+      "张美娟",
+      "王羊",
+      "车晓彤",
+      "高扬",
+      "邹赫威"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2405876167.jpg",
+    "id": "2148391",
+    "cover_y": 801
+  },
+  {
+    "directors": [
+      "金哲勇",
+      "李雅弢"
+    ],
+    "rate": "7.7",
+    "cover_x": 2500,
+    "star": "40",
+    "title": "动物管理局",
+    "url": "https://movie.douban.com/subject/27107725/",
+    "casts": [
+      "陈赫",
+      "王子文",
+      "唐晓天",
+      "孔宋今",
+      "谭泉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558843938.jpg",
+    "id": "27107725",
+    "cover_y": 3500
+  },
+  {
+    "directors": [
+      "三木康一郎",
+      "沟口真希子"
+    ],
+    "rate": "7.7",
+    "cover_x": 970,
+    "star": "40",
+    "title": "下辈子我再好好过",
+    "url": "https://movie.douban.com/subject/34906701/",
+    "casts": [
+      "内田理央",
+      "太田莉菜",
+      "小关裕太",
+      "盐野瑛久",
+      "后藤刚范"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2586357638.jpg",
+    "id": "34906701",
+    "cover_y": 685
+  },
+  {
+    "directors": [
+      "詹姆斯·R·巴格多纳斯",
+      "布莱恩·科兰斯顿",
+      "贝丝·麦卡锡-米勒"
+    ],
+    "rate": "9.6",
+    "cover_x": 2250,
+    "star": "50",
+    "title": "摩登家庭 第五季",
+    "url": "https://movie.douban.com/subject/22523273/",
+    "casts": [
+      "艾德·奥尼尔",
+      "索菲娅·维加拉",
+      "朱丽·鲍温",
+      "泰·布利尔",
+      "杰西·泰勒·弗格森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2151475197.jpg",
+    "id": "22523273",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "布莱恩·德·帕尔玛"
+    ],
+    "rate": "8.3",
+    "cover_x": 500,
+    "star": "40",
+    "title": "疤面煞星",
+    "url": "https://movie.douban.com/subject/1292065/",
+    "casts": [
+      "阿尔·帕西诺",
+      "斯蒂文·鲍尔",
+      "米歇尔·菲佛",
+      "玛丽·伊丽莎白·马斯特兰托尼奥",
+      "罗伯特·劳吉亚"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p649133947.jpg",
+    "id": "1292065",
+    "cover_y": 755
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "成志超",
+      "戴小哲",
+      "田少波"
+    ],
+    "rate": "7.6",
+    "cover_x": 5967,
+    "star": "40",
+    "title": "天坑鹰猎",
+    "url": "https://movie.douban.com/subject/27119802/",
+    "casts": [
+      "王俊凯",
+      "文淇",
+      "蒋依依",
+      "叶筱玮",
+      "郑好"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533751482.jpg",
+    "id": "27119802",
+    "cover_y": 8533
+  },
+  {
+    "directors": [
+      "泰勒·海克福德"
+    ],
+    "rate": "6.5",
+    "cover_x": 1984,
+    "star": "35",
+    "title": "帕克",
+    "url": "https://movie.douban.com/subject/6875647/",
+    "casts": [
+      "杰森·斯坦森",
+      "詹妮弗·洛佩兹",
+      "尼克·诺特",
+      "迈克尔·切克利斯",
+      "小克利夫顿·克林斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1830099433.jpg",
+    "id": "6875647",
+    "cover_y": 2835
+  },
+  {
+    "directors": [
+      "任静",
+      "严敏"
+    ],
+    "rate": "4.5",
+    "cover_x": 1478,
+    "star": "25",
+    "title": "极限挑战之皇家宝藏",
+    "url": "https://movie.douban.com/subject/26607739/",
+    "casts": [
+      "黄渤",
+      "孙红雷",
+      "黄磊",
+      "罗志祥",
+      "王迅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2309603103.jpg",
+    "id": "26607739",
+    "cover_y": 2068
+  },
+  {
+    "directors": [
+      "丹·吉尔罗伊"
+    ],
+    "rate": "8.3",
+    "cover_x": 1922,
+    "star": "40",
+    "title": "夜行者",
+    "url": "https://movie.douban.com/subject/25750969/",
+    "casts": [
+      "杰克·吉伦哈尔",
+      "里兹·阿迈德",
+      "蕾妮·罗素",
+      "迈克尔·帕帕约翰",
+      "马科斯·罗德里格斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2203693875.jpg",
+    "id": "25750969",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "陆川"
+    ],
+    "rate": "7.7",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "寻枪",
+    "url": "https://movie.douban.com/subject/1305224/",
+    "casts": [
+      "姜文",
+      "宁静",
+      "伍宇娟",
+      "刘小宁",
+      "石凉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1325360577.jpg",
+    "id": "1305224",
+    "cover_y": 1356
+  },
+  {
+    "directors": [
+      "杨磊"
+    ],
+    "rate": "4.3",
+    "cover_x": 1145,
+    "star": "20",
+    "title": "鲛珠传",
+    "url": "https://movie.douban.com/subject/25857966/",
+    "casts": [
+      "王大陆",
+      "张天爱",
+      "任达华",
+      "盛冠森",
+      "王迅"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493908018.jpg",
+    "id": "25857966",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "张艺谋",
+      "杨凤良"
+    ],
+    "rate": "8.0",
+    "cover_x": 1009,
+    "star": "40",
+    "title": "菊豆",
+    "url": "https://movie.douban.com/subject/1299365/",
+    "casts": [
+      "巩俐",
+      "李保田",
+      "李纬",
+      "丛志军",
+      "牛星丽"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2331293839.jpg",
+    "id": "1299365",
+    "cover_y": 1452
+  },
+  {
+    "directors": [
+      "汤姆·麦格拉思"
+    ],
+    "rate": "7.8",
+    "cover_x": 1014,
+    "star": "40",
+    "title": "超级大坏蛋",
+    "url": "https://movie.douban.com/subject/2303163/",
+    "casts": [
+      "威尔·法瑞尔",
+      "乔纳·希尔",
+      "布拉德·皮特",
+      "蒂娜·菲",
+      "大卫·克罗斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p639914227.jpg",
+    "id": "2303163",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "路易斯·莱特里尔"
+    ],
+    "rate": "6.1",
+    "cover_x": 1185,
+    "star": "30",
+    "title": "诸神之战",
+    "url": "https://movie.douban.com/subject/2131654/",
+    "casts": [
+      "萨姆·沃辛顿",
+      "杰玛·阿特登",
+      "麦斯·米科尔森",
+      "拉尔夫·费因斯",
+      "连姆·尼森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443378368.jpg",
+    "id": "2131654",
+    "cover_y": 1728
+  },
+  {
+    "directors": [
+      "陈木胜"
+    ],
+    "rate": "5.8",
+    "cover_x": 1073,
+    "star": "30",
+    "title": "危城",
+    "url": "https://movie.douban.com/subject/26125779/",
+    "casts": [
+      "刘青云",
+      "古天乐",
+      "彭于晏",
+      "吴京",
+      "袁泉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372098911.jpg",
+    "id": "26125779",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "何小疯"
+    ],
+    "rate": "9.2",
+    "cover_x": 770,
+    "star": "45",
+    "title": "伍六七之最强发型师",
+    "url": "https://movie.douban.com/subject/30371751/",
+    "casts": [
+      "何小疯",
+      "姜广涛",
+      "段艺璇",
+      "宝木中阳",
+      "刘小倩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571634144.jpg",
+    "id": "30371751",
+    "cover_y": 1080
+  },
+  {
+    "directors": [
+      "申宇哲"
+    ],
+    "rate": "8.4",
+    "cover_x": 450,
+    "star": "40",
+    "title": "秘密花园",
+    "url": "https://movie.douban.com/subject/4967578/",
+    "casts": [
+      "河智苑",
+      "玄彬",
+      "尹相铉",
+      "金莎朗",
+      "刘仁娜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p703629170.jpg",
+    "id": "4967578",
+    "cover_y": 609
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "8.0",
+    "cover_x": 750,
+    "star": "40",
+    "title": "秋菊打官司",
+    "url": "https://movie.douban.com/subject/1300108/",
+    "casts": [
+      "巩俐",
+      "刘佩琦",
+      "雷恪生",
+      "戈治均",
+      "杨柳春"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554073275.jpg",
+    "id": "1300108",
+    "cover_y": 1100
+  },
+  {
+    "directors": [
+      "李胤基"
+    ],
+    "rate": "8.0",
+    "cover_x": 1300,
+    "star": "40",
+    "title": "男与女",
+    "url": "https://movie.douban.com/subject/25835285/",
+    "casts": [
+      "孔侑",
+      "全度妍",
+      "李美素",
+      "朴秉恩",
+      "朴敏智"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2308184818.jpg",
+    "id": "25835285",
+    "cover_y": 1864
+  },
+  {
+    "directors": [
+      "增井壮一"
+    ],
+    "rate": "8.7",
+    "cover_x": 2000,
+    "star": "45",
+    "title": "青春期猪头少年不做怀梦少女的梦",
+    "url": "https://movie.douban.com/subject/30329902/",
+    "casts": [
+      "石川界人",
+      "濑户麻沙美",
+      "水濑祈",
+      "东山奈央",
+      "种崎敦美"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574212754.jpg",
+    "id": "30329902",
+    "cover_y": 2830
+  },
+  {
+    "directors": [
+      "卡梅伦·克罗"
+    ],
+    "rate": "7.8",
+    "cover_x": 693,
+    "star": "40",
+    "title": "我家买了动物园",
+    "url": "https://movie.douban.com/subject/3578925/",
+    "casts": [
+      "马特·达蒙",
+      "斯嘉丽·约翰逊",
+      "托马斯·哈登·丘奇",
+      "艾丽·范宁",
+      "派屈克·福吉特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1286451166.jpg",
+    "id": "3578925",
+    "cover_y": 1024
+  },
+  {
+    "directors": [
+      "刘镇伟"
+    ],
+    "rate": "5.2",
+    "cover_x": 2644,
+    "star": "25",
+    "title": "越光宝盒",
+    "url": "https://movie.douban.com/subject/3928370/",
+    "casts": [
+      "孙俪",
+      "郑中基",
+      "朱茵",
+      "梁咏琪",
+      "郭德纲"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p798688444.jpg",
+    "id": "3928370",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "萝拉·多尔伦"
+    ],
+    "rate": "8.6",
+    "cover_x": 540,
+    "star": "45",
+    "title": "芬妮的旅程",
+    "url": "https://movie.douban.com/subject/26710657/",
+    "casts": [
+      "莱奥尼·西索德",
+      "芳汀·阿杜安",
+      "朱莉安娜·勒普罗",
+      "赖恩·布罗迪",
+      "安妮·梅林格"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2358296290.jpg",
+    "id": "26710657",
+    "cover_y": 720
+  },
+  {
+    "directors": [
+      "黄东赫"
+    ],
+    "rate": "8.3",
+    "cover_x": 1326,
+    "star": "40",
+    "title": "奇怪的她",
+    "url": "https://movie.douban.com/subject/24879820/",
+    "casts": [
+      "沈恩京",
+      "罗文姬",
+      "朴仁焕",
+      "李阵郁",
+      "郑振永"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2165434698.jpg",
+    "id": "24879820",
+    "cover_y": 1890
+  },
+  {
+    "directors": [
+      "埃米利·阿朵里诺"
+    ],
+    "rate": "8.1",
+    "cover_x": 1871,
+    "star": "40",
+    "title": "修女也疯狂",
+    "url": "https://movie.douban.com/subject/1301509/",
+    "casts": [
+      "乌比·戈德堡",
+      "玛吉·史密斯",
+      "凯茜·纳基麦",
+      "温迪·麦凯纳",
+      "哈威·凯特尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461439892.jpg",
+    "id": "1301509",
+    "cover_y": 2761
+  }
+]

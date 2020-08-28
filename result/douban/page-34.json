@@ -1,0 +1,404 @@
+[
+  {
+    "directors": [
+      "巴里·索南菲尔德"
+    ],
+    "rate": "8.1",
+    "cover_x": 517,
+    "star": "40",
+    "title": "黑衣人",
+    "url": "https://movie.douban.com/subject/1301445/",
+    "casts": [
+      "威尔·史密斯",
+      "汤米·李·琼斯",
+      "琳达·费奥伦蒂诺",
+      "文森特·多诺费奥",
+      "雷普·汤恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453512941.jpg",
+    "id": "1301445",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "克里斯·雷纳德",
+      "亚罗·切尼"
+    ],
+    "rate": "7.7",
+    "cover_x": 4200,
+    "star": "40",
+    "title": "爱宠大机密",
+    "url": "https://movie.douban.com/subject/21817627/",
+    "casts": [
+      "路易·C·K",
+      "艾瑞克·斯通斯崔特",
+      "凯文·哈特",
+      "艾丽·坎伯尔",
+      "史蒂夫·库根"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363369616.jpg",
+    "id": "21817627",
+    "cover_y": 6000
+  },
+  {
+    "directors": [
+      "拉塞尔·穆卡希"
+    ],
+    "rate": "7.3",
+    "cover_x": 1013,
+    "star": "35",
+    "title": "生化危机3：灭绝",
+    "url": "https://movie.douban.com/subject/1482911/",
+    "casts": [
+      "米拉·乔沃维奇",
+      "奥德·菲尔",
+      "伊恩·格雷",
+      "艾丽·拉特",
+      "亚香缇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2165451110.jpg",
+    "id": "1482911",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "盖瑞·罗斯"
+    ],
+    "rate": "7.0",
+    "cover_x": 809,
+    "star": "35",
+    "title": "饥饿游戏",
+    "url": "https://movie.douban.com/subject/3592853/",
+    "casts": [
+      "詹妮弗·劳伦斯",
+      "乔什·哈切森",
+      "利亚姆·海姆斯沃斯",
+      "韦斯·本特利",
+      "伊丽莎白·班克斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1460591675.jpg",
+    "id": "3592853",
+    "cover_y": 1192
+  },
+  {
+    "directors": [
+      "冯小宁"
+    ],
+    "rate": "6.9",
+    "cover_x": 661,
+    "star": "35",
+    "title": "举起手来！",
+    "url": "https://movie.douban.com/subject/1394968/",
+    "casts": [
+      "郭达",
+      "潘长江",
+      "刘小微",
+      "李明",
+      "胡晓光"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1538030270.jpg",
+    "id": "1394968",
+    "cover_y": 900
+  },
+  {
+    "directors": [
+      "徐纪周"
+    ],
+    "rate": "5.9",
+    "cover_x": 716,
+    "star": "30",
+    "title": "心理罪之城市之光",
+    "url": "https://movie.douban.com/subject/26774722/",
+    "casts": [
+      "邓超",
+      "阮经天",
+      "刘诗诗",
+      "文淇",
+      "林嘉欣"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506228506.jpg",
+    "id": "26774722",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "伏原健之"
+    ],
+    "rate": "9.5",
+    "cover_x": 566,
+    "star": "50",
+    "title": "人生果实",
+    "url": "https://movie.douban.com/subject/26874505/",
+    "casts": [
+      "津端修一",
+      "津端英子",
+      "树木希林"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2544912792.jpg",
+    "id": "26874505",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "于淼"
+    ],
+    "rate": "6.9",
+    "cover_x": 2362,
+    "star": "35",
+    "title": "大赢家",
+    "url": "https://movie.douban.com/subject/34670218/",
+    "casts": [
+      "大鹏",
+      "柳岩",
+      "代乐乐",
+      "张子贤",
+      "田雨"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2591946932.jpg",
+    "id": "34670218",
+    "cover_y": 3307
+  },
+  {
+    "directors": [
+      "郭子健"
+    ],
+    "rate": "5.1",
+    "cover_x": 3000,
+    "star": "25",
+    "title": "悟空传",
+    "url": "https://movie.douban.com/subject/26035290/",
+    "casts": [
+      "彭于晏",
+      "倪妮",
+      "余文乐",
+      "俞飞鸿",
+      "欧豪"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2475060299.jpg",
+    "id": "26035290",
+    "cover_y": 4190
+  },
+  {
+    "directors": [
+      "加斯·詹宁斯",
+      "克里斯托夫·卢尔德莱"
+    ],
+    "rate": "8.1",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "欢乐好声音",
+    "url": "https://movie.douban.com/subject/26354572/",
+    "casts": [
+      "马修·麦康纳",
+      "瑞茜·威瑟斯彭",
+      "塞思·麦克法兰",
+      "斯嘉丽·约翰逊",
+      "约翰·C·赖利"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg",
+    "id": "26354572",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "亚历杭德罗·冈萨雷斯·伊纳里图"
+    ],
+    "rate": "7.9",
+    "cover_x": 2103,
+    "star": "40",
+    "title": "荒野猎人",
+    "url": "https://movie.douban.com/subject/5327268/",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "汤姆·哈迪",
+      "多姆纳尔·格里森",
+      "威尔·保尔特",
+      "福勒斯特·古德勒克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2323258429.jpg",
+    "id": "5327268",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "茂文·勒鲁瓦",
+      "伍经纬"
+    ],
+    "rate": "8.8",
+    "cover_x": 1400,
+    "star": "45",
+    "title": "魂断蓝桥",
+    "url": "https://movie.douban.com/subject/1293964/",
+    "casts": [
+      "费雯·丽",
+      "罗伯特·泰勒",
+      "露塞尔·沃特森",
+      "弗吉尼亚·菲尔德",
+      "玛丽亚·彭斯卡娅"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg",
+    "id": "1293964",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "郭在容"
+    ],
+    "rate": "8.2",
+    "cover_x": 598,
+    "star": "40",
+    "title": "我的野蛮女友",
+    "url": "https://movie.douban.com/subject/1292286/",
+    "casts": [
+      "全智贤",
+      "车太贤",
+      "金仁文",
+      "宋玉淑",
+      "韩振熙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p489336497.jpg",
+    "id": "1292286",
+    "cover_y": 858
+  },
+  {
+    "directors": [
+      "格恩迪·塔塔科夫斯基"
+    ],
+    "rate": "7.7",
+    "cover_x": 1474,
+    "star": "40",
+    "title": "精灵旅社2",
+    "url": "https://movie.douban.com/subject/21327493/",
+    "casts": [
+      "亚当·桑德勒",
+      "安迪·萨姆伯格",
+      "赛琳娜·戈麦斯",
+      "阿什·布林克夫",
+      "凯文·詹姆斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2276842218.jpg",
+    "id": "21327493",
+    "cover_y": 2068
+  },
+  {
+    "directors": [
+      "马丁·坎贝尔"
+    ],
+    "rate": "7.0",
+    "cover_x": 1200,
+    "star": "35",
+    "title": "英伦对决",
+    "url": "https://movie.douban.com/subject/25723583/",
+    "casts": [
+      "成龙",
+      "皮尔斯·布鲁斯南",
+      "刘涛",
+      "梁佩诗",
+      "夏莉·墨菲"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499135561.jpg",
+    "id": "25723583",
+    "cover_y": 1875
+  },
+  {
+    "directors": [
+      "林孝谦"
+    ],
+    "rate": "4.8",
+    "cover_x": 1405,
+    "star": "25",
+    "title": "比悲伤更悲伤的故事",
+    "url": "https://movie.douban.com/subject/27624661/",
+    "casts": [
+      "陈意涵",
+      "刘以豪",
+      "张书豪",
+      "陈庭妮",
+      "吴映洁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549523952.jpg",
+    "id": "27624661",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "7.4",
+    "cover_x": 1654,
+    "star": "35",
+    "title": "英雄",
+    "url": "https://movie.douban.com/subject/1306123/",
+    "casts": [
+      "李连杰",
+      "梁朝伟",
+      "张曼玉",
+      "章子怡",
+      "陈道明"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1774548839.jpg",
+    "id": "1306123",
+    "cover_y": 2338
+  },
+  {
+    "directors": [
+      "斯蒂文·S·迪奈特"
+    ],
+    "rate": "5.5",
+    "cover_x": 2000,
+    "star": "30",
+    "title": "环太平洋：雷霆再起",
+    "url": "https://movie.douban.com/subject/20435622/",
+    "casts": [
+      "约翰·博耶加",
+      "斯科特·伊斯特伍德",
+      "卡莉·史派妮",
+      "景甜",
+      "查理·戴"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512933684.jpg",
+    "id": "20435622",
+    "cover_y": 2839
+  },
+  {
+    "directors": [
+      "李应福",
+      "白尚勋"
+    ],
+    "rate": "8.0",
+    "cover_x": 540,
+    "star": "40",
+    "title": "太阳的后裔",
+    "url": "https://movie.douban.com/subject/25831874/",
+    "casts": [
+      "宋慧乔",
+      "宋仲基",
+      "金智媛",
+      "晋久",
+      "李成俊"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2315652554.jpg",
+    "id": "25831874",
+    "cover_y": 771
+  },
+  {
+    "directors": [
+      "董润年"
+    ],
+    "rate": "7.0",
+    "cover_x": 4096,
+    "star": "35",
+    "title": "被光抓走的人",
+    "url": "https://movie.douban.com/subject/30394535/",
+    "casts": [
+      "黄渤",
+      "王珞丹",
+      "谭卓",
+      "白客",
+      "黄璐"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575887979.jpg",
+    "id": "30394535",
+    "cover_y": 8192
+  }
+]

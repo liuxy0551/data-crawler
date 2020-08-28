@@ -1,0 +1,411 @@
+[
+  {
+    "directors": [
+      "维拉奇·通吉拉"
+    ],
+    "rate": "7.0",
+    "cover_x": 700,
+    "star": "35",
+    "title": "假偶天成",
+    "url": "https://movie.douban.com/subject/34786767/",
+    "casts": [
+      "瓦奇拉维特·奇瓦雷",
+      "梅塔文·欧帕西安卡琼",
+      "德雷克·莱德克",
+      "弗兰克·萨纳萨兰",
+      "辛纳拉·西里朋查瓦雷"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571538896.jpg",
+    "id": "34786767",
+    "cover_y": 990
+  },
+  {
+    "directors": [
+      "乔丹·皮尔"
+    ],
+    "rate": "6.4",
+    "cover_x": 3600,
+    "star": "30",
+    "title": "我们",
+    "url": "https://movie.douban.com/subject/27053945/",
+    "casts": [
+      "露皮塔·尼永奥",
+      "温斯顿·杜克",
+      "伊丽莎白·莫斯",
+      "蒂姆·海德克",
+      "莎哈迪·赖特·约瑟夫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551399400.jpg",
+    "id": "27053945",
+    "cover_y": 5700
+  },
+  {
+    "directors": [
+      "卓建荣"
+    ],
+    "rate": "2.6",
+    "cover_x": 5906,
+    "star": "15",
+    "title": "汽车人总动员",
+    "url": "https://movie.douban.com/subject/26416155/",
+    "casts": [
+      "刘馨萱",
+      "沈桦",
+      "袁文革",
+      "胡达威",
+      "夏甜"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2253581205.jpg",
+    "id": "26416155",
+    "cover_y": 8346
+  },
+  {
+    "directors": [
+      "毛卫宁"
+    ],
+    "rate": "8.7",
+    "cover_x": 4659,
+    "star": "45",
+    "title": "平凡的世界",
+    "url": "https://movie.douban.com/subject/25851665/",
+    "casts": [
+      "佟丽娅",
+      "袁弘",
+      "王雷",
+      "李小萌",
+      "刘威"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2460932451.jpg",
+    "id": "25851665",
+    "cover_y": 6030
+  },
+  {
+    "directors": [
+      "北野武"
+    ],
+    "rate": "8.4",
+    "cover_x": 550,
+    "star": "40",
+    "title": "那年夏天，宁静的海",
+    "url": "https://movie.douban.com/subject/1295815/",
+    "casts": [
+      "真木藏人",
+      "大岛弘子",
+      "河原萨布",
+      "寺岛进",
+      "渡边哲"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2153209777.jpg",
+    "id": "1295815",
+    "cover_y": 776
+  },
+  {
+    "directors": [
+      "网野哲朗"
+    ],
+    "rate": "8.3",
+    "cover_x": 700,
+    "star": "40",
+    "title": "四驱兄弟",
+    "url": "https://movie.douban.com/subject/2990287/",
+    "casts": [
+      "安藤亚里沙",
+      "池泽春菜",
+      "高乃丽",
+      "神代知衣",
+      "渡边久美子"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554018844.jpg",
+    "id": "2990287",
+    "cover_y": 1050
+  },
+  {
+    "directors": [
+      "吉列尔莫·莫拉莱斯",
+      "格雷姆·哈珀"
+    ],
+    "rate": "9.3",
+    "cover_x": 1055,
+    "star": "45",
+    "title": "9号秘事 第三季",
+    "url": "https://movie.douban.com/subject/26647711/",
+    "casts": [
+      "史蒂夫·佩姆伯顿",
+      "里斯·谢尔史密斯",
+      "费奥纳·肖",
+      "杰森·沃特金斯",
+      "凯莉·霍威"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2430181112.jpg",
+    "id": "26647711",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "张建亚"
+    ],
+    "rate": "6.4",
+    "cover_x": 550,
+    "star": "30",
+    "title": "爱情呼叫转移",
+    "url": "https://movie.douban.com/subject/1927686/",
+    "casts": [
+      "徐峥",
+      "刘仪伟",
+      "宁静",
+      "白冰",
+      "伊能静"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p486787456.jpg",
+    "id": "1927686",
+    "cover_y": 810
+  },
+  {
+    "directors": [
+      "贾樟柯"
+    ],
+    "rate": "8.4",
+    "cover_x": 2225,
+    "star": "40",
+    "title": "小武",
+    "url": "https://movie.douban.com/subject/1291851/",
+    "casts": [
+      "王宏伟",
+      "郝鸿建",
+      "左夏初"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2274317161.jpg",
+    "id": "1291851",
+    "cover_y": 3036
+  },
+  {
+    "directors": [
+      "格里高利·霍布里特"
+    ],
+    "rate": "8.4",
+    "cover_x": 671,
+    "star": "40",
+    "title": "黑洞频率",
+    "url": "https://movie.douban.com/subject/1294183/",
+    "casts": [
+      "丹尼斯·奎德",
+      "吉姆·卡维泽",
+      "肖恩·多伊尔",
+      "伊丽莎白·米切尔",
+      "诺亚·艾默里奇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p812857342.jpg",
+    "id": "1294183",
+    "cover_y": 972
+  },
+  {
+    "directors": [
+      "迈克尔·帕特里克·金",
+      "David Trainer",
+      "唐·斯卡尔蒂诺",
+      "约翰·里吉",
+      "詹姆斯·伯罗斯",
+      "凯瑟琳·马歇尔",
+      "凯蒂·加瑞森"
+    ],
+    "rate": "8.2",
+    "cover_x": 676,
+    "star": "40",
+    "title": "破产姐妹 第五季",
+    "url": "https://movie.douban.com/subject/26342541/",
+    "casts": [
+      "凯特·戴琳斯",
+      "贝丝·比厄",
+      "加勒特·莫里斯",
+      "马修·摩伊",
+      "乔纳森·克特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2573503773.jpg",
+    "id": "26342541",
+    "cover_y": 960
+  },
+  {
+    "directors": [
+      "王川"
+    ],
+    "rate": "7.9",
+    "cover_x": 800,
+    "star": "40",
+    "title": "魁拔之大战元泱界",
+    "url": "https://movie.douban.com/subject/7051357/",
+    "casts": [
+      "刘婧荦",
+      "刘校妤",
+      "王凯",
+      "敖磊",
+      "瞿澳晖"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1966309325.jpg",
+    "id": "7051357",
+    "cover_y": 1130
+  },
+  {
+    "directors": [
+      "乔纳森·莱文"
+    ],
+    "rate": "7.5",
+    "cover_x": 4055,
+    "star": "40",
+    "title": "血肉之躯",
+    "url": "https://movie.douban.com/subject/6021916/",
+    "casts": [
+      "尼古拉斯·霍尔特",
+      "泰莉莎·帕尔墨",
+      "约翰·马尔科维奇",
+      "戴夫·弗兰科",
+      "安娜丽·提普顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1828783542.jpg",
+    "id": "6021916",
+    "cover_y": 6006
+  },
+  {
+    "directors": [
+      "乔治·米勒",
+      "沃伦·科尔曼",
+      "朱迪·莫里斯"
+    ],
+    "rate": "7.4",
+    "cover_x": 702,
+    "star": "35",
+    "title": "快乐的大脚",
+    "url": "https://movie.douban.com/subject/1760027/",
+    "casts": [
+      "伊利亚·伍德",
+      "布莱特妮·墨菲",
+      "休·杰克曼",
+      "妮可·基德曼",
+      "罗宾·威廉姆斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2199294148.jpg",
+    "id": "1760027",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "凯文·雷诺兹"
+    ],
+    "rate": "7.4",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "未来水世界",
+    "url": "https://movie.douban.com/subject/1294037/",
+    "casts": [
+      "凯文·科斯特纳",
+      "珍妮·特里普里霍恩",
+      "蒂娜·米乔里诺",
+      "瑞克阿维莱斯",
+      "吴永庆"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2159099238.jpg",
+    "id": "1294037",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "罗德里戈·格兰德"
+    ],
+    "rate": "7.2",
+    "cover_x": 1134,
+    "star": "35",
+    "title": "隧道尽头",
+    "url": "https://movie.douban.com/subject/26661229/",
+    "casts": [
+      "莱昂纳多·斯巴拉格利亚",
+      "巴勃罗·埃查里",
+      "克拉拉·拉戈",
+      "费德里科·路皮",
+      "Uma Salduende"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563538599.jpg",
+    "id": "26661229",
+    "cover_y": 1587
+  },
+  {
+    "directors": [
+      "谢涤葵",
+      "林妍"
+    ],
+    "rate": "5.9",
+    "cover_x": 1432,
+    "star": "30",
+    "title": "爸爸去哪儿",
+    "url": "https://movie.douban.com/subject/25785314/",
+    "casts": [
+      "林志颖",
+      "小小志",
+      "王岳伦",
+      "王诗龄",
+      "张亮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2165007211.jpg",
+    "id": "25785314",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "威廉·尤班克"
+    ],
+    "rate": "5.9",
+    "cover_x": 2765,
+    "star": "30",
+    "title": "深海异兽",
+    "url": "https://movie.douban.com/subject/26981442/",
+    "casts": [
+      "克里斯汀·斯图尔特",
+      "文森特·卡索",
+      "杰西卡·亨维克",
+      "T·J·米勒",
+      "小约翰·加拉赫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2576665910.jpg",
+    "id": "26981442",
+    "cover_y": 4096
+  },
+  {
+    "directors": [
+      "贾弗尔·马哈穆德"
+    ],
+    "rate": "9.4",
+    "cover_x": 2000,
+    "star": "45",
+    "title": "小谢尔顿 第三季",
+    "url": "https://movie.douban.com/subject/30467485/",
+    "casts": [
+      "伊恩·阿米蒂奇",
+      "佐伊·派瑞",
+      "吉姆·帕森斯",
+      "兰斯·巴伯",
+      "蒙塔纳·乔丹"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2567488952.jpg",
+    "id": "30467485",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "刘进",
+      "黄伟"
+    ],
+    "rate": "8.8",
+    "cover_x": 600,
+    "star": "45",
+    "title": "白鹿原",
+    "url": "https://movie.douban.com/subject/26322644/",
+    "casts": [
+      "张嘉益",
+      "秦海璐",
+      "何冰",
+      "刘佩琦",
+      "李洪涛"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458656244.jpg",
+    "id": "26322644",
+    "cover_y": 800
+  }
+]

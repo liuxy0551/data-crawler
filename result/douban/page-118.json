@@ -1,0 +1,412 @@
+[
+  {
+    "directors": [
+      "大地丙太郎",
+      "赤城博昭",
+      "山本泰一郎",
+      "村野佑太",
+      "矢花馨",
+      "神原敏昭",
+      "向井雅浩"
+    ],
+    "rate": "9.0",
+    "cover_x": 848,
+    "star": "45",
+    "title": "元气少女缘结神◎",
+    "url": "https://movie.douban.com/subject/25945110/",
+    "casts": [
+      "三森铃子",
+      "立花慎之介",
+      "冈本信彦",
+      "石田彰",
+      "岸尾大辅"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209595148.jpg",
+    "id": "25945110",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "西摩·克尼特尔",
+      "吉恩·戴奇",
+      "Bob Bemiller",
+      "约翰·哈拉斯",
+      "杰克·金尼"
+    ],
+    "rate": "8.5",
+    "cover_x": 700,
+    "star": "45",
+    "title": "大力水手 第一季",
+    "url": "https://movie.douban.com/subject/1781636/",
+    "casts": [
+      "杰克逊·贝克",
+      "杰克·默瑟",
+      "梅·奎斯特尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518122800.jpg",
+    "id": "1781636",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "韦斯·安德森"
+    ],
+    "rate": "8.3",
+    "cover_x": 1984,
+    "star": "40",
+    "title": "月升王国",
+    "url": "https://movie.douban.com/subject/5360889/",
+    "casts": [
+      "杰瑞德·吉尔曼 ",
+      "卡拉·海沃德",
+      "布鲁斯·威利斯",
+      "爱德华·诺顿",
+      "弗兰西斯·麦克多蒙德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1791964116.jpg",
+    "id": "5360889",
+    "cover_y": 2835
+  },
+  {
+    "directors": [
+      "王晶"
+    ],
+    "rate": "3.3",
+    "cover_x": 1000,
+    "star": "15",
+    "title": "王牌逗王牌",
+    "url": "https://movie.douban.com/subject/26662192/",
+    "casts": [
+      "刘德华",
+      "黄晓明",
+      "王祖蓝",
+      "胡然",
+      "欧阳娜娜"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2380681527.jpg",
+    "id": "26662192",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "罗勒·莎菲"
+    ],
+    "rate": "7.7",
+    "cover_x": 1011,
+    "star": "40",
+    "title": "成长教育",
+    "url": "https://movie.douban.com/subject/3011093/",
+    "casts": [
+      "凯瑞·穆里根",
+      "彼得·萨斯加德",
+      "阿尔弗雷德·莫里纳",
+      "卡拉·西摩",
+      "奥莉维亚·威廉姆斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p465499294.jpg",
+    "id": "3011093",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "提莫·贝克曼贝托夫"
+    ],
+    "rate": "7.4",
+    "cover_x": 777,
+    "star": "35",
+    "title": "通缉令",
+    "url": "https://movie.douban.com/subject/1945336/",
+    "casts": [
+      "詹姆斯·麦卡沃伊",
+      "摩根·弗里曼",
+      "安吉丽娜·朱莉",
+      "特伦斯·斯坦普",
+      "托马斯·克莱舒曼"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p947402638.jpg",
+    "id": "1945336",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "拉加·高斯内尔"
+    ],
+    "rate": "7.2",
+    "cover_x": 523,
+    "star": "35",
+    "title": "蓝精灵",
+    "url": "https://movie.douban.com/subject/2159331/",
+    "casts": [
+      "尼尔·帕特里克·哈里斯",
+      "杰玛·梅斯",
+      "汉克·阿扎利亚",
+      "乔纳森·温特斯",
+      "凯蒂·派瑞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p884990120.jpg",
+    "id": "2159331",
+    "cover_y": 776
+  },
+  {
+    "directors": [
+      "保罗·费格"
+    ],
+    "rate": "7.2",
+    "cover_x": 1974,
+    "star": "35",
+    "title": "一个小忙",
+    "url": "https://movie.douban.com/subject/27072988/",
+    "casts": [
+      "安娜·肯德里克",
+      "布蕾克·莱弗利",
+      "亨利·戈尔丁",
+      "伊恩·霍",
+      "乔舒亚·萨蒂尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527824211.jpg",
+    "id": "27072988",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "乔·庄斯顿"
+    ],
+    "rate": "8.1",
+    "cover_x": 520,
+    "star": "40",
+    "title": "勇敢者的游戏",
+    "url": "https://movie.douban.com/subject/1294990/",
+    "casts": [
+      "罗宾·威廉姆斯",
+      "乔纳森·海德",
+      "克斯汀·邓斯特",
+      "布莱德利·皮尔斯",
+      "派翠西娅·克拉克森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493837209.jpg",
+    "id": "1294990",
+    "cover_y": 778
+  },
+  {
+    "directors": [
+      "扬·德·邦特"
+    ],
+    "rate": "8.1",
+    "cover_x": 1770,
+    "star": "40",
+    "title": "生死时速",
+    "url": "https://movie.douban.com/subject/1293167/",
+    "casts": [
+      "基努·里维斯",
+      "桑德拉·布洛克",
+      "丹尼斯·霍珀",
+      "乔·莫顿",
+      "杰夫·丹尼尔斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2182085556.jpg",
+    "id": "1293167",
+    "cover_y": 2625
+  },
+  {
+    "directors": [
+      "麦曦茵"
+    ],
+    "rate": "7.0",
+    "cover_x": 760,
+    "star": "35",
+    "title": "前度",
+    "url": "https://movie.douban.com/subject/4709904/",
+    "casts": [
+      "陈伟霆",
+      "钟欣潼",
+      "卫诗雅",
+      "曾国祥",
+      "周俊伟"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p509221460.jpg",
+    "id": "4709904",
+    "cover_y": 1024
+  },
+  {
+    "directors": [
+      "郑伟文"
+    ],
+    "rate": "6.1",
+    "cover_x": 1280,
+    "star": "30",
+    "title": "招摇",
+    "url": "https://movie.douban.com/subject/27075195/",
+    "casts": [
+      "白鹿",
+      "许凯",
+      "代旭",
+      "肖燕",
+      "米露"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546429634.jpg",
+    "id": "27075195",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "钱人豪"
+    ],
+    "rate": "3.8",
+    "cover_x": 1700,
+    "star": "20",
+    "title": "京城81号2",
+    "url": "https://movie.douban.com/subject/26662798/",
+    "casts": [
+      "张智霖",
+      "梅婷",
+      "钟欣潼",
+      "耿乐",
+      "邬君梅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2471580153.jpg",
+    "id": "26662798",
+    "cover_y": 2551
+  },
+  {
+    "directors": [
+      "谢晋",
+      "黄蜀芹"
+    ],
+    "rate": "8.9",
+    "cover_x": 400,
+    "star": "45",
+    "title": "牧马人",
+    "url": "https://movie.douban.com/subject/1308038/",
+    "casts": [
+      "朱时茂",
+      "丛珊",
+      "刘琼",
+      "牛犇",
+      "雷仲谦"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517627958.jpg",
+    "id": "1308038",
+    "cover_y": 574
+  },
+  {
+    "directors": [
+      "克里斯·曼利",
+      "哈里·杰尔詹"
+    ],
+    "rate": "8.4",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "末日巡逻队 第二季",
+    "url": "https://movie.douban.com/subject/33462298/",
+    "casts": [
+      "提摩西·道尔顿",
+      "黛安·格雷罗",
+      "艾普尔·鲍白",
+      "阿比盖尔·夏皮罗",
+      "马特·波莫"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2608239737.jpg",
+    "id": "33462298",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "加斯·詹宁斯"
+    ],
+    "rate": "8.1",
+    "cover_x": 1024,
+    "star": "40",
+    "title": "银河系漫游指南",
+    "url": "https://movie.douban.com/subject/1292267/",
+    "casts": [
+      "马丁·弗瑞曼",
+      "茅斯·达夫",
+      "山姆·洛克威尔",
+      "佐伊·丹斯切尔",
+      "沃维克·戴维斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1985335323.jpg",
+    "id": "1292267",
+    "cover_y": 1520
+  },
+  {
+    "directors": [
+      "乔纳森·莫斯托"
+    ],
+    "rate": "8.1",
+    "cover_x": 418,
+    "star": "40",
+    "title": "猎杀U-571",
+    "url": "https://movie.douban.com/subject/1293770/",
+    "casts": [
+      "马修·麦康纳",
+      "比尔·帕克斯顿",
+      "哈威·凯特尔",
+      "乔恩·邦·乔维",
+      "大卫·凯斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p734370021.jpg",
+    "id": "1293770",
+    "cover_y": 602
+  },
+  {
+    "directors": [
+      "巴兹·鲁赫曼"
+    ],
+    "rate": "7.9",
+    "cover_x": 800,
+    "star": "40",
+    "title": "红磨坊",
+    "url": "https://movie.douban.com/subject/1304641/",
+    "casts": [
+      "妮可·基德曼",
+      "伊万·麦克格雷格",
+      "约翰·雷吉扎莫",
+      "吉姆·布劳德本特",
+      "理查德·劳斯伯格"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454640615.jpg",
+    "id": "1304641",
+    "cover_y": 1189
+  },
+  {
+    "directors": [
+      "唐季礼"
+    ],
+    "rate": "7.5",
+    "cover_x": 772,
+    "star": "40",
+    "title": "警察故事4：简单任务",
+    "url": "https://movie.douban.com/subject/1296947/",
+    "casts": [
+      "成龙",
+      "董骠",
+      "楼学贤",
+      "吴辰君",
+      "卢惠光"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1754446563.jpg",
+    "id": "1296947",
+    "cover_y": 1039
+  },
+  {
+    "directors": [
+      "奥利弗·帕克"
+    ],
+    "rate": "7.2",
+    "cover_x": 800,
+    "star": "35",
+    "title": "憨豆特工2",
+    "url": "https://movie.douban.com/subject/4767216/",
+    "casts": [
+      "罗温·艾金森",
+      "吉莲·安德森",
+      "多米尼克·韦斯特",
+      "裴淳华",
+      "丹尼尔·卡卢亚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2209714613.jpg",
+    "id": "4767216",
+    "cover_y": 1185
+  }
+]

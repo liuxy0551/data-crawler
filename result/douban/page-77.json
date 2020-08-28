@@ -1,0 +1,425 @@
+[
+  {
+    "directors": [
+      "角铜博之",
+      "芝田浩树",
+      "川田武范",
+      "今泽哲男",
+      "早川启二",
+      "志水淳儿",
+      "小坂春女",
+      "中村哲治",
+      "细田守"
+    ],
+    "rate": "9.3",
+    "cover_x": 484,
+    "star": "45",
+    "title": "数码宝贝",
+    "url": "https://movie.douban.com/subject/1970134/",
+    "casts": [
+      "藤田淑子",
+      "风间勇刀",
+      "水谷优子",
+      "天神有海",
+      "前田爱"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510125071.jpg",
+    "id": "1970134",
+    "cover_y": 640
+  },
+  {
+    "directors": [
+      "欧文·哈里斯",
+      "布林·希金斯",
+      "卡尔·蒂贝茨"
+    ],
+    "rate": "9.2",
+    "cover_x": 1064,
+    "star": "45",
+    "title": "黑镜 第二季",
+    "url": "https://movie.douban.com/subject/11502153/",
+    "casts": [
+      "海莉·阿特维尔",
+      "多姆纳尔·格里森",
+      "塔彭丝·米德尔顿",
+      "勒诺拉·克里奇洛",
+      "丹尼尔·里格比"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1937639715.jpg",
+    "id": "11502153",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "马特·达菲",
+      "罗斯·达菲",
+      "肖恩·利维",
+      "安德鲁·斯坦顿",
+      "丽贝卡·托马斯"
+    ],
+    "rate": "8.8",
+    "cover_x": 1500,
+    "star": "45",
+    "title": "怪奇物语 第二季",
+    "url": "https://movie.douban.com/subject/26844438/",
+    "casts": [
+      "薇诺娜·瑞德",
+      "米莉·波比·布朗",
+      "大卫·哈伯",
+      "娜塔莉·戴尔",
+      "诺亚·施纳普"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502853643.jpg",
+    "id": "26844438",
+    "cover_y": 2241
+  },
+  {
+    "directors": [
+      "陆伟"
+    ],
+    "rate": "8.8",
+    "cover_x": 1080,
+    "star": "45",
+    "title": "这！就是街舞 第二季",
+    "url": "https://movie.douban.com/subject/30486671/",
+    "casts": [
+      "易烊千玺",
+      "罗志祥",
+      "韩庚",
+      "吴建豪",
+      "韩宇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2552553650.jpg",
+    "id": "30486671",
+    "cover_y": 1566
+  },
+  {
+    "directors": [
+      "矢吹公郎",
+      "古泽日出夫",
+      "今泽哲男"
+    ],
+    "rate": "8.7",
+    "cover_x": 550,
+    "star": "45",
+    "title": "聪明的一休",
+    "url": "https://movie.douban.com/subject/1883755/",
+    "casts": [
+      "藤田淑子",
+      "桂玲子",
+      "宫内幸平",
+      "增山江威子",
+      "野田圭一"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2550674130.jpg",
+    "id": "1883755",
+    "cover_y": 779
+  },
+  {
+    "directors": [
+      "细田守"
+    ],
+    "rate": "8.6",
+    "cover_x": 1452,
+    "star": "45",
+    "title": "狼的孩子雨和雪",
+    "url": "https://movie.douban.com/subject/7064681/",
+    "casts": [
+      "宫崎葵",
+      "大泽隆夫",
+      "黑木华",
+      "西井幸人",
+      "大野百花"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1667896544.jpg",
+    "id": "7064681",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "王晶"
+    ],
+    "rate": "7.5",
+    "cover_x": 489,
+    "star": "40",
+    "title": "赌侠2：上海滩赌圣",
+    "url": "https://movie.douban.com/subject/1302977/",
+    "casts": [
+      "周星驰",
+      "巩俐",
+      "吕良伟",
+      "向华强",
+      "吴君如"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2349573639.jpg",
+    "id": "1302977",
+    "cover_y": 737
+  },
+  {
+    "directors": [
+      "芝山努",
+      "棚桥一德",
+      "楠叶宏三",
+      "佐藤龙雄",
+      "高木淳",
+      "高松信司",
+      "小林常夫",
+      "宫下新平",
+      "片渊须直"
+    ],
+    "rate": "9.1",
+    "cover_x": 448,
+    "star": "45",
+    "title": "樱桃小丸子",
+    "url": "https://movie.douban.com/subject/1465037/",
+    "casts": [
+      "鳕子",
+      "水谷优子",
+      "一龙斋贞友",
+      "屋良有作",
+      "富山敬"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2347386817.jpg",
+    "id": "1465037",
+    "cover_y": 672
+  },
+  {
+    "directors": [
+      "高畑勋"
+    ],
+    "rate": "8.6",
+    "cover_x": 637,
+    "star": "45",
+    "title": "岁月的童话",
+    "url": "https://movie.douban.com/subject/1291588/",
+    "casts": [
+      "今井美树",
+      "柳叶敏郎",
+      "本名阳子",
+      "高桥一生",
+      "饭冢雅弓"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453886709.jpg",
+    "id": "1291588",
+    "cover_y": 903
+  },
+  {
+    "directors": [
+      "乔·舒马赫"
+    ],
+    "rate": "7.9",
+    "cover_x": 2674,
+    "star": "40",
+    "title": "狙击电话亭",
+    "url": "https://movie.douban.com/subject/1303246/",
+    "casts": [
+      "科林·法瑞尔",
+      "基弗·萨瑟兰",
+      "福里斯特·惠特克",
+      "拉达·米切尔",
+      "凯蒂·霍尔姆斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1593362214.jpg",
+    "id": "1303246",
+    "cover_y": 3983
+  },
+  {
+    "directors": [
+      "刘观伟"
+    ],
+    "rate": "8.3",
+    "cover_x": 1021,
+    "star": "40",
+    "title": "僵尸先生",
+    "url": "https://movie.douban.com/subject/1295933/",
+    "casts": [
+      "林正英",
+      "许冠英",
+      "钱小豪",
+      "李赛凤",
+      "楼南光"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2046376938.jpg",
+    "id": "1295933",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "扎克·施奈德"
+    ],
+    "rate": "7.8",
+    "cover_x": 4050,
+    "star": "40",
+    "title": "斯巴达300勇士",
+    "url": "https://movie.douban.com/subject/1853176/",
+    "casts": [
+      "杰拉德·巴特勒",
+      "琳娜·海蒂",
+      "多米尼克·韦斯特",
+      "大卫·文翰",
+      "文森特·里根"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443321967.jpg",
+    "id": "1853176",
+    "cover_y": 6000
+  },
+  {
+    "directors": [
+      "十一月"
+    ],
+    "rate": "7.4",
+    "cover_x": 500,
+    "star": "35",
+    "title": "全职高手",
+    "url": "https://movie.douban.com/subject/26660368/",
+    "casts": [
+      "杨洋",
+      "江疏影",
+      "赖雨濛",
+      "梁森",
+      "李沐宸"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563437048.jpg",
+    "id": "26660368",
+    "cover_y": 700
+  },
+  {
+    "directors": [
+      "理查德·林克莱特"
+    ],
+    "rate": "8.5",
+    "cover_x": 3462,
+    "star": "45",
+    "title": "少年时代",
+    "url": "https://movie.douban.com/subject/2209575/",
+    "casts": [
+      "埃拉·科尔特兰",
+      "帕特丽夏·阿奎特",
+      "伊桑·霍克",
+      "罗蕾莱·林克莱特",
+      "史蒂芬·切斯特·普林斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187391526.jpg",
+    "id": "2209575",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "金道勋",
+      "李成俊"
+    ],
+    "rate": "8.1",
+    "cover_x": 480,
+    "star": "40",
+    "title": "拥抱太阳的月亮",
+    "url": "https://movie.douban.com/subject/7051270/",
+    "casts": [
+      "韩佳人",
+      "金秀贤",
+      "丁一宇",
+      "南宝拉",
+      "金旼序"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1473075899.jpg",
+    "id": "7051270",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "黄毅瑜"
+    ],
+    "rate": "7.1",
+    "cover_x": 1563,
+    "star": "35",
+    "title": "死神来了3",
+    "url": "https://movie.douban.com/subject/1436870/",
+    "casts": [
+      "玛丽·伊丽莎白·温斯特德",
+      "瑞恩·莫里曼",
+      "克里斯·勒姆彻",
+      "亚莉克兹·约翰逊",
+      "萨姆·伊斯顿"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1332895335.jpg",
+    "id": "1436870",
+    "cover_y": 2170
+  },
+  {
+    "directors": [
+      "刘新"
+    ],
+    "rate": "7.1",
+    "cover_x": 1762,
+    "star": "35",
+    "title": "猎狐",
+    "url": "https://movie.douban.com/subject/26984534/",
+    "casts": [
+      "王凯",
+      "王鸥",
+      "胡军",
+      "刘奕君",
+      "邓家佳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595491737.jpg",
+    "id": "26984534",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "詹姆斯·格雷"
+    ],
+    "rate": "6.7",
+    "cover_x": 682,
+    "star": "35",
+    "title": "星际探索",
+    "url": "https://movie.douban.com/subject/24716039/",
+    "casts": [
+      "布拉德·皮特",
+      "汤米·李·琼斯",
+      "丽芙·泰勒",
+      "鲁丝·内伽",
+      "唐纳德·萨瑟兰"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2576088318.jpg",
+    "id": "24716039",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "安建"
+    ],
+    "rate": "6.3",
+    "cover_x": 1432,
+    "star": "30",
+    "title": "安家",
+    "url": "https://movie.douban.com/subject/30482003/",
+    "casts": [
+      "孙俪",
+      "罗晋",
+      "张萌",
+      "王自健",
+      "田雷"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2587877550.jpg",
+    "id": "30482003",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "罗英石"
+    ],
+    "rate": "9.5",
+    "cover_x": 639,
+    "star": "50",
+    "title": "三时三餐 渔村篇 第五季",
+    "url": "https://movie.douban.com/subject/35049066/",
+    "casts": [
+      "车胜元",
+      "孙浩俊",
+      "柳海真"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2600098664.jpg",
+    "id": "35049066",
+    "cover_y": 906
+  }
+]

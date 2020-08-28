@@ -1,0 +1,408 @@
+[
+  {
+    "directors": [
+      "埃里克·达尼尔",
+      "汤姆·麦格拉思"
+    ],
+    "rate": "7.9",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "马达加斯加",
+    "url": "https://movie.douban.com/subject/1309201/",
+    "casts": [
+      "本·斯蒂勒",
+      "克里斯·洛克",
+      "大卫·休默",
+      "贾达·萍克·史密斯",
+      "萨莎·拜伦·科恩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1971268235.jpg",
+    "id": "1309201",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "鲁伯特·桑德斯"
+    ],
+    "rate": "6.4",
+    "cover_x": 2048,
+    "star": "30",
+    "title": "攻壳机动队",
+    "url": "https://movie.douban.com/subject/25818101/",
+    "casts": [
+      "斯嘉丽·约翰逊",
+      "皮鲁·埃斯贝克",
+      "北野武",
+      "朱丽叶·比诺什",
+      "迈克尔·皮特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2453176400.jpg",
+    "id": "25818101",
+    "cover_y": 3023
+  },
+  {
+    "directors": [
+      "回宇"
+    ],
+    "rate": "5.7",
+    "cover_x": 4429,
+    "star": "30",
+    "title": "三千鸦杀",
+    "url": "https://movie.douban.com/subject/27611494/",
+    "casts": [
+      "郑业成",
+      "赵露思",
+      "王萌黎",
+      "刘怡潼",
+      "蒋依依"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564293166.jpg",
+    "id": "27611494",
+    "cover_y": 6496
+  },
+  {
+    "directors": [
+      "梁胜权",
+      "黄俊文"
+    ],
+    "rate": "6.9",
+    "cover_x": 400,
+    "star": "35",
+    "title": "古剑奇谭",
+    "url": "https://movie.douban.com/subject/24697826/",
+    "casts": [
+      "杨幂",
+      "李易峰",
+      "马天宇",
+      "乔振宇",
+      "郑爽"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159824821.jpg",
+    "id": "24697826",
+    "cover_y": 653
+  },
+  {
+    "directors": [
+      "박도현"
+    ],
+    "rate": "9.0",
+    "cover_x": 584,
+    "star": "45",
+    "title": "啊！因为是男高，所以很幸福",
+    "url": "https://movie.douban.com/subject/33401926/",
+    "casts": [
+      "李承协",
+      "金宰铉",
+      "韩日圭",
+      "李素熙",
+      "具慈健"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553118835.jpg",
+    "id": "33401926",
+    "cover_y": 818
+  },
+  {
+    "directors": [
+      "李娜静",
+      "金东辉"
+    ],
+    "rate": "8.4",
+    "cover_x": 672,
+    "star": "40",
+    "title": "三流之路",
+    "url": "https://movie.douban.com/subject/26972688/",
+    "casts": [
+      "朴叙俊",
+      "金智媛",
+      "安宰弘",
+      "宋昰昀",
+      "金圣武"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457911812.jpg",
+    "id": "26972688",
+    "cover_y": 960
+  },
+  {
+    "directors": [
+      "保罗·格林格拉斯"
+    ],
+    "rate": "7.4",
+    "cover_x": 2800,
+    "star": "35",
+    "title": "谍影重重5",
+    "url": "https://movie.douban.com/subject/26266072/",
+    "casts": [
+      "马特·达蒙",
+      "汤米·李·琼斯",
+      "艾丽西亚·维坎德",
+      "文森特·卡索",
+      "朱丽娅·斯蒂尔斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2379032162.jpg",
+    "id": "26266072",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "安德烈·艾弗道夫"
+    ],
+    "rate": "7.5",
+    "cover_x": 674,
+    "star": "40",
+    "title": "无名女尸",
+    "url": "https://movie.douban.com/subject/26339213/",
+    "casts": [
+      "埃米尔·赫斯基",
+      "布莱恩·考克斯",
+      "奥菲利亚·拉维邦德",
+      "迈克尔·麦克埃尔哈顿",
+      "奥尔雯·凯瑟琳·凯莉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2407543903.jpg",
+    "id": "26339213",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "安德鲁·亚当森"
+    ],
+    "rate": "7.4",
+    "cover_x": 870,
+    "star": "35",
+    "title": "纳尼亚传奇1：狮子、女巫和魔衣橱",
+    "url": "https://movie.douban.com/subject/1309052/",
+    "casts": [
+      "乔芝·韩莉",
+      "斯堪德·凯恩斯",
+      "威廉·莫斯里",
+      "安娜·帕波维尔",
+      "蒂尔达·斯文顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p815647942.jpg",
+    "id": "1309052",
+    "cover_y": 1288
+  },
+  {
+    "directors": [
+      "马伟豪"
+    ],
+    "rate": "6.8",
+    "cover_x": 600,
+    "star": "35",
+    "title": "河东狮吼",
+    "url": "https://movie.douban.com/subject/1305265/",
+    "casts": [
+      "张柏芝",
+      "古天乐",
+      "范冰冰",
+      "黄伟文",
+      "许绍雄"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p482182774.jpg",
+    "id": "1305265",
+    "cover_y": 840
+  },
+  {
+    "directors": [
+      "宁浩"
+    ],
+    "rate": "6.8",
+    "cover_x": 1074,
+    "star": "35",
+    "title": "黄金大劫案",
+    "url": "https://movie.douban.com/subject/6080775/",
+    "casts": [
+      "雷佳音",
+      "陶虹",
+      "程媛媛",
+      "山崎敬一",
+      "郭涛"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1530053393.jpg",
+    "id": "6080775",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "罗阿尔·乌索格"
+    ],
+    "rate": "6.0",
+    "cover_x": 4482,
+    "star": "30",
+    "title": "古墓丽影：源起之战",
+    "url": "https://movie.douban.com/subject/3445906/",
+    "casts": [
+      "艾丽西亚·维坎德",
+      "多米尼克·韦斯特",
+      "沃尔顿·戈金斯",
+      "吴彦祖",
+      "克里斯汀·斯科特·托马斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512717509.jpg",
+    "id": "3445906",
+    "cover_y": 6619
+  },
+  {
+    "directors": [
+      "克林特·伊斯特伍德"
+    ],
+    "rate": "8.0",
+    "cover_x": 3043,
+    "star": "40",
+    "title": "骡子",
+    "url": "https://movie.douban.com/subject/30135113/",
+    "casts": [
+      "克林特·伊斯特伍德",
+      "布莱德利·库珀",
+      "劳伦斯·菲什伯恩",
+      "迈克尔·佩纳",
+      "黛安·韦斯特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563626309.jpg",
+    "id": "30135113",
+    "cover_y": 4500
+  },
+  {
+    "directors": [
+      "奚超"
+    ],
+    "rate": "6.2",
+    "cover_x": 3000,
+    "star": "30",
+    "title": "昨日青空",
+    "url": "https://movie.douban.com/subject/26290410/",
+    "casts": [
+      "苏尚卿",
+      "王一博",
+      "段艺璇",
+      "马斑马",
+      "林强"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533173724.jpg",
+    "id": "26290410",
+    "cover_y": 4200
+  },
+  {
+    "directors": [
+      "克雷格·丹尼尔斯",
+      "杰弗里·布里茨",
+      "乔纳森·范塔勒肯",
+      "戴纳·里德"
+    ],
+    "rate": "8.3",
+    "cover_x": 756,
+    "star": "40",
+    "title": "上载新生 第一季",
+    "url": "https://movie.douban.com/subject/27622782/",
+    "casts": [
+      "罗比·阿美尔",
+      "安迪·阿洛",
+      "阿莱格拉·爱德华兹",
+      "扎伊纳布·约翰逊",
+      "凯文·比格利"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2591330048.jpg",
+    "id": "27622782",
+    "cover_y": 1008
+  },
+  {
+    "directors": [
+      "于仁泰"
+    ],
+    "rate": "6.9",
+    "cover_x": 590,
+    "star": "35",
+    "title": "霍元甲",
+    "url": "https://movie.douban.com/subject/1441602/",
+    "casts": [
+      "李连杰",
+      "董勇",
+      "孙俪",
+      "中村狮童",
+      "鲍起静"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2171661378.jpg",
+    "id": "1441602",
+    "cover_y": 868
+  },
+  {
+    "directors": [
+      "亚历克斯·加兰"
+    ],
+    "rate": "7.6",
+    "cover_x": 2701,
+    "star": "40",
+    "title": "机械姬",
+    "url": "https://movie.douban.com/subject/4160540/",
+    "casts": [
+      "艾丽西亚·维坎德",
+      "多姆纳尔·格里森",
+      "奥斯卡·伊萨克",
+      "水野索诺娅",
+      "克里·约翰逊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2208934451.jpg",
+    "id": "4160540",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "郭敬明"
+    ],
+    "rate": "3.8",
+    "cover_x": 1662,
+    "star": "20",
+    "title": "爵迹",
+    "url": "https://movie.douban.com/subject/26354336/",
+    "casts": [
+      "范冰冰",
+      "吴亦凡",
+      "陈学冬",
+      "陈伟霆",
+      "郭采洁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2377470803.jpg",
+    "id": "26354336",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "林超贤"
+    ],
+    "rate": "7.3",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "破风",
+    "url": "https://movie.douban.com/subject/25853727/",
+    "casts": [
+      "彭于晏",
+      "窦骁",
+      "崔始源",
+      "王珞丹",
+      "陈家乐"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259282065.jpg",
+    "id": "25853727",
+    "cover_y": 1428
+  },
+  {
+    "directors": [
+      "加里斯·爱德华斯"
+    ],
+    "rate": "6.5",
+    "cover_x": 1772,
+    "star": "35",
+    "title": "哥斯拉",
+    "url": "https://movie.douban.com/subject/2063914/",
+    "casts": [
+      "亚伦·泰勒-约翰逊",
+      "卡梅隆·CJ·亚当斯",
+      "渡边谦",
+      "布莱恩·科兰斯顿",
+      "伊丽莎白·奥尔森"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2185227574.jpg",
+    "id": "2063914",
+    "cover_y": 2631
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "约翰·拉塞特",
+      "艾什·布兰农",
+      "李·昂克里奇"
+    ],
+    "rate": "8.3",
+    "cover_x": 2100,
+    "star": "40",
+    "title": "玩具总动员2",
+    "url": "https://movie.douban.com/subject/1291574/",
+    "casts": [
+      "汤姆·汉克斯",
+      "蒂姆·艾伦",
+      "琼·库萨克",
+      "凯尔希·格兰莫",
+      "唐·里克斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1283688673.jpg",
+    "id": "1291574",
+    "cover_y": 3156
+  },
+  {
+    "directors": [
+      "汪俊"
+    ],
+    "rate": "8.4",
+    "cover_x": 3000,
+    "star": "40",
+    "title": "小欢喜",
+    "url": "https://movie.douban.com/subject/26946624/",
+    "casts": [
+      "黄磊",
+      "海清",
+      "陶虹",
+      "王砚辉",
+      "沙溢"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564832427.jpg",
+    "id": "26946624",
+    "cover_y": 4600
+  },
+  {
+    "directors": [
+      "戈尔·维宾斯基"
+    ],
+    "rate": "8.2",
+    "cover_x": 1013,
+    "star": "40",
+    "title": "加勒比海盗3：世界的尽头",
+    "url": "https://movie.douban.com/subject/1418192/",
+    "casts": [
+      "约翰尼·德普",
+      "杰弗里·拉什",
+      "奥兰多·布鲁姆",
+      "凯拉·奈特莉",
+      "周润发"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1076818175.jpg",
+    "id": "1418192",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "迪恩·德布洛斯"
+    ],
+    "rate": "7.5",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "驯龙高手3",
+    "url": "https://movie.douban.com/subject/19899707/",
+    "casts": [
+      "杰伊·巴鲁切尔",
+      "亚美莉卡·费雷拉",
+      "F·默里·亚伯拉罕",
+      "凯特·布兰切特",
+      "杰拉德·巴特勒"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2546335362.jpg",
+    "id": "19899707",
+    "cover_y": 2975
+  },
+  {
+    "directors": [
+      "巴伦·博·欧达尔"
+    ],
+    "rate": "8.8",
+    "cover_x": 2430,
+    "star": "45",
+    "title": "暗黑 第一季",
+    "url": "https://movie.douban.com/subject/26992330/",
+    "casts": [
+      "奥利弗·马苏奇",
+      "卡罗莉内·艾希霍恩",
+      "耶迪斯·特里贝尔",
+      "路易斯·霍夫曼",
+      "安德烈亚斯·皮奇曼"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547271088.jpg",
+    "id": "26992330",
+    "cover_y": 3600
+  },
+  {
+    "directors": [
+      "姜文"
+    ],
+    "rate": "8.8",
+    "cover_x": 800,
+    "star": "45",
+    "title": "阳光灿烂的日子",
+    "url": "https://movie.douban.com/subject/1291875/",
+    "casts": [
+      "夏雨",
+      "宁静",
+      "陶虹",
+      "耿乐",
+      "斯琴高娃"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg",
+    "id": "1291875",
+    "cover_y": 1152
+  },
+  {
+    "directors": [
+      "凯瑟琳·哈德威克"
+    ],
+    "rate": "7.5",
+    "cover_x": 400,
+    "star": "40",
+    "title": "暮光之城",
+    "url": "https://movie.douban.com/subject/2268359/",
+    "casts": [
+      "克里斯汀·斯图尔特",
+      "罗伯特·帕丁森",
+      "比利·伯克",
+      "阿什丽·格林尼",
+      "妮基·瑞德"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1869729517.jpg",
+    "id": "2268359",
+    "cover_y": 566
+  },
+  {
+    "directors": [
+      "福泽克雄",
+      "棚泽孝义",
+      "田中健太"
+    ],
+    "rate": "9.2",
+    "cover_x": 616,
+    "star": "45",
+    "title": "半泽直树",
+    "url": "https://movie.douban.com/subject/24697949/",
+    "casts": [
+      "堺雅人",
+      "上户彩",
+      "香川照之",
+      "及川光博",
+      "片冈爱之助"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411814194.jpg",
+    "id": "24697949",
+    "cover_y": 859
+  },
+  {
+    "directors": [
+      "托德·海因斯"
+    ],
+    "rate": "8.5",
+    "cover_x": 1944,
+    "star": "45",
+    "title": "黑水",
+    "url": "https://movie.douban.com/subject/30331959/",
+    "casts": [
+      "马克·鲁弗洛",
+      "安妮·海瑟薇",
+      "蒂姆·罗宾斯",
+      "比尔·坎普",
+      "维克多·加博"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569450232.jpg",
+    "id": "30331959",
+    "cover_y": 2880
+  },
+  {
+    "directors": [
+      "M·奈特·沙马兰"
+    ],
+    "rate": "8.9",
+    "cover_x": 2711,
+    "star": "45",
+    "title": "第六感",
+    "url": "https://movie.douban.com/subject/1297630/",
+    "casts": [
+      "布鲁斯·威利斯",
+      "海利·乔·奥斯蒙",
+      "托妮·科莱特",
+      "奥莉维亚·威廉姆斯",
+      "唐尼·沃尔伯格"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg",
+    "id": "1297630",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "李应福"
+    ],
+    "rate": "8.7",
+    "cover_x": 1024,
+    "star": "45",
+    "title": "孤单又灿烂的神：鬼怪",
+    "url": "https://movie.douban.com/subject/26761935/",
+    "casts": [
+      "孔侑",
+      "金高银",
+      "李栋旭",
+      "刘仁娜",
+      "陆星材"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2402645080.jpg",
+    "id": "26761935",
+    "cover_y": 1480
+  },
+  {
+    "directors": [
+      "达米安·斯兹弗隆"
+    ],
+    "rate": "8.8",
+    "cover_x": 2126,
+    "star": "45",
+    "title": "荒蛮故事",
+    "url": "https://movie.douban.com/subject/24750126/",
+    "casts": [
+      "达里奥·格兰迪内蒂",
+      "玛丽娅·玛努尔",
+      "莫妮卡·比利亚",
+      "丽塔·科尔泰塞",
+      "胡丽叶塔·泽尔贝伯格"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2584519452.jpg",
+    "id": "24750126",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "布莱恩·辛格"
+    ],
+    "rate": "8.2",
+    "cover_x": 1600,
+    "star": "40",
+    "title": "X战警：逆转未来",
+    "url": "https://movie.douban.com/subject/10485647/",
+    "casts": [
+      "休·杰克曼",
+      "詹姆斯·麦卡沃伊",
+      "迈克尔·法斯宾德",
+      "詹妮弗·劳伦斯",
+      "哈莉·贝瑞"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2181156848.jpg",
+    "id": "10485647",
+    "cover_y": 2400
+  },
+  {
+    "directors": [
+      "费振翔"
+    ],
+    "rate": "7.2",
+    "cover_x": 2143,
+    "star": "35",
+    "title": "古董局中局Ⅱ：鉴墨寻瓷",
+    "url": "https://movie.douban.com/subject/26873817/",
+    "casts": [
+      "夏雨",
+      "魏晨",
+      "阿丽亚",
+      "梁静",
+      "毕彦君"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2600101327.jpg",
+    "id": "26873817",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "申奥"
+    ],
+    "rate": "6.6",
+    "cover_x": 4370,
+    "star": "35",
+    "title": "受益人",
+    "url": "https://movie.douban.com/subject/30299311/",
+    "casts": [
+      "大鹏",
+      "柳岩",
+      "张子贤",
+      "张邵勃",
+      "刘刚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572429001.jpg",
+    "id": "30299311",
+    "cover_y": 6201
+  },
+  {
+    "directors": [
+      "迪恩·德布洛斯"
+    ],
+    "rate": "8.0",
+    "cover_x": 2976,
+    "star": "40",
+    "title": "驯龙高手2",
+    "url": "https://movie.douban.com/subject/4824512/",
+    "casts": [
+      "杰伊·巴鲁切尔",
+      "凯特·布兰切特",
+      "杰拉德·巴特勒",
+      "克雷格·费格森",
+      "亚美莉卡·费雷拉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2192713707.jpg",
+    "id": "4824512",
+    "cover_y": 4157
+  },
+  {
+    "directors": [
+      "布莱恩·辛格"
+    ],
+    "rate": "7.8",
+    "cover_x": 1970,
+    "star": "40",
+    "title": "X战警",
+    "url": "https://movie.douban.com/subject/1295250/",
+    "casts": [
+      "休·杰克曼",
+      "帕特里克·斯图尔特",
+      "伊恩·麦克莱恩",
+      "法米克·詹森",
+      "詹姆斯·麦斯登"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2446530060.jpg",
+    "id": "1295250",
+    "cover_y": 2915
+  },
+  {
+    "directors": [
+      "沙漠"
+    ],
+    "rate": "8.7",
+    "cover_x": 868,
+    "star": "45",
+    "title": "你好，旧时光",
+    "url": "https://movie.douban.com/subject/26581830/",
+    "casts": [
+      "李兰迪",
+      "张新成",
+      "周澄奥",
+      "李牵",
+      "许梦圆"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505140928.jpg",
+    "id": "26581830",
+    "cover_y": 1280
+  },
+  {
+    "directors": [
+      "徐昂"
+    ],
+    "rate": "8.4",
+    "cover_x": 1624,
+    "star": "40",
+    "title": "十二公民",
+    "url": "https://movie.douban.com/subject/24875534/",
+    "casts": [
+      "何冰",
+      "韩童生",
+      "钱波",
+      "赵龙豪",
+      "米铁增"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2242220716.jpg",
+    "id": "24875534",
+    "cover_y": 2165
+  },
+  {
+    "directors": [
+      "宁浩"
+    ],
+    "rate": "8.3",
+    "cover_x": 5953,
+    "star": "40",
+    "title": "无人区",
+    "url": "https://movie.douban.com/subject/3804891/",
+    "casts": [
+      "徐峥",
+      "黄渤",
+      "余男",
+      "多布杰",
+      "王双宝"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2159072475.jpg",
+    "id": "3804891",
+    "cover_y": 8315
+  }
+]

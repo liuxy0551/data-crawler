@@ -1,0 +1,405 @@
+[
+  {
+    "directors": [
+      "温子仁"
+    ],
+    "rate": "7.8",
+    "cover_x": 3375,
+    "star": "40",
+    "title": "招魂2",
+    "url": "https://movie.douban.com/subject/24860563/",
+    "casts": [
+      "帕特里克·威尔森",
+      "维拉·法米加",
+      "麦迪逊·沃尔夫",
+      "弗兰西丝·奥康纳",
+      "劳伦·埃斯波西托"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2360924286.jpg",
+    "id": "24860563",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "蒂姆·波顿"
+    ],
+    "rate": "7.3",
+    "cover_x": 3543,
+    "star": "35",
+    "title": "爱丽丝梦游仙境",
+    "url": "https://movie.douban.com/subject/2336785/",
+    "casts": [
+      "米娅·华希科沃斯卡",
+      "约翰尼·德普",
+      "海伦娜·伯翰·卡特",
+      "安妮·海瑟薇",
+      "克里斯平·格洛弗"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p481556187.jpg",
+    "id": "2336785",
+    "cover_y": 5245
+  },
+  {
+    "directors": [
+      "金元锡"
+    ],
+    "rate": "9.2",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "信号",
+    "url": "https://movie.douban.com/subject/26310143/",
+    "casts": [
+      "李帝勋",
+      "赵震雄",
+      "金惠秀",
+      "张铉诚",
+      "金元海"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2304228229.jpg",
+    "id": "26310143",
+    "cover_y": 1446
+  },
+  {
+    "directors": [
+      "丹·斯坎隆"
+    ],
+    "rate": "8.2",
+    "cover_x": 1543,
+    "star": "40",
+    "title": "怪兽大学",
+    "url": "https://movie.douban.com/subject/3789848/",
+    "casts": [
+      "比利·克里斯托",
+      "约翰·古德曼",
+      "史蒂夫·布西密",
+      "海伦·米伦",
+      "彼得·孙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2033476722.jpg",
+    "id": "3789848",
+    "cover_y": 2208
+  },
+  {
+    "directors": [
+      "是枝裕和"
+    ],
+    "rate": "9.1",
+    "cover_x": 1420,
+    "star": "45",
+    "title": "无人知晓",
+    "url": "https://movie.douban.com/subject/1292337/",
+    "casts": [
+      "柳乐优弥",
+      "北浦爱",
+      "木村飞影",
+      "清水萌萌子",
+      "韩英惠"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",
+    "id": "1292337",
+    "cover_y": 2006
+  },
+  {
+    "directors": [
+      "严定宪",
+      "王树忱",
+      "徐景达"
+    ],
+    "rate": "9.1",
+    "cover_x": 400,
+    "star": "45",
+    "title": "哪吒闹海",
+    "url": "https://movie.douban.com/subject/1307315/",
+    "casts": [
+      "梁正晖",
+      "邱岳峰",
+      "毕克",
+      "富润生",
+      "尚华"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516566783.jpg",
+    "id": "1307315",
+    "cover_y": 556
+  },
+  {
+    "directors": [
+      "道格·里曼"
+    ],
+    "rate": "7.7",
+    "cover_x": 3537,
+    "star": "40",
+    "title": "史密斯夫妇",
+    "url": "https://movie.douban.com/subject/1309199/",
+    "casts": [
+      "布拉德·皮特",
+      "安吉丽娜·朱莉",
+      "文斯·沃恩",
+      "亚当·布罗迪",
+      "凯丽·华盛顿"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1677402144.jpg",
+    "id": "1309199",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "王晶",
+      "程小东"
+    ],
+    "rate": "8.1",
+    "cover_x": 927,
+    "star": "40",
+    "title": "鹿鼎记",
+    "url": "https://movie.douban.com/subject/1297223/",
+    "casts": [
+      "周星驰",
+      "吴孟达",
+      "张敏",
+      "吴君如",
+      "邱淑贞"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2573232376.jpg",
+    "id": "1297223",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "薛晓路"
+    ],
+    "rate": "6.4",
+    "cover_x": 1074,
+    "star": "30",
+    "title": "北京遇上西雅图之不二情书",
+    "url": "https://movie.douban.com/subject/26322792/",
+    "casts": [
+      "汤唯",
+      "吴秀波",
+      "惠英红",
+      "秦沛",
+      "吴彦姝"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2336879398.jpg",
+    "id": "26322792",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "钟孟宏"
+    ],
+    "rate": "8.4",
+    "cover_x": 1190,
+    "star": "40",
+    "title": "阳光普照",
+    "url": "https://movie.douban.com/subject/30292777/",
+    "casts": [
+      "陈以文",
+      "柯淑勤",
+      "巫建和",
+      "刘冠廷",
+      "许光汉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570235120.jpg",
+    "id": "30292777",
+    "cover_y": 1701
+  },
+  {
+    "directors": [
+      "张一白"
+    ],
+    "rate": "5.5",
+    "cover_x": 5953,
+    "star": "30",
+    "title": "匆匆那年",
+    "url": "https://movie.douban.com/subject/25779218/",
+    "casts": [
+      "彭于晏",
+      "倪妮",
+      "郑恺",
+      "魏晨",
+      "张子萱"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2212273919.jpg",
+    "id": "25779218",
+    "cover_y": 8315
+  },
+  {
+    "directors": [
+      "泷田洋二郎"
+    ],
+    "rate": "8.8",
+    "cover_x": 2901,
+    "star": "45",
+    "title": "入殓师",
+    "url": "https://movie.douban.com/subject/2149806/",
+    "casts": [
+      "本木雅弘",
+      "广末凉子",
+      "山崎努",
+      "吉行和子",
+      "笹野高史"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1583839859.jpg",
+    "id": "2149806",
+    "cover_y": 4058
+  },
+  {
+    "directors": [
+      "罗勒·莎菲"
+    ],
+    "rate": "7.9",
+    "cover_x": 2036,
+    "star": "40",
+    "title": "一天",
+    "url": "https://movie.douban.com/subject/4191644/",
+    "casts": [
+      "安妮·海瑟薇",
+      "吉姆·斯特吉斯",
+      "汤姆·米森",
+      "朱迪·惠特克",
+      "蒂姆·凯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1103205323.jpg",
+    "id": "4191644",
+    "cover_y": 3010
+  },
+  {
+    "directors": [
+      "王晶"
+    ],
+    "rate": "7.7",
+    "cover_x": 807,
+    "star": "40",
+    "title": "整蛊专家",
+    "url": "https://movie.douban.com/subject/1299680/",
+    "casts": [
+      "刘德华",
+      "周星驰",
+      "关之琳",
+      "邱淑贞",
+      "吴孟达"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2222649480.jpg",
+    "id": "1299680",
+    "cover_y": 1212
+  },
+  {
+    "directors": [
+      "肯尼思·布拉纳"
+    ],
+    "rate": "6.9",
+    "cover_x": 5906,
+    "star": "35",
+    "title": "灰姑娘",
+    "url": "https://movie.douban.com/subject/6875263/",
+    "casts": [
+      "莉莉·詹姆斯",
+      "理查德·麦登",
+      "凯特·布兰切特",
+      "海莉·阿特维尔",
+      "海伦娜·伯翰·卡特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2231066272.jpg",
+    "id": "6875263",
+    "cover_y": 8350
+  },
+  {
+    "directors": [
+      "谢东燊"
+    ],
+    "rate": "4.9",
+    "cover_x": 5953,
+    "star": "25",
+    "title": "心理罪",
+    "url": "https://movie.douban.com/subject/26698000/",
+    "casts": [
+      "廖凡",
+      "李易峰",
+      "万茜",
+      "李纯",
+      "张国柱"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492869971.jpg",
+    "id": "26698000",
+    "cover_y": 8315
+  },
+  {
+    "directors": [
+      "马特·里夫斯"
+    ],
+    "rate": "7.6",
+    "cover_x": 1200,
+    "star": "40",
+    "title": "猩球崛起2：黎明之战",
+    "url": "https://movie.douban.com/subject/7046723/",
+    "casts": [
+      "安迪·瑟金斯",
+      "杰森·克拉克",
+      "加里·奥德曼",
+      "凯丽·拉塞尔",
+      "托比·凯贝尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2196211285.jpg",
+    "id": "7046723",
+    "cover_y": 1714
+  },
+  {
+    "directors": [
+      "迈克尔·贝"
+    ],
+    "rate": "7.7",
+    "cover_x": 1067,
+    "star": "40",
+    "title": "变形金刚2",
+    "url": "https://movie.douban.com/subject/2146991/",
+    "casts": [
+      "希亚·拉博夫",
+      "梅根·福克斯",
+      "乔什·杜哈明",
+      "雨果·维文",
+      "伊莎贝尔·卢卡斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1076838705.jpg",
+    "id": "2146991",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "赵圣熙"
+    ],
+    "rate": "8.0",
+    "cover_x": 1432,
+    "star": "40",
+    "title": "狼少年",
+    "url": "https://movie.douban.com/subject/6844868/",
+    "casts": [
+      "宋仲基",
+      "朴宝英",
+      "柳演锡",
+      "张荣男",
+      "金香起"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2159648145.jpg",
+    "id": "6844868",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "杨德昌"
+    ],
+    "rate": "9.0",
+    "cover_x": 1132,
+    "star": "45",
+    "title": "一一",
+    "url": "https://movie.douban.com/subject/1292434/",
+    "casts": [
+      "李凯莉",
+      "金燕玲",
+      "张洋洋",
+      "萧淑慎",
+      "尾形一成"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg",
+    "id": "1292434",
+    "cover_y": 1600
+  }
+]

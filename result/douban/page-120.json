@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "佐藤东弥"
+    ],
+    "rate": "7.1",
+    "cover_x": 504,
+    "star": "35",
+    "title": "派遣员的品格2",
+    "url": "https://movie.douban.com/subject/34951012/",
+    "casts": [
+      "筱原凉子",
+      "小泉孝太郎",
+      "上地雄辅",
+      "胜地凉",
+      "大泉洋"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2611319431.jpg",
+    "id": "34951012",
+    "cover_y": 672
+  },
+  {
+    "directors": [
+      "张晓波"
+    ],
+    "rate": "7.0",
+    "cover_x": 950,
+    "star": "35",
+    "title": "好先生",
+    "url": "https://movie.douban.com/subject/26322643/",
+    "casts": [
+      "孙红雷",
+      "江疏影",
+      "王耀庆",
+      "车晓",
+      "张艺兴"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2342321734.jpg",
+    "id": "26322643",
+    "cover_y": 1268
+  },
+  {
+    "directors": [
+      "刘杰"
+    ],
+    "rate": "5.2",
+    "cover_x": 1372,
+    "star": "25",
+    "title": "宝贝儿",
+    "url": "https://movie.douban.com/subject/27039069/",
+    "casts": [
+      "杨幂",
+      "郭京飞",
+      "李鸿其"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531326284.jpg",
+    "id": "27039069",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "查理·卓别林"
+    ],
+    "rate": "9.1",
+    "cover_x": 812,
+    "star": "45",
+    "title": "大独裁者",
+    "url": "https://movie.douban.com/subject/1295646/",
+    "casts": [
+      "查理·卓别林",
+      "宝莲·高黛",
+      "杰克·奥克",
+      "雷金纳德·加德纳",
+      "邱岳峰"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1960167314.jpg",
+    "id": "1295646",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "冲田修一"
+    ],
+    "rate": "8.8",
+    "cover_x": 2307,
+    "star": "45",
+    "title": "横道世之介",
+    "url": "https://movie.douban.com/subject/10484041/",
+    "casts": [
+      "高良健吾",
+      "吉高由里子",
+      "池松壮亮",
+      "伊藤步",
+      "绫野刚"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1826486066.jpg",
+    "id": "10484041",
+    "cover_y": 3199
+  },
+  {
+    "directors": [
+      "巴兹·鲁赫曼"
+    ],
+    "rate": "7.4",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "罗密欧与朱丽叶",
+    "url": "https://movie.douban.com/subject/1306154/",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "克莱尔·丹妮丝",
+      "约翰·雷吉扎莫",
+      "哈罗德·佩里诺",
+      "皮特·波斯尔思韦特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1663002649.jpg",
+    "id": "1306154",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "蔡宓洁"
+    ],
+    "rate": "7.1",
+    "cover_x": 800,
+    "star": "35",
+    "title": "海吉拉",
+    "url": "https://movie.douban.com/subject/30242164/",
+    "casts": [
+      "许光汉",
+      "姚爱宁",
+      "林意箴",
+      "焦曼婷"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524187708.jpg",
+    "id": "30242164",
+    "cover_y": 1138
+  },
+  {
+    "directors": [
+      "金依萌"
+    ],
+    "rate": "5.9",
+    "cover_x": 1004,
+    "star": "30",
+    "title": "非常完美",
+    "url": "https://movie.douban.com/subject/3240208/",
+    "casts": [
+      "章子怡",
+      "范冰冰",
+      "何润东",
+      "苏志燮",
+      "姚晨"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p482937086.jpg",
+    "id": "3240208",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "贝丝·麦卡锡-米勒"
+    ],
+    "rate": "9.5",
+    "cover_x": 900,
+    "star": "50",
+    "title": "摩登家庭 第六季",
+    "url": "https://movie.douban.com/subject/25879091/",
+    "casts": [
+      "艾德·奥尼尔",
+      "索菲娅·维加拉",
+      "朱丽·鲍温",
+      "泰·布利尔",
+      "杰西·泰勒·弗格森"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2199810436.jpg",
+    "id": "25879091",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "陈晓卿"
+    ],
+    "rate": "9.1",
+    "cover_x": 1800,
+    "star": "45",
+    "title": "风味人间 第一季",
+    "url": "https://movie.douban.com/subject/30156039/",
+    "casts": [
+      "李立宏",
+      "陈晓卿",
+      "扶霞·邓洛普"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541649132.jpg",
+    "id": "30156039",
+    "cover_y": 2611
+  },
+  {
+    "directors": [
+      "朗·霍华德"
+    ],
+    "rate": "8.8",
+    "cover_x": 663,
+    "star": "45",
+    "title": "极速风流",
+    "url": "https://movie.douban.com/subject/6803494/",
+    "casts": [
+      "克里斯·海姆斯沃斯",
+      "丹尼尔·布鲁赫",
+      "奥利维亚·王尔德",
+      "亚历山德拉·玛丽亚·拉娜",
+      "皮耶尔弗兰切斯科·法维诺"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532780924.jpg",
+    "id": "6803494",
+    "cover_y": 929
+  },
+  {
+    "directors": [
+      "元奎"
+    ],
+    "rate": "7.8",
+    "cover_x": 491,
+    "star": "40",
+    "title": "给爸爸的信",
+    "url": "https://movie.douban.com/subject/1299250/",
+    "casts": [
+      "李连杰",
+      "梅艳芳",
+      "谢苗",
+      "于荣光",
+      "刘松仁"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2352180519.jpg",
+    "id": "1299250",
+    "cover_y": 718
+  },
+  {
+    "directors": [
+      "瑞恩·墨菲",
+      "大卫·塞梅尔",
+      "阿方索·戈麦斯-雷洪",
+      "布拉德利·比克尔",
+      "迈克尔·乌彭达尔",
+      "蒂姆·亨特",
+      "米盖尔·阿尔特塔",
+      "麦克·勒曼",
+      "约翰·斯科特"
+    ],
+    "rate": "7.8",
+    "cover_x": 1125,
+    "star": "40",
+    "title": "美国恐怖故事：谋杀屋 第一季",
+    "url": "https://movie.douban.com/subject/6729183/",
+    "casts": [
+      "康妮·布里登",
+      "迪伦·麦克德莫特",
+      "埃文·彼得斯",
+      "泰莎·法米加",
+      "丹尼斯·欧哈拉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1277843149.jpg",
+    "id": "6729183",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "徐克"
+    ],
+    "rate": "7.4",
+    "cover_x": 456,
+    "star": "35",
+    "title": "英雄本色3：夕阳之歌",
+    "url": "https://movie.douban.com/subject/1293759/",
+    "casts": [
+      "周润发",
+      "梅艳芳",
+      "梁家辉",
+      "张可颐",
+      "时任三郎"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2348693150.jpg",
+    "id": "1293759",
+    "cover_y": 702
+  },
+  {
+    "directors": [
+      "Kenya Marquez",
+      "Pitipol Ybarra"
+    ],
+    "rate": "7.3",
+    "cover_x": 713,
+    "star": "35",
+    "title": "黑暗的欲望",
+    "url": "https://movie.douban.com/subject/35138373/",
+    "casts": [
+      "玛伊特·佩罗尼",
+      "亚利桑德罗·斯佩特泽尔",
+      "里贾纳·帕文"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2613817446.jpg",
+    "id": "35138373",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "巴里·索南菲尔德"
+    ],
+    "rate": "8.7",
+    "cover_x": 507,
+    "star": "45",
+    "title": "亚当斯一家的价值观",
+    "url": "https://movie.douban.com/subject/1299900/",
+    "casts": [
+      "劳尔·胡里亚",
+      "安杰丽卡·休斯顿",
+      "克里斯托弗·洛伊德",
+      "Lenny Wilson",
+      "彼特·麦尼科"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652970475.jpg",
+    "id": "1299900",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "顾长卫"
+    ],
+    "rate": "8.2",
+    "cover_x": 3189,
+    "star": "40",
+    "title": "立春",
+    "url": "https://movie.douban.com/subject/3036997/",
+    "casts": [
+      "蒋雯丽",
+      "张瑶",
+      "李光洁",
+      "董璇",
+      "焦刚"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p582511565.jpg",
+    "id": "3036997",
+    "cover_y": 4404
+  },
+  {
+    "directors": [
+      "尔冬升"
+    ],
+    "rate": "7.5",
+    "cover_x": 1065,
+    "star": "40",
+    "title": "新宿事件",
+    "url": "https://movie.douban.com/subject/2209368/",
+    "casts": [
+      "成龙",
+      "竹中直人",
+      "吴彦祖",
+      "徐静蕾",
+      "范冰冰"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1309888084.jpg",
+    "id": "2209368",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "周杰伦"
+    ],
+    "rate": "6.7",
+    "cover_x": 1429,
+    "star": "35",
+    "title": "天台爱情",
+    "url": "https://movie.douban.com/subject/10833924/",
+    "casts": [
+      "周杰伦",
+      "王学圻",
+      "曾志伟",
+      "柯有伦",
+      "李心艾"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2006855292.jpg",
+    "id": "10833924",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "Jo Hyo-jin",
+      "Im Hyung-taek",
+      "Kim Ju-hyung"
+    ],
+    "rate": "9.6",
+    "cover_x": 880,
+    "star": "50",
+    "title": "Running Man",
+    "url": "https://movie.douban.com/subject/10509888/",
+    "casts": [
+      "刘在锡",
+      "河东勋",
+      "李光洙",
+      "金钟国",
+      "池石镇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512561572.jpg",
+    "id": "10509888",
+    "cover_y": 1280
+  }
+]

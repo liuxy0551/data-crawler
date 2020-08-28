@@ -1,0 +1,413 @@
+[
+  {
+    "directors": [
+      "李力持",
+      "周星驰"
+    ],
+    "rate": "8.0",
+    "cover_x": 400,
+    "star": "40",
+    "title": "食神",
+    "url": "https://movie.douban.com/subject/1293351/",
+    "casts": [
+      "周星驰",
+      "莫文蔚",
+      "刘以达",
+      "吴孟达",
+      "薛家燕"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2354353804.jpg",
+    "id": "1293351",
+    "cover_y": 601
+  },
+  {
+    "directors": [
+      "伊恩·索夫特雷",
+      "尼克·惠特菲尔德"
+    ],
+    "rate": "8.0",
+    "cover_x": 509,
+    "star": "40",
+    "title": "万能钥匙",
+    "url": "https://movie.douban.com/subject/1418752/",
+    "casts": [
+      "凯特·哈德森",
+      "吉娜·罗兰兹",
+      "约翰·赫特",
+      "彼得·萨斯加德",
+      "乔伊·布赖恩特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p810384382.jpg",
+    "id": "1418752",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "新海诚"
+    ],
+    "rate": "8.3",
+    "cover_x": 1073,
+    "star": "40",
+    "title": "秒速5厘米",
+    "url": "https://movie.douban.com/subject/2043546/",
+    "casts": [
+      "水桥研二",
+      "近藤好美 ",
+      "花村怜美",
+      "尾上绫华",
+      "水野理纱"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p982896012.jpg",
+    "id": "2043546",
+    "cover_y": 1517
+  },
+  {
+    "directors": [
+      "陈木胜"
+    ],
+    "rate": "7.4",
+    "cover_x": 569,
+    "star": "35",
+    "title": "宝贝计划",
+    "url": "https://movie.douban.com/subject/1859036/",
+    "casts": [
+      "成龙",
+      "古天乐",
+      "蔡志强",
+      "许冠文",
+      "蔡卓妍"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p946770581.jpg",
+    "id": "1859036",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "安相勋"
+    ],
+    "rate": "6.2",
+    "cover_x": 5011,
+    "star": "30",
+    "title": "我是证人",
+    "url": "https://movie.douban.com/subject/26313973/",
+    "casts": [
+      "杨幂",
+      "鹿晗",
+      "王景春",
+      "朱亚文",
+      "刘芮麟"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2279732402.jpg",
+    "id": "26313973",
+    "cover_y": 7000
+  },
+  {
+    "directors": [
+      "刁亦男"
+    ],
+    "rate": "7.4",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "南方车站的聚会",
+    "url": "https://movie.douban.com/subject/27668250/",
+    "casts": [
+      "胡歌",
+      "桂纶镁",
+      "廖凡",
+      "万茜",
+      "奇道"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574278284.jpg",
+    "id": "27668250",
+    "cover_y": 1630
+  },
+  {
+    "directors": [
+      "本·泰勒",
+      "凯特·赫伦"
+    ],
+    "rate": "9.1",
+    "cover_x": 1920,
+    "star": "45",
+    "title": "性爱自修室 第一季",
+    "url": "https://movie.douban.com/subject/27594217/",
+    "casts": [
+      "阿萨·巴特菲尔德",
+      "艾玛·麦基",
+      "舒提·盖特瓦",
+      "吉莲·安德森",
+      "康纳·斯温德尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569324883.jpg",
+    "id": "27594217",
+    "cover_y": 2844
+  },
+  {
+    "directors": [
+      "彼得·杰克逊"
+    ],
+    "rate": "8.4",
+    "cover_x": 4754,
+    "star": "40",
+    "title": "霍比特人2：史矛革之战",
+    "url": "https://movie.douban.com/subject/11606328/",
+    "casts": [
+      "伊恩·麦克莱恩",
+      "马丁·弗瑞曼",
+      "理查德·阿米蒂奇",
+      "本尼迪克特·康伯巴奇",
+      "奥兰多·布鲁姆"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2166784595.jpg",
+    "id": "11606328",
+    "cover_y": 7028
+  },
+  {
+    "directors": [
+      "文伟鸿"
+    ],
+    "rate": "6.3",
+    "cover_x": 2746,
+    "star": "30",
+    "title": "使徒行者2：谍影行动",
+    "url": "https://movie.douban.com/subject/30423193/",
+    "casts": [
+      "张家辉",
+      "古天乐",
+      "吴镇宇",
+      "姜珮瑶",
+      "张亦驰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2563751491.jpg",
+    "id": "30423193",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "蒂莫西·范·帕腾",
+      "布莱恩·柯克",
+      "丹尼尔·米纳汉",
+      "阿兰·泰勒"
+    ],
+    "rate": "9.4",
+    "cover_x": 2700,
+    "star": "45",
+    "title": "权力的游戏 第一季",
+    "url": "https://movie.douban.com/subject/3016187/",
+    "casts": [
+      "伊萨克·亨普斯特德-怀特",
+      "查尔斯·丹斯",
+      "约翰·C·布莱德利",
+      "罗恩·多纳基",
+      "伊恩·麦克尔希尼"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p896064368.jpg",
+    "id": "3016187",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "山姆·雷米"
+    ],
+    "rate": "7.4",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "蜘蛛侠3",
+    "url": "https://movie.douban.com/subject/1418189/",
+    "casts": [
+      "托比·马奎尔",
+      "克斯汀·邓斯特",
+      "詹姆斯·弗兰科",
+      "托马斯·哈登·丘奇",
+      "托弗·戈瑞斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1344981868.jpg",
+    "id": "1418189",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "韩杰"
+    ],
+    "rate": "5.0",
+    "cover_x": 1000,
+    "star": "25",
+    "title": "解忧杂货店",
+    "url": "https://movie.douban.com/subject/26654146/",
+    "casts": [
+      "王俊凯",
+      "迪丽热巴",
+      "董子健",
+      "李鸿其",
+      "董李无忧"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503544593.jpg",
+    "id": "26654146",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "保罗·安德森"
+    ],
+    "rate": "6.5",
+    "cover_x": 2953,
+    "star": "35",
+    "title": "生化危机：终章",
+    "url": "https://movie.douban.com/subject/20471852/",
+    "casts": [
+      "米拉·乔沃维奇",
+      "伊恩·格雷",
+      "艾丽·拉特",
+      "鲁比·罗丝",
+      "李准基"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2429713841.jpg",
+    "id": "20471852",
+    "cover_y": 4144
+  },
+  {
+    "directors": [
+      "尼尔·布洛姆坎普"
+    ],
+    "rate": "8.3",
+    "cover_x": 2015,
+    "star": "40",
+    "title": "第九区",
+    "url": "https://movie.douban.com/subject/3006772/",
+    "casts": [
+      "沙尔托·科普雷",
+      "詹森·库伯",
+      "娜塔莉·博尔特",
+      "茜尔雯·斯特赖克",
+      "约翰·萨莫尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1086352249.jpg",
+    "id": "3006772",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "迈克尔·贝"
+    ],
+    "rate": "7.2",
+    "cover_x": 1976,
+    "star": "35",
+    "title": "变形金刚3",
+    "url": "https://movie.douban.com/subject/3610047/",
+    "casts": [
+      "希亚·拉博夫",
+      "罗茜·汉丁顿-惠特莉",
+      "乔什·杜哈明",
+      "约翰·特托罗",
+      "泰瑞斯·吉布森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1056093671.jpg",
+    "id": "3610047",
+    "cover_y": 2955
+  },
+  {
+    "directors": [
+      "殷飞"
+    ],
+    "rate": "6.9",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "胜算",
+    "url": "https://movie.douban.com/subject/26427123/",
+    "casts": [
+      "柳云龙",
+      "苏青",
+      "梁冠华",
+      "李立群",
+      "钱波"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614207155.jpg",
+    "id": "26427123",
+    "cover_y": 1611
+  },
+  {
+    "directors": [
+      "陈嘉上"
+    ],
+    "rate": "7.9",
+    "cover_x": 508,
+    "star": "40",
+    "title": "武状元苏乞儿",
+    "url": "https://movie.douban.com/subject/1297863/",
+    "casts": [
+      "周星驰",
+      "张敏",
+      "吴孟达",
+      "徐少强",
+      "林威"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2002731234.jpg",
+    "id": "1297863",
+    "cover_y": 723
+  },
+  {
+    "directors": [
+      "王树忱",
+      "钱运达",
+      "苏秀",
+      "张欣",
+      "刘风"
+    ],
+    "rate": "9.2",
+    "cover_x": 649,
+    "star": "45",
+    "title": "天书奇谭",
+    "url": "https://movie.douban.com/subject/1428581/",
+    "casts": [
+      "丁建华",
+      "毕克",
+      "苏秀",
+      "程晓桦",
+      "施融"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515539487.jpg",
+    "id": "1428581",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "查理·卓别林"
+    ],
+    "rate": "9.3",
+    "cover_x": 580,
+    "star": "45",
+    "title": "摩登时代",
+    "url": "https://movie.douban.com/subject/1294371/",
+    "casts": [
+      "查理·卓别林",
+      "宝莲·高黛",
+      "亨利·伯格曼",
+      "蒂尼·桑福德",
+      "切斯特·康克林"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg",
+    "id": "1294371",
+    "cover_y": 902
+  },
+  {
+    "directors": [
+      "徐誉庭",
+      "许智彦"
+    ],
+    "rate": "8.6",
+    "cover_x": 1697,
+    "star": "45",
+    "title": "谁先爱上他的",
+    "url": "https://movie.douban.com/subject/27119586/",
+    "casts": [
+      "邱泽",
+      "谢盈萱",
+      "陈如山",
+      "黄圣球",
+      "周洺甫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2546961193.jpg",
+    "id": "27119586",
+    "cover_y": 2500
+  }
+]

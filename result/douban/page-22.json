@@ -1,0 +1,404 @@
+[
+  {
+    "directors": [
+      "柯汶利",
+      "戴墨",
+      "姚文逸",
+      "来牧宽"
+    ],
+    "rate": "7.2",
+    "cover_x": 5909,
+    "star": "35",
+    "title": "唐人街探案",
+    "url": "https://movie.douban.com/subject/30354606/",
+    "casts": [
+      "邱泽",
+      "张钧甯",
+      "王真儿",
+      "陈哲远",
+      "程潇"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2579393076.jpg",
+    "id": "30354606",
+    "cover_y": 8271
+  },
+  {
+    "directors": [
+      "詹姆斯·曼高德"
+    ],
+    "rate": "6.6",
+    "cover_x": 5953,
+    "star": "35",
+    "title": "金刚狼2",
+    "url": "https://movie.douban.com/subject/3718424/",
+    "casts": [
+      "休·杰克曼",
+      "冈本多绪",
+      "福岛莉拉",
+      "真田广之",
+      "赛佛兰娜·科契柯娃"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2151837713.jpg",
+    "id": "3718424",
+    "cover_y": 8472
+  },
+  {
+    "directors": [
+      "陈可辛"
+    ],
+    "rate": "8.8",
+    "cover_x": 2481,
+    "star": "45",
+    "title": "甜蜜蜜",
+    "url": "https://movie.douban.com/subject/1305164/",
+    "casts": [
+      "黎明",
+      "张曼玉",
+      "杨恭如",
+      "曾志伟",
+      "杜可风"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2223011274.jpg",
+    "id": "1305164",
+    "cover_y": 3474
+  },
+  {
+    "directors": [
+      "山姆·雷米"
+    ],
+    "rate": "7.8",
+    "cover_x": 678,
+    "star": "40",
+    "title": "蜘蛛侠",
+    "url": "https://movie.douban.com/subject/1306612/",
+    "casts": [
+      "托比·马奎尔",
+      "威廉·达福",
+      "克斯汀·邓斯特",
+      "詹姆斯·弗兰科",
+      "克里夫·罗伯逊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457050361.jpg",
+    "id": "1306612",
+    "cover_y": 1002
+  },
+  {
+    "directors": [
+      "李木戈"
+    ],
+    "rate": "7.7",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "东宫",
+    "url": "https://movie.douban.com/subject/25823280/",
+    "casts": [
+      "陈星旭",
+      "彭小苒",
+      "魏千翔",
+      "斯琴高娃",
+      "罗嘉良"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2548059611.jpg",
+    "id": "25823280",
+    "cover_y": 1620
+  },
+  {
+    "directors": [
+      "西德尼·吕美特"
+    ],
+    "rate": "9.4",
+    "cover_x": 1623,
+    "star": "45",
+    "title": "十二怒汉",
+    "url": "https://movie.douban.com/subject/1293182/",
+    "casts": [
+      "亨利·方达",
+      "马丁·鲍尔萨姆",
+      "约翰·菲德勒",
+      "李·科布",
+      "E.G.马绍尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg",
+    "id": "1293182",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "克林特·伊斯特伍德"
+    ],
+    "rate": "9.1",
+    "cover_x": 800,
+    "star": "45",
+    "title": "完美的世界",
+    "url": "https://movie.douban.com/subject/1300992/",
+    "casts": [
+      "凯文·科斯特纳",
+      "劳拉·邓恩",
+      "克林特·伊斯特伍德",
+      "T·J·劳瑟",
+      "基斯·斯扎拉巴基克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg",
+    "id": "1300992",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "西蒙·金伯格"
+    ],
+    "rate": "5.8",
+    "cover_x": 4000,
+    "star": "30",
+    "title": "X战警：黑凤凰",
+    "url": "https://movie.douban.com/subject/26667010/",
+    "casts": [
+      "苏菲·特纳",
+      "詹姆斯·麦卡沃伊",
+      "迈克尔·法斯宾德",
+      "詹妮弗·劳伦斯",
+      "尼古拉斯·霍尔特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555886490.jpg",
+    "id": "26667010",
+    "cover_y": 5915
+  },
+  {
+    "directors": [
+      "加文·胡德"
+    ],
+    "rate": "7.5",
+    "cover_x": 2205,
+    "star": "40",
+    "title": "金刚狼",
+    "url": "https://movie.douban.com/subject/1792928/",
+    "casts": [
+      "休·杰克曼",
+      "列维·施瑞博尔",
+      "瑞恩·雷诺兹",
+      "丹尼·赫斯顿",
+      "泰勒·克奇"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2063167557.jpg",
+    "id": "1792928",
+    "cover_y": 3038
+  },
+  {
+    "directors": [
+      "林君阳"
+    ],
+    "rate": "9.4",
+    "cover_x": 1204,
+    "star": "45",
+    "title": "我们与恶的距离",
+    "url": "https://movie.douban.com/subject/30181230/",
+    "casts": [
+      "贾静雯",
+      "温升豪",
+      "吴慷仁",
+      "周采诗",
+      "陈妤"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554916825.jpg",
+    "id": "30181230",
+    "cover_y": 1720
+  },
+  {
+    "directors": [
+      "迈克尔·贝"
+    ],
+    "rate": "8.2",
+    "cover_x": 1125,
+    "star": "40",
+    "title": "变形金刚",
+    "url": "https://movie.douban.com/subject/1794171/",
+    "casts": [
+      "希亚·拉博夫",
+      "泰瑞斯·吉布森",
+      "乔什·杜哈明",
+      "安东尼·安德森",
+      "梅根·福克斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2184739474.jpg",
+    "id": "1794171",
+    "cover_y": 1667
+  },
+  {
+    "directors": [
+      "伦尼·阿伯拉罕森"
+    ],
+    "rate": "8.8",
+    "cover_x": 2025,
+    "star": "45",
+    "title": "房间",
+    "url": "https://movie.douban.com/subject/25724855/",
+    "casts": [
+      "布丽·拉尔森",
+      "雅各布·特伦布莱",
+      "肖恩·布里吉格斯",
+      "温迪·古逊",
+      "阿曼达·布鲁盖尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg",
+    "id": "25724855",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "理查德·柯蒂斯"
+    ],
+    "rate": "8.6",
+    "cover_x": 1215,
+    "star": "45",
+    "title": "真爱至上",
+    "url": "https://movie.douban.com/subject/1292401/",
+    "casts": [
+      "休·格兰特",
+      "科林·费尔斯",
+      "艾玛·汤普森",
+      "凯拉·奈特莉",
+      "连姆·尼森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg",
+    "id": "1292401",
+    "cover_y": 1800
+  },
+  {
+    "directors": [
+      "罗伯特·斯特罗姆伯格"
+    ],
+    "rate": "7.2",
+    "cover_x": 1181,
+    "star": "35",
+    "title": "沉睡魔咒",
+    "url": "https://movie.douban.com/subject/4301224/",
+    "casts": [
+      "安吉丽娜·朱莉",
+      "艾丽·范宁",
+      "沙尔托·科普雷",
+      "莱丝利·曼维尔",
+      "艾美达·斯丹顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2185343341.jpg",
+    "id": "4301224",
+    "cover_y": 1687
+  },
+  {
+    "directors": [
+      "罗伯·莱特曼"
+    ],
+    "rate": "6.5",
+    "cover_x": 1350,
+    "star": "35",
+    "title": "大侦探皮卡丘",
+    "url": "https://movie.douban.com/subject/26835471/",
+    "casts": [
+      "瑞恩·雷诺兹",
+      "贾斯蒂斯·史密斯",
+      "凯瑟琳·纽顿",
+      "克里斯·吉尔",
+      "比尔·奈伊"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555538168.jpg",
+    "id": "26835471",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "薛晓路"
+    ],
+    "rate": "7.3",
+    "cover_x": 700,
+    "star": "35",
+    "title": "北京遇上西雅图",
+    "url": "https://movie.douban.com/subject/10574468/",
+    "casts": [
+      "汤唯",
+      "吴秀波",
+      "海清",
+      "宋美曼",
+      "宋美慧"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1878328589.jpg",
+    "id": "10574468",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "雷·沃纳尔"
+    ],
+    "rate": "7.1",
+    "cover_x": 1013,
+    "star": "35",
+    "title": "隐形人",
+    "url": "https://movie.douban.com/subject/2364086/",
+    "casts": [
+      "伊丽莎白·莫斯",
+      "奥利弗·杰森-科恩",
+      "阿尔迪斯·霍吉",
+      "迈克尔·多曼",
+      "斯托姆·瑞德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582428806.jpg",
+    "id": "2364086",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "徐磊"
+    ],
+    "rate": "7.9",
+    "cover_x": 1349,
+    "star": "40",
+    "title": "平原上的夏洛克",
+    "url": "https://movie.douban.com/subject/33400376/",
+    "casts": [
+      "徐朝英",
+      "张占义",
+      "宿树合"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574198225.jpg",
+    "id": "33400376",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "李元泰"
+    ],
+    "rate": "7.7",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "恶人传",
+    "url": "https://movie.douban.com/subject/30211551/",
+    "casts": [
+      "马东锡",
+      "金武烈",
+      "金成圭",
+      "刘承睦",
+      "崔民哲"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555084871.jpg",
+    "id": "30211551",
+    "cover_y": 2145
+  },
+  {
+    "directors": [
+      "陈嘉上",
+      "钱永强"
+    ],
+    "rate": "6.7",
+    "cover_x": 1984,
+    "star": "35",
+    "title": "画皮",
+    "url": "https://movie.douban.com/subject/2135981/",
+    "casts": [
+      "甄子丹",
+      "周迅",
+      "陈坤",
+      "赵薇",
+      "孙俪"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462058385.jpg",
+    "id": "2135981",
+    "cover_y": 2976
+  }
+]

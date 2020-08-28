@@ -1,0 +1,408 @@
+[
+  {
+    "directors": [
+      "叶伟信"
+    ],
+    "rate": "7.5",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "杀破狼",
+    "url": "https://movie.douban.com/subject/1428602/",
+    "casts": [
+      "甄子丹",
+      "洪金宝",
+      "任达华",
+      "廖启智",
+      "吴京"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2250158341.jpg",
+    "id": "1428602",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "克里斯托弗·诺兰"
+    ],
+    "rate": "8.9",
+    "cover_x": 960,
+    "star": "45",
+    "title": "追随",
+    "url": "https://movie.douban.com/subject/1397546/",
+    "casts": [
+      "杰里米·西奥伯德",
+      "亚历克斯·霍",
+      "露西·拉塞尔",
+      "约翰·诺兰",
+      "迪克·布拉德塞尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561545031.jpg",
+    "id": "1397546",
+    "cover_y": 1440
+  },
+  {
+    "directors": [
+      "福泽克雄"
+    ],
+    "rate": "8.0",
+    "cover_x": 5906,
+    "star": "40",
+    "title": "祈祷落幕时",
+    "url": "https://movie.douban.com/subject/27040737/",
+    "casts": [
+      "阿部宽",
+      "松岛菜菜子",
+      "沟端淳平",
+      "田中丽奈",
+      "木村绿子"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552073598.jpg",
+    "id": "27040737",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "8.0",
+    "cover_x": 500,
+    "star": "40",
+    "title": "黑社会2：以和为贵",
+    "url": "https://movie.douban.com/subject/1484760/",
+    "casts": [
+      "古天乐",
+      "任达华",
+      "张家辉",
+      "林家栋",
+      "王天林"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p588133332.jpg",
+    "id": "1484760",
+    "cover_y": 700
+  },
+  {
+    "directors": [
+      "理查德·J·刘易斯",
+      "文森佐·纳塔利",
+      "丽莎·乔伊",
+      "克雷格·卓贝",
+      "塔里克·萨利赫",
+      "妮可·卡索",
+      "乌塔·布里兹维茨",
+      "斯蒂芬·威廉姆斯",
+      "弗雷德·托耶"
+    ],
+    "rate": "8.8",
+    "cover_x": 2936,
+    "star": "45",
+    "title": "西部世界 第二季",
+    "url": "https://movie.douban.com/subject/26887174/",
+    "casts": [
+      "埃文·蕾切尔·伍德",
+      "坦迪·牛顿",
+      "詹姆斯·麦斯登",
+      "吉米·辛普森",
+      "妲露拉·莱莉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517077652.jpg",
+    "id": "26887174",
+    "cover_y": 4360
+  },
+  {
+    "directors": [],
+    "rate": "9.7",
+    "cover_x": 512,
+    "star": "50",
+    "title": "陈奕迅线上慈善演唱会",
+    "url": "https://movie.douban.com/subject/35132844/",
+    "casts": [
+      "陈奕迅"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2613833094.jpg",
+    "id": "35132844",
+    "cover_y": 714
+  },
+  {
+    "directors": [
+      "赛斯·戈登",
+      "麦克·里斯托"
+    ],
+    "rate": "9.2",
+    "cover_x": 1458,
+    "star": "45",
+    "title": "良医 第一季",
+    "url": "https://movie.douban.com/subject/26888731/",
+    "casts": [
+      "弗莱迪·海默",
+      "尼古拉斯·冈萨雷斯",
+      "安东尼娅·托马斯",
+      "卓库·莫度",
+      "碧儿·加勒特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496064819.jpg",
+    "id": "26888731",
+    "cover_y": 2160
+  },
+  {
+    "directors": [
+      "许鞍华"
+    ],
+    "rate": "8.3",
+    "cover_x": 1944,
+    "star": "40",
+    "title": "桃姐",
+    "url": "https://movie.douban.com/subject/5977835/",
+    "casts": [
+      "叶德娴",
+      "刘德华",
+      "秦海璐",
+      "秦沛",
+      "黄秋生"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1455206048.jpg",
+    "id": "5977835",
+    "cover_y": 2736
+  },
+  {
+    "directors": [
+      "斯蒂芬·索莫斯"
+    ],
+    "rate": "7.8",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "木乃伊",
+    "url": "https://movie.douban.com/subject/1295229/",
+    "casts": [
+      "布兰登·费舍",
+      "蕾切尔·薇兹",
+      "约翰·汉纳",
+      "阿诺德·沃斯洛",
+      "凯文·J·奥康纳"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1376881286.jpg",
+    "id": "1295229",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "康洪雷"
+    ],
+    "rate": "9.5",
+    "cover_x": 520,
+    "star": "50",
+    "title": "我的团长我的团",
+    "url": "https://movie.douban.com/subject/2997325/",
+    "casts": [
+      "段奕宏",
+      "张译",
+      "张国强",
+      "邢佳栋",
+      "李晨"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1826590030.jpg",
+    "id": "2997325",
+    "cover_y": 778
+  },
+  {
+    "directors": [
+      "迈克尔·斯派瑞",
+      "彼得·斯派瑞"
+    ],
+    "rate": "7.9",
+    "cover_x": 5000,
+    "star": "40",
+    "title": "前目的地",
+    "url": "https://movie.douban.com/subject/20278505/",
+    "casts": [
+      "伊桑·霍克",
+      "莎拉·斯努克",
+      "诺亚·泰勒",
+      "弗雷娅·斯塔福",
+      "伊莉斯·詹森"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219662154.jpg",
+    "id": "20278505",
+    "cover_y": 7000
+  },
+  {
+    "directors": [
+      "静野孔文"
+    ],
+    "rate": "6.4",
+    "cover_x": 600,
+    "star": "30",
+    "title": "名侦探柯南：远海的侦探",
+    "url": "https://movie.douban.com/subject/20274039/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "小山力也",
+      "山口胜平",
+      "岩居由希子"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1919878062.jpg",
+    "id": "20274039",
+    "cover_y": 852
+  },
+  {
+    "directors": [
+      "林珍钊"
+    ],
+    "rate": "4.9",
+    "cover_x": 922,
+    "star": "25",
+    "title": "倩女幽魂：人间情",
+    "url": "https://movie.douban.com/subject/30466860/",
+    "casts": [
+      "李凯馨",
+      "陈星旭",
+      "元华",
+      "徐少强",
+      "张致恒"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2597931214.jpg",
+    "id": "30466860",
+    "cover_y": 1441
+  },
+  {
+    "directors": [
+      "艾伦·巴利拉罗"
+    ],
+    "rate": "9.3",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "鹬",
+    "url": "https://movie.douban.com/subject/26766869/",
+    "casts": [],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2373241302.jpg",
+    "id": "26766869",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "王宏",
+      "赵玉碧",
+      "艾慕华",
+      "徐艳娜",
+      "张建和",
+      "郭青青",
+      "周韧峰"
+    ],
+    "rate": "9.5",
+    "cover_x": 600,
+    "star": "50",
+    "title": "虹猫蓝兔七侠传",
+    "url": "https://movie.douban.com/subject/3204594/",
+    "casts": [
+      "付以琳",
+      "晏婷",
+      "张怀武",
+      "袁文君",
+      "邹正均"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2307667150.jpg",
+    "id": "3204594",
+    "cover_y": 922
+  },
+  {
+    "directors": [
+      "康拉德·弗农",
+      "埃里克·达尼尔",
+      "汤姆·麦格拉思"
+    ],
+    "rate": "8.2",
+    "cover_x": 1350,
+    "star": "40",
+    "title": "马达加斯加3",
+    "url": "https://movie.douban.com/subject/3178770/",
+    "casts": [
+      "本·斯蒂勒",
+      "克里斯·洛克",
+      "大卫·休默",
+      "贾达·萍克·史密斯",
+      "萨莎·拜伦·科恩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1503869385.jpg",
+    "id": "3178770",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "陈凯歌"
+    ],
+    "rate": "5.4",
+    "cover_x": 876,
+    "star": "25",
+    "title": "无极",
+    "url": "https://movie.douban.com/subject/1419969/",
+    "casts": [
+      "张东健",
+      "张柏芝",
+      "真田广之",
+      "谢霆锋",
+      "刘烨"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167475807.jpg",
+    "id": "1419969",
+    "cover_y": 1469
+  },
+  {
+    "directors": [
+      "雷·沃纳尔"
+    ],
+    "rate": "8.1",
+    "cover_x": 674,
+    "star": "40",
+    "title": "升级",
+    "url": "https://movie.douban.com/subject/27093707/",
+    "casts": [
+      "罗根·马歇尔-格林",
+      "梅拉里·沃列何",
+      "哈里森·吉尔伯特森",
+      "本尼迪克·哈迪",
+      "克里斯托弗·卡比"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531034314.jpg",
+    "id": "27093707",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "毛完日"
+    ],
+    "rate": "7.4",
+    "cover_x": 1250,
+    "star": "35",
+    "title": "夫妻的世界",
+    "url": "https://movie.douban.com/subject/34851294/",
+    "casts": [
+      "金喜爱",
+      "朴海俊",
+      "韩素希",
+      "朴善英",
+      "金永敏"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595016618.jpg",
+    "id": "34851294",
+    "cover_y": 1788
+  },
+  {
+    "directors": [
+      "金元锡"
+    ],
+    "rate": "9.4",
+    "cover_x": 400,
+    "star": "45",
+    "title": "我的大叔",
+    "url": "https://movie.douban.com/subject/27602137/",
+    "casts": [
+      "李知恩",
+      "李善均",
+      "高斗心",
+      "宋清晨",
+      "张基龙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520568437.jpg",
+    "id": "27602137",
+    "cover_y": 578
+  }
+]

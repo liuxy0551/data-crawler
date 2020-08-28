@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "金善允"
+    ],
+    "rate": "7.3",
+    "cover_x": 800,
+    "star": "35",
+    "title": "梨泰院Class",
+    "url": "https://movie.douban.com/subject/34617196/",
+    "casts": [
+      "朴叙俊",
+      "金多美",
+      "权娜拉",
+      "刘在明",
+      "李珠英"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2579463811.jpg",
+    "id": "34617196",
+    "cover_y": 1140
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "7.2",
+    "cover_x": 980,
+    "star": "35",
+    "title": "非诚勿扰",
+    "url": "https://movie.douban.com/subject/3313801/",
+    "casts": [
+      "葛优",
+      "舒淇",
+      "范伟",
+      "方中信",
+      "胡可"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p484914984.jpg",
+    "id": "3313801",
+    "cover_y": 1351
+  },
+  {
+    "directors": [
+      "牛岛新一郎"
+    ],
+    "rate": "6.9",
+    "cover_x": 1134,
+    "star": "35",
+    "title": "我想吃掉你的胰脏",
+    "url": "https://movie.douban.com/subject/27107140/",
+    "casts": [
+      "高杉真宙",
+      "Lynn",
+      "藤井雪代",
+      "内田雄马",
+      "福岛润"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545571306.jpg",
+    "id": "27107140",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "王晶",
+      "钟少雄"
+    ],
+    "rate": "5.7",
+    "cover_x": 716,
+    "star": "30",
+    "title": "澳门风云",
+    "url": "https://movie.douban.com/subject/11625097/",
+    "casts": [
+      "周润发",
+      "谢霆锋",
+      "景甜",
+      "高虎",
+      "吴辰君"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2167451620.jpg",
+    "id": "11625097",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "李添胜"
+    ],
+    "rate": "9.1",
+    "cover_x": 930,
+    "star": "45",
+    "title": "神雕侠侣",
+    "url": "https://movie.douban.com/subject/1863947/",
+    "casts": [
+      "古天乐",
+      "李若彤",
+      "白彪",
+      "魏秋桦",
+      "傅明宪"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565268370.jpg",
+    "id": "1863947",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "7.6",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "侏罗纪公园2：失落的世界",
+    "url": "https://movie.douban.com/subject/1293702/",
+    "casts": [
+      "杰夫·高布伦",
+      "朱丽安·摩尔",
+      "皮特·波斯尔思韦特",
+      "艾利斯·霍华德",
+      "理查德·阿滕伯勒"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1259571118.jpg",
+    "id": "1293702",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "黄毅瑜"
+    ],
+    "rate": "7.8",
+    "cover_x": 1535,
+    "star": "40",
+    "title": "死神来了",
+    "url": "https://movie.douban.com/subject/1300300/",
+    "casts": [
+      "戴文·萨瓦",
+      "艾丽·拉特",
+      "科尔·史密斯",
+      "克里森·克拉克",
+      "丹尼尔·洛巴克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1332799477.jpg",
+    "id": "1300300",
+    "cover_y": 2174
+  },
+  {
+    "directors": [
+      "陈德森"
+    ],
+    "rate": "5.2",
+    "cover_x": 1417,
+    "star": "25",
+    "title": "征途",
+    "url": "https://movie.douban.com/subject/26705567/",
+    "casts": [
+      "刘宪华",
+      "何润东",
+      "林辰涵",
+      "蒋璐霞",
+      "罗仲谦"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2613925251.jpg",
+    "id": "26705567",
+    "cover_y": 1984
+  },
+  {
+    "directors": [
+      "肖恩·利维",
+      "马特·达菲",
+      "罗斯·达菲"
+    ],
+    "rate": "8.9",
+    "cover_x": 1280,
+    "star": "45",
+    "title": "怪奇物语 第一季",
+    "url": "https://movie.douban.com/subject/26359270/",
+    "casts": [
+      "薇诺娜·瑞德",
+      "大卫·哈伯",
+      "菲恩·伍法德",
+      "米莉·波比·布朗",
+      "伽塔·马塔拉佐"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364206200.jpg",
+    "id": "26359270",
+    "cover_y": 1896
+  },
+  {
+    "directors": [
+      "罗伯特·泽米吉斯"
+    ],
+    "rate": "8.7",
+    "cover_x": 1641,
+    "star": "45",
+    "title": "回到未来",
+    "url": "https://movie.douban.com/subject/1300555/",
+    "casts": [
+      "迈克尔·J·福克斯",
+      "克里斯托弗·洛伊德",
+      "莉·汤普森",
+      "克里斯平·格洛弗",
+      "托马斯·F·威尔森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475872903.jpg",
+    "id": "1300555",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "施嘉宁"
+    ],
+    "rate": "8.4",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "极限挑战宝藏行·三区三州公益季",
+    "url": "https://movie.douban.com/subject/35161120/",
+    "casts": [
+      "邓伦",
+      "郭京飞",
+      "贾乃亮",
+      "雷佳音",
+      "秦昊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2616854580.jpg",
+    "id": "35161120",
+    "cover_y": 1919
+  },
+  {
+    "directors": [
+      "滕华涛"
+    ],
+    "rate": "2.9",
+    "cover_x": 5865,
+    "star": "15",
+    "title": "上海堡垒",
+    "url": "https://movie.douban.com/subject/26581837/",
+    "casts": [
+      "鹿晗",
+      "舒淇",
+      "石凉",
+      "高以翔",
+      "王宫良"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564170314.jpg",
+    "id": "26581837",
+    "cover_y": 8192
+  },
+  {
+    "directors": [
+      "韦正"
+    ],
+    "rate": "7.4",
+    "cover_x": 500,
+    "star": "35",
+    "title": "爱情公寓4",
+    "url": "https://movie.douban.com/subject/10793510/",
+    "casts": [
+      "娄艺潇",
+      "陈赫",
+      "李金铭",
+      "孙艺洲",
+      "李佳航"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2163160507.jpg",
+    "id": "10793510",
+    "cover_y": 714
+  },
+  {
+    "directors": [
+      "西泽信孝",
+      "志水淳儿"
+    ],
+    "rate": "9.6",
+    "cover_x": 1051,
+    "star": "50",
+    "title": "灌篮高手",
+    "url": "https://movie.douban.com/subject/1998799/",
+    "casts": [
+      "草尾毅",
+      "绿川光",
+      "梁田清之",
+      "置鲇龙太郎",
+      "盐屋翼"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2445459194.jpg",
+    "id": "1998799",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "石川淳一",
+      "城宝秀则"
+    ],
+    "rate": "9.4",
+    "cover_x": 995,
+    "star": "45",
+    "title": "胜者即是正义",
+    "url": "https://movie.douban.com/subject/10491666/",
+    "casts": [
+      "堺雅人",
+      "新垣结衣",
+      "生濑胜久",
+      "小池荣子",
+      "里见浩太朗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1901775591.jpg",
+    "id": "10491666",
+    "cover_y": 1350
+  },
+  {
+    "directors": [
+      "史蒂芬·戴德利"
+    ],
+    "rate": "8.6",
+    "cover_x": 3878,
+    "star": "45",
+    "title": "朗读者",
+    "url": "https://movie.douban.com/subject/2213597/",
+    "casts": [
+      "凯特·温丝莱特",
+      "大卫·克劳斯",
+      "拉尔夫·费因斯",
+      "詹妮特·海因",
+      "苏珊娜·洛塔尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg",
+    "id": "2213597",
+    "cover_y": 5748
+  },
+  {
+    "directors": [
+      "胡进庆",
+      "葛桂云",
+      "周克勤"
+    ],
+    "rate": "9.0",
+    "cover_x": 1200,
+    "star": "45",
+    "title": "葫芦兄弟",
+    "url": "https://movie.douban.com/subject/1428576/",
+    "casts": [
+      "战车"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561717360.jpg",
+    "id": "1428576",
+    "cover_y": 1800
+  },
+  {
+    "directors": [
+      "保罗·哈吉斯"
+    ],
+    "rate": "8.6",
+    "cover_x": 2180,
+    "star": "45",
+    "title": "撞车",
+    "url": "https://movie.douban.com/subject/1388216/",
+    "casts": [
+      "桑德拉·布洛克",
+      "唐·钱德尔",
+      "马特·狄龙",
+      "布兰登·费舍",
+      "泰伦斯·霍华德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2075132390.jpg",
+    "id": "1388216",
+    "cover_y": 3380
+  },
+  {
+    "directors": [
+      "卡洛斯·沙尔丹哈",
+      "麦克·特米尔"
+    ],
+    "rate": "8.3",
+    "cover_x": 1425,
+    "star": "40",
+    "title": "冰川时代3",
+    "url": "https://movie.douban.com/subject/2357162/",
+    "casts": [
+      "雷·罗马诺",
+      "约翰·雷吉扎莫",
+      "丹尼斯·利瑞",
+      "西蒙·佩吉",
+      "Eunice Cho"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2213132432.jpg",
+    "id": "2357162",
+    "cover_y": 2110
+  },
+  {
+    "directors": [
+      "格蕾塔·葛韦格"
+    ],
+    "rate": "7.9",
+    "cover_x": 5567,
+    "star": "40",
+    "title": "伯德小姐",
+    "url": "https://movie.douban.com/subject/26588314/",
+    "casts": [
+      "西尔莎·罗南",
+      "劳里·梅特卡夫",
+      "崔西·莱茨",
+      "卢卡斯·赫奇斯",
+      "蒂莫西·柴勒梅德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505925363.jpg",
+    "id": "26588314",
+    "cover_y": 7967
+  }
+]

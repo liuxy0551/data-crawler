@@ -1,0 +1,405 @@
+[
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "8.7",
+    "cover_x": 2000,
+    "star": "45",
+    "title": "头号玩家",
+    "url": "https://movie.douban.com/subject/4920389/",
+    "casts": [
+      "泰伊·谢里丹",
+      "奥利维亚·库克",
+      "本·门德尔森",
+      "马克·里朗斯",
+      "丽娜·维特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg",
+    "id": "4920389",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "查传谊"
+    ],
+    "rate": "7.5",
+    "cover_x": 4429,
+    "star": "40",
+    "title": "传闻中的陈芊芊",
+    "url": "https://movie.douban.com/subject/34463197/",
+    "casts": [
+      "赵露思",
+      "丁禹兮",
+      "盛英豪",
+      "周紫馨",
+      "权沛伦"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2602398693.jpg",
+    "id": "34463197",
+    "cover_y": 6791
+  },
+  {
+    "directors": [
+      "克里斯托弗·诺兰"
+    ],
+    "rate": "9.3",
+    "cover_x": 1080,
+    "star": "45",
+    "title": "星际穿越",
+    "url": "https://movie.douban.com/subject/1889243/",
+    "casts": [
+      "马修·麦康纳",
+      "安妮·海瑟薇",
+      "杰西卡·查斯坦",
+      "麦肯吉·弗依",
+      "卡西·阿弗莱克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg",
+    "id": "1889243",
+    "cover_y": 1572
+  },
+  {
+    "directors": [
+      "宫崎骏"
+    ],
+    "rate": "9.2",
+    "cover_x": 1600,
+    "star": "45",
+    "title": "龙猫",
+    "url": "https://movie.douban.com/subject/1291560/",
+    "casts": [
+      "日高法子",
+      "坂本千夏",
+      "糸井重里",
+      "岛本须美",
+      "北林谷荣"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg",
+    "id": "1291560",
+    "cover_y": 2358
+  },
+  {
+    "directors": [
+      "奉俊昊"
+    ],
+    "rate": "8.7",
+    "cover_x": 1500,
+    "star": "45",
+    "title": "寄生虫",
+    "url": "https://movie.douban.com/subject/27010768/",
+    "casts": [
+      "宋康昊",
+      "李善均",
+      "曹如晶",
+      "崔宇植",
+      "朴素丹"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg",
+    "id": "27010768",
+    "cover_y": 2138
+  },
+  {
+    "directors": [
+      "刘海波"
+    ],
+    "rate": "7.7",
+    "cover_x": 2953,
+    "star": "40",
+    "title": "三叉戟",
+    "url": "https://movie.douban.com/subject/34845712/",
+    "casts": [
+      "陈建斌",
+      "董勇",
+      "郝平",
+      "何杜娟",
+      "王骁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2607650553.jpg",
+    "id": "34845712",
+    "cover_y": 4528
+  },
+  {
+    "directors": [
+      "宫崎骏"
+    ],
+    "rate": "9.1",
+    "cover_x": 1509,
+    "star": "45",
+    "title": "哈尔的移动城堡",
+    "url": "https://movie.douban.com/subject/1308807/",
+    "casts": [
+      "倍赏千惠子",
+      "木村拓哉",
+      "美轮明宏",
+      "我修院达也",
+      "神木隆之介"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg",
+    "id": "1308807",
+    "cover_y": 2131
+  },
+  {
+    "directors": [
+      "迈克·内威尔"
+    ],
+    "rate": "8.5",
+    "cover_x": 729,
+    "star": "45",
+    "title": "哈利·波特与火焰杯",
+    "url": "https://movie.douban.com/subject/1309055/",
+    "casts": [
+      "丹尼尔·雷德克里夫",
+      "艾玛·沃森",
+      "鲁伯特·格林特",
+      "蒂莫西·斯波",
+      "邦妮·怀特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2220723219.jpg",
+    "id": "1309055",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "娜丁·拉巴基"
+    ],
+    "rate": "9.1",
+    "cover_x": 1500,
+    "star": "45",
+    "title": "何以为家",
+    "url": "https://movie.douban.com/subject/30170448/",
+    "casts": [
+      "赞恩·阿尔·拉菲亚",
+      "约丹诺斯·希费罗",
+      "博鲁瓦蒂夫·特雷杰·班科尔",
+      "卡萨尔·艾尔·哈达德",
+      "法迪·尤瑟夫"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg",
+    "id": "30170448",
+    "cover_y": 2210
+  },
+  {
+    "directors": [
+      "安德鲁·斯坦顿"
+    ],
+    "rate": "9.3",
+    "cover_x": 3000,
+    "star": "45",
+    "title": "机器人总动员",
+    "url": "https://movie.douban.com/subject/2131459/",
+    "casts": [
+      "本·贝尔特",
+      "艾丽莎·奈特",
+      "杰夫·格尔林",
+      "佛莱德·威拉特",
+      "西格妮·韦弗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+    "id": "2131459",
+    "cover_y": 4447
+  },
+  {
+    "directors": [
+      "安东尼·罗素",
+      "乔·罗素"
+    ],
+    "rate": "8.5",
+    "cover_x": 3000,
+    "star": "45",
+    "title": "复仇者联盟4：终局之战",
+    "url": "https://movie.douban.com/subject/26100958/",
+    "casts": [
+      "小罗伯特·唐尼",
+      "克里斯·埃文斯",
+      "马克·鲁弗洛",
+      "克里斯·海姆斯沃斯",
+      "乔什·布洛林"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552058346.jpg",
+    "id": "26100958",
+    "cover_y": 4440
+  },
+  {
+    "directors": [
+      "林超贤"
+    ],
+    "rate": "8.3",
+    "cover_x": 1429,
+    "star": "40",
+    "title": "红海行动",
+    "url": "https://movie.douban.com/subject/26861685/",
+    "casts": [
+      "张译",
+      "黄景瑜",
+      "海清",
+      "杜江",
+      "蒋璐霞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514119443.jpg",
+    "id": "26861685",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "克里斯托夫·巴拉蒂"
+    ],
+    "rate": "9.3",
+    "cover_x": 491,
+    "star": "45",
+    "title": "放牛班的春天",
+    "url": "https://movie.douban.com/subject/1291549/",
+    "casts": [
+      "热拉尔·朱尼奥",
+      "弗朗索瓦·贝莱昂",
+      "凯德·麦拉德",
+      "让-保罗·博奈雷",
+      "玛丽·布奈尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg",
+    "id": "1291549",
+    "cover_y": 655
+  },
+  {
+    "directors": [
+      "许宏宇"
+    ],
+    "rate": "8.0",
+    "cover_x": 632,
+    "star": "40",
+    "title": "穿越火线",
+    "url": "https://movie.douban.com/subject/30399268/",
+    "casts": [
+      "鹿晗",
+      "吴磊",
+      "代露娃",
+      "宋妍霏",
+      "刘帅良"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614202895.jpg",
+    "id": "30399268",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "彼特·道格特",
+      "鲍勃·彼德森"
+    ],
+    "rate": "9.0",
+    "cover_x": 2700,
+    "star": "45",
+    "title": "飞屋环游记",
+    "url": "https://movie.douban.com/subject/2129039/",
+    "casts": [
+      "爱德华·阿斯纳",
+      "克里斯托弗·普卢默",
+      "乔丹·长井",
+      "鲍勃·彼德森",
+      "德尔罗伊·林多"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p485887754.jpg",
+    "id": "2129039",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "陈国富",
+      "高群书"
+    ],
+    "rate": "8.2",
+    "cover_x": 1200,
+    "star": "40",
+    "title": "风声",
+    "url": "https://movie.douban.com/subject/3734112/",
+    "casts": [
+      "周迅",
+      "李冰冰",
+      "张涵予",
+      "王志文",
+      "黄晓明"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1599059779.jpg",
+    "id": "3734112",
+    "cover_y": 1667
+  },
+  {
+    "directors": [
+      "罗伯托·贝尼尼"
+    ],
+    "rate": "9.5",
+    "cover_x": 2362,
+    "star": "50",
+    "title": "美丽人生",
+    "url": "https://movie.douban.com/subject/1292063/",
+    "casts": [
+      "罗伯托·贝尼尼",
+      "尼可莱塔·布拉斯基",
+      "乔治·坎塔里尼",
+      "朱斯蒂诺·杜拉诺",
+      "赛尔乔·比尼·布斯特里克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg",
+    "id": "1292063",
+    "cover_y": 3307
+  },
+  {
+    "directors": [
+      "刘镇伟"
+    ],
+    "rate": "9.0",
+    "cover_x": 1280,
+    "star": "45",
+    "title": "大话西游之月光宝盒",
+    "url": "https://movie.douban.com/subject/1299398/",
+    "casts": [
+      "周星驰",
+      "吴孟达",
+      "罗家英",
+      "蓝洁瑛",
+      "莫文蔚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg",
+    "id": "1299398",
+    "cover_y": 1830
+  },
+  {
+    "directors": [
+      "詹姆斯·卡梅隆"
+    ],
+    "rate": "8.7",
+    "cover_x": 400,
+    "star": "45",
+    "title": "阿凡达",
+    "url": "https://movie.douban.com/subject/1652587/",
+    "casts": [
+      "萨姆·沃辛顿",
+      "佐伊·索尔达娜",
+      "西格妮·韦弗",
+      "史蒂芬·朗",
+      "米歇尔·罗德里格兹"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg",
+    "id": "1652587",
+    "cover_y": 592
+  },
+  {
+    "directors": [
+      "李安"
+    ],
+    "rate": "9.1",
+    "cover_x": 3375,
+    "star": "45",
+    "title": "少年派的奇幻漂流",
+    "url": "https://movie.douban.com/subject/1929463/",
+    "casts": [
+      "苏拉·沙玛",
+      "伊尔凡·可汗",
+      "拉菲·斯波",
+      "阿迪勒·侯赛因",
+      "塔布"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg",
+    "id": "1929463",
+    "cover_y": 5000
+  }
+]

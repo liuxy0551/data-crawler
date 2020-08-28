@@ -1,0 +1,409 @@
+[
+  {
+    "directors": [
+      "郑芬芬"
+    ],
+    "rate": "8.1",
+    "cover_x": 4482,
+    "star": "40",
+    "title": "听说",
+    "url": "https://movie.douban.com/subject/3824672/",
+    "casts": [
+      "彭于晏",
+      "陈意涵",
+      "陈妍希",
+      "罗北安",
+      "林美秀"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2250788664.jpg",
+    "id": "3824672",
+    "cover_y": 6330
+  },
+  {
+    "directors": [
+      "艾斯林·沃什"
+    ],
+    "rate": "9.1",
+    "cover_x": 1200,
+    "star": "45",
+    "title": "莫娣",
+    "url": "https://movie.douban.com/subject/25938803/",
+    "casts": [
+      "莎莉·霍金斯",
+      "伊桑·霍克",
+      "卡瑞·玛切特",
+      "加布里埃尔·罗斯",
+      "扎卡里·贝内特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2431089276.jpg",
+    "id": "25938803",
+    "cover_y": 1733
+  },
+  {
+    "directors": [
+      "莫滕·泰杜姆"
+    ],
+    "rate": "6.9",
+    "cover_x": 1396,
+    "star": "35",
+    "title": "太空旅客",
+    "url": "https://movie.douban.com/subject/3434070/",
+    "casts": [
+      "詹妮弗·劳伦斯",
+      "克里斯·帕拉特",
+      "麦克·辛",
+      "劳伦斯·菲什伯恩",
+      "安迪·加西亚"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2410576676.jpg",
+    "id": "3434070",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "6.5",
+    "cover_x": 1800,
+    "star": "35",
+    "title": "非诚勿扰2",
+    "url": "https://movie.douban.com/subject/4271894/",
+    "casts": [
+      "葛优",
+      "舒淇",
+      "孙红雷",
+      "姚晨",
+      "安以轩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p725272302.jpg",
+    "id": "4271894",
+    "cover_y": 2515
+  },
+  {
+    "directors": [
+      "大卫·科尔"
+    ],
+    "rate": "6.4",
+    "cover_x": 1000,
+    "star": "30",
+    "title": "憨豆特工3",
+    "url": "https://movie.douban.com/subject/27073234/",
+    "casts": [
+      "罗温·艾金森",
+      "本·米勒",
+      "欧嘉·柯瑞兰寇",
+      "杰克·莱西",
+      "艾玛·汤普森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2538352472.jpg",
+    "id": "27073234",
+    "cover_y": 1470
+  },
+  {
+    "directors": [
+      "徐立功",
+      "尹祺"
+    ],
+    "rate": "8.1",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "夜奔",
+    "url": "https://movie.douban.com/subject/1306465/",
+    "casts": [
+      "黄磊",
+      "刘若英",
+      "尹昭德",
+      "戴立忍",
+      "归亚蕾"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551409697.jpg",
+    "id": "1306465",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "王晶",
+      "程小东"
+    ],
+    "rate": "7.9",
+    "cover_x": 747,
+    "star": "40",
+    "title": "鹿鼎记2：神龙教",
+    "url": "https://movie.douban.com/subject/1306951/",
+    "casts": [
+      "周星驰",
+      "邱淑贞",
+      "林青霞",
+      "李嘉欣",
+      "陈百祥"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1655227895.jpg",
+    "id": "1306951",
+    "cover_y": 1056
+  },
+  {
+    "directors": [
+      "山本泰一郎"
+    ],
+    "rate": "7.4",
+    "cover_x": 2142,
+    "star": "35",
+    "title": "名侦探柯南：天空的遇难船",
+    "url": "https://movie.douban.com/subject/5153329/",
+    "casts": [
+      "高山南",
+      "山口胜平",
+      "山崎和佳奈",
+      "小山力也",
+      "堀川亮"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2259010597.jpg",
+    "id": "5153329",
+    "cover_y": 3025
+  },
+  {
+    "directors": [
+      "尼尔·博格"
+    ],
+    "rate": "6.5",
+    "cover_x": 5906,
+    "star": "35",
+    "title": "分歧者：异类觉醒",
+    "url": "https://movie.douban.com/subject/6424814/",
+    "casts": [
+      "谢琳·伍德蕾",
+      "西奥·詹姆斯",
+      "艾什莉·贾德",
+      "杰·科特尼",
+      "雷·史蒂文森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196353608.jpg",
+    "id": "6424814",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "林爱华"
+    ],
+    "rate": "4.6",
+    "cover_x": 2143,
+    "star": "25",
+    "title": "整容日记",
+    "url": "https://movie.douban.com/subject/11614603/",
+    "casts": [
+      "白百何",
+      "郑中基",
+      "张瑶",
+      "郭京飞",
+      "金尤美"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174794423.jpg",
+    "id": "11614603",
+    "cover_y": 2993
+  },
+  {
+    "directors": [
+      "吴贻弓"
+    ],
+    "rate": "9.0",
+    "cover_x": 600,
+    "star": "45",
+    "title": "城南旧事",
+    "url": "https://movie.douban.com/subject/1300894/",
+    "casts": [
+      "沈洁",
+      "张丰毅",
+      "张闽",
+      "郑振瑶",
+      "严翔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2178268394.jpg",
+    "id": "1300894",
+    "cover_y": 892
+  },
+  {
+    "directors": [
+      "丹·斯坎隆"
+    ],
+    "rate": "7.7",
+    "cover_x": 2233,
+    "star": "40",
+    "title": "1/2的魔法",
+    "url": "https://movie.douban.com/subject/30401849/",
+    "casts": [
+      "汤姆·赫兰德",
+      "克里斯·帕拉特",
+      "茱莉亚·路易斯-德瑞弗斯",
+      "奥克塔维亚·斯宾瑟",
+      "梅尔·罗德里格斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2616349563.jpg",
+    "id": "30401849",
+    "cover_y": 3190
+  },
+  {
+    "directors": [
+      "林祐一郎",
+      "德土大介",
+      "关野圭一",
+      "高桥谦仁",
+      "原英和"
+    ],
+    "rate": "9.2",
+    "cover_x": 2898,
+    "star": "45",
+    "title": "异兽魔都",
+    "url": "https://movie.douban.com/subject/30377019/",
+    "casts": [
+      "高木涉",
+      "近藤玲奈",
+      "堀内贤雄",
+      "细谷佳正",
+      "小林优"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2571185490.jpg",
+    "id": "30377019",
+    "cover_y": 4096
+  },
+  {
+    "directors": [
+      "彭聆"
+    ],
+    "rate": "8.7",
+    "cover_x": 3046,
+    "star": "45",
+    "title": "横冲直撞20岁 第二季",
+    "url": "https://movie.douban.com/subject/34894501/",
+    "casts": [
+      "孟美岐",
+      "吴宣仪",
+      "杨超越",
+      "段奥娟",
+      "Yamy"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2590504380.jpg",
+    "id": "34894501",
+    "cover_y": 5415
+  },
+  {
+    "directors": [
+      "姜小巍"
+    ],
+    "rate": "5.9",
+    "cover_x": 780,
+    "star": "30",
+    "title": "少年之名",
+    "url": "https://movie.douban.com/subject/34979219/",
+    "casts": [
+      "郭敬明",
+      "胡彦斌",
+      "程潇",
+      "韩宇",
+      "张艺兴"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2611507907.jpg",
+    "id": "34979219",
+    "cover_y": 1402
+  },
+  {
+    "directors": [
+      "贾斯汀·罗兰"
+    ],
+    "rate": "9.7",
+    "cover_x": 1280,
+    "star": "50",
+    "title": "瑞克和莫蒂 第一季",
+    "url": "https://movie.douban.com/subject/11537954/",
+    "casts": [
+      "贾斯汀·罗兰",
+      "克里斯·帕内尔",
+      "斯宾瑟·格拉默",
+      "萨拉·乔克",
+      "凯瑞·华格伦"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2396871198.jpg",
+    "id": "11537954",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "查德·斯塔赫斯基"
+    ],
+    "rate": "7.7",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "疾速特攻",
+    "url": "https://movie.douban.com/subject/26333560/",
+    "casts": [
+      "基努·里维斯",
+      "里卡多·斯卡马乔",
+      "伊恩·麦柯肖恩",
+      "鲁比·罗丝",
+      "科曼"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2425658978.jpg",
+    "id": "26333560",
+    "cover_y": 2963
+  },
+  {
+    "directors": [
+      "西达夫·马贺拉"
+    ],
+    "rate": "7.5",
+    "cover_x": 4872,
+    "star": "40",
+    "title": "嗝嗝老师",
+    "url": "https://movie.douban.com/subject/30140571/",
+    "casts": [
+      "拉妮·玛克赫吉",
+      "内拉吉·卡比",
+      "萨钦",
+      "苏普丽雅·皮尔加卡尔",
+      "罗希特·萨拉夫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535365481.jpg",
+    "id": "30140571",
+    "cover_y": 6824
+  },
+  {
+    "directors": [
+      "约翰·卡拉辛斯基"
+    ],
+    "rate": "6.3",
+    "cover_x": 960,
+    "star": "30",
+    "title": "寂静之地",
+    "url": "https://movie.douban.com/subject/26997663/",
+    "casts": [
+      "艾米莉·布朗特",
+      "约翰·卡拉辛斯基",
+      "米利森特·西蒙兹",
+      "诺亚·尤佩",
+      "凯德·伍德沃德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518852413.jpg",
+    "id": "26997663",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "雅各布·海尔",
+      "艾丽卡·海斯"
+    ],
+    "rate": "9.7",
+    "cover_x": 1200,
+    "star": "50",
+    "title": "瑞克和莫蒂 第四季",
+    "url": "https://movie.douban.com/subject/27166039/",
+    "casts": [
+      "贾斯汀·罗兰",
+      "克里斯·帕内尔",
+      "斯宾瑟·格拉默",
+      "萨拉·乔克",
+      "凯瑞·华格伦"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2573033857.jpg",
+    "id": "27166039",
+    "cover_y": 1800
+  }
+]

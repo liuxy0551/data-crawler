@@ -1,0 +1,409 @@
+[
+  {
+    "directors": [
+      "伊丽莎白·柴·瓦沙瑞莉",
+      "金国威"
+    ],
+    "rate": "8.9",
+    "cover_x": 4200,
+    "star": "45",
+    "title": "徒手攀岩",
+    "url": "https://movie.douban.com/subject/30167509/",
+    "casts": [
+      "亚历克斯·霍诺德",
+      "汤米·考德威尔",
+      "金国威",
+      "米奇·谢弗",
+      "萨妮·麦坎德斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.jpg",
+    "id": "30167509",
+    "cover_y": 6000
+  },
+  {
+    "directors": [
+      "韦斯·安德森"
+    ],
+    "rate": "8.3",
+    "cover_x": 6201,
+    "star": "40",
+    "title": "犬之岛",
+    "url": "https://movie.douban.com/subject/26640371/",
+    "casts": [
+      "布莱恩·科兰斯顿",
+      "爱德华·诺顿",
+      "科宇·兰金",
+      "列维·施瑞博尔",
+      "比尔·默瑞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518856022.jpg",
+    "id": "26640371",
+    "cover_y": 9094
+  },
+  {
+    "directors": [
+      "吴有音"
+    ],
+    "rate": "6.7",
+    "cover_x": 1050,
+    "star": "35",
+    "title": "南极之恋",
+    "url": "https://movie.douban.com/subject/26628329/",
+    "casts": [
+      "赵又廷",
+      "杨子姗",
+      "白雪"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518028103.jpg",
+    "id": "26628329",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "金炫锡"
+    ],
+    "rate": "8.8",
+    "cover_x": 669,
+    "star": "45",
+    "title": "我能说",
+    "url": "https://movie.douban.com/subject/27000061/",
+    "casts": [
+      "罗文姬",
+      "李帝勋",
+      "廉惠兰",
+      "朴哲民",
+      "李尚熙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498433749.jpg",
+    "id": "27000061",
+    "cover_y": 960
+  },
+  {
+    "directors": [
+      "张艾嘉"
+    ],
+    "rate": "8.4",
+    "cover_x": 5906,
+    "star": "40",
+    "title": "相爱相亲",
+    "url": "https://movie.douban.com/subject/26773744/",
+    "casts": [
+      "张艾嘉",
+      "田壮壮",
+      "郎月婷",
+      "宋宁峰",
+      "吴彦姝"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502311890.jpg",
+    "id": "26773744",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "克里斯托弗·兰登"
+    ],
+    "rate": "6.6",
+    "cover_x": 3158,
+    "star": "35",
+    "title": "忌日快乐2",
+    "url": "https://movie.douban.com/subject/30209818/",
+    "casts": [
+      "杰西卡·罗德",
+      "伊瑟尔·布罗萨德",
+      "露比·莫迪恩",
+      "苏拉·沙玛",
+      "史蒂夫·齐西斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537453473.jpg",
+    "id": "30209818",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "金子文纪",
+      "土井裕泰",
+      "石井康晴"
+    ],
+    "rate": "8.3",
+    "cover_x": 566,
+    "star": "40",
+    "title": "逃避虽可耻但有用",
+    "url": "https://movie.douban.com/subject/26816519/",
+    "casts": [
+      "新垣结衣",
+      "星野源",
+      "大谷亮平",
+      "藤井隆",
+      "真野惠里菜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2400201631.jpg",
+    "id": "26816519",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "亨利·塞利克"
+    ],
+    "rate": "8.2",
+    "cover_x": 1012,
+    "star": "40",
+    "title": "鬼妈妈",
+    "url": "https://movie.douban.com/subject/1919245/",
+    "casts": [
+      "达科塔·范宁",
+      "特丽·哈彻",
+      "珍妮弗·桑德斯",
+      "唐·弗兰奇",
+      "小罗伯特·拜利"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1731353563.jpg",
+    "id": "1919245",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "史蒂文·奎里 "
+    ],
+    "rate": "6.7",
+    "cover_x": 1434,
+    "star": "35",
+    "title": "死神来了5",
+    "url": "https://movie.douban.com/subject/4724373/",
+    "casts": [
+      "麦尔斯·费舍",
+      "尼克·达歌斯托",
+      "大卫·科恩查内",
+      "艾玛·贝尔",
+      "梅甘·欧瑞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1188961143.jpg",
+    "id": "4724373",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "陈建斌"
+    ],
+    "rate": "7.7",
+    "cover_x": 577,
+    "star": "40",
+    "title": "一个勺子",
+    "url": "https://movie.douban.com/subject/25926267/",
+    "casts": [
+      "陈建斌",
+      "蒋勤勤",
+      "王学兵",
+      "金世佳",
+      "王旭峰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2284639043.jpg",
+    "id": "25926267",
+    "cover_y": 750
+  },
+  {
+    "directors": [
+      "罗杰·梅因伍德"
+    ],
+    "rate": "8.8",
+    "cover_x": 4031,
+    "star": "45",
+    "title": "伦敦一家人",
+    "url": "https://movie.douban.com/subject/5327189/",
+    "casts": [
+      "卢克·崔德威",
+      "吉姆·布劳德本特",
+      "布兰达·布莱斯",
+      "帕姆·费里斯",
+      "罗杰·阿拉姆"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2421801088.jpg",
+    "id": "5327189",
+    "cover_y": 5723
+  },
+  {
+    "directors": [
+      "盖·里奇"
+    ],
+    "rate": "7.6",
+    "cover_x": 2700,
+    "star": "40",
+    "title": "大侦探福尔摩斯2：诡影游戏",
+    "url": "https://movie.douban.com/subject/4051753/",
+    "casts": [
+      "小罗伯特·唐尼",
+      "裘德·洛",
+      "瑞秋·麦克亚当斯",
+      "劳米·拉佩斯",
+      "斯蒂芬·弗雷"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1327387815.jpg",
+    "id": "4051753",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "清水崇"
+    ],
+    "rate": "7.4",
+    "cover_x": 668,
+    "star": "35",
+    "title": "咒怨",
+    "url": "https://movie.douban.com/subject/1306808/",
+    "casts": [
+      "奥菜惠",
+      "伊东美咲",
+      "上原美佐",
+      "市川由衣",
+      "津田宽治"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410260517.jpg",
+    "id": "1306808",
+    "cover_y": 954
+  },
+  {
+    "directors": [
+      "马丁·斯科塞斯"
+    ],
+    "rate": "8.5",
+    "cover_x": 564,
+    "star": "45",
+    "title": "出租车司机",
+    "url": "https://movie.douban.com/subject/1292222/",
+    "casts": [
+      "罗伯特·德尼罗",
+      "朱迪·福斯特",
+      "斯碧尔·谢波德",
+      "艾伯特·布鲁克斯",
+      "哈威·凯特尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792510233.jpg",
+    "id": "1292222",
+    "cover_y": 767
+  },
+  {
+    "directors": [
+      "托德·霍兰德",
+      "盖尔·曼库索",
+      "加里·哈勒沃尔森",
+      "凯文·布莱特",
+      "Dana De Vally Piazza",
+      "乔·雷加尔布托",
+      "迈克尔·莱拜克"
+    ],
+    "rate": "9.8",
+    "cover_x": 1089,
+    "star": "50",
+    "title": "老友记  第五季",
+    "url": "https://movie.douban.com/subject/3286538/",
+    "casts": [
+      "詹妮弗·安妮斯顿",
+      "柯特妮·考克斯",
+      "丽莎·库卓",
+      "马特·勒布朗",
+      "马修·派瑞"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2330977709.jpg",
+    "id": "3286538",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "山崎贵"
+    ],
+    "rate": "7.4",
+    "cover_x": 5953,
+    "star": "35",
+    "title": "寄生兽",
+    "url": "https://movie.douban.com/subject/25774050/",
+    "casts": [
+      "染谷将太",
+      "深津绘里",
+      "阿部隆史",
+      "桥本爱",
+      "东出昌大"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2375921261.jpg",
+    "id": "25774050",
+    "cover_y": 8315
+  },
+  {
+    "directors": [
+      "吕克·贝松"
+    ],
+    "rate": "7.0",
+    "cover_x": 1064,
+    "star": "35",
+    "title": "星际特工：千星之城",
+    "url": "https://movie.douban.com/subject/11502973/",
+    "casts": [
+      "戴恩·德哈恩",
+      "卡拉·迪瓦伊",
+      "克莱夫·欧文",
+      "蕾哈娜",
+      "伊桑·霍克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496088130.jpg",
+    "id": "11502973",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "罗伯特·泽米吉斯"
+    ],
+    "rate": "8.4",
+    "cover_x": 500,
+    "star": "40",
+    "title": "回到未来2",
+    "url": "https://movie.douban.com/subject/1299092/",
+    "casts": [
+      "迈克尔·J·福克斯",
+      "克里斯托弗·洛伊德",
+      "莉·汤普森",
+      "托马斯·F·威尔森",
+      "伊丽莎白·苏"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475857703.jpg",
+    "id": "1299092",
+    "cover_y": 747
+  },
+  {
+    "directors": [
+      "梁胜权"
+    ],
+    "rate": "6.5",
+    "cover_x": 1265,
+    "star": "35",
+    "title": "老九门",
+    "url": "https://movie.douban.com/subject/26614088/",
+    "casts": [
+      "陈伟霆",
+      "张艺兴",
+      "赵丽颖",
+      "应昊茗",
+      "袁冰妍"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2370960514.jpg",
+    "id": "26614088",
+    "cover_y": 1771
+  },
+  {
+    "directors": [
+      "彭宥纶"
+    ],
+    "rate": "5.7",
+    "cover_x": 2500,
+    "star": "30",
+    "title": "亲爱的新年好",
+    "url": "https://movie.douban.com/subject/34460763/",
+    "casts": [
+      "白百何",
+      "张子枫",
+      "魏大勋",
+      "许娣",
+      "李建义"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578723424.jpg",
+    "id": "34460763",
+    "cover_y": 3500
+  }
+]

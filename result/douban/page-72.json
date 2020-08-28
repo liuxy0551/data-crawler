@@ -1,0 +1,412 @@
+[
+  {
+    "directors": [
+      "朗·霍华德"
+    ],
+    "rate": "7.4",
+    "cover_x": 1009,
+    "star": "35",
+    "title": "达·芬奇密码",
+    "url": "https://movie.douban.com/subject/1329950/",
+    "casts": [
+      "汤姆·汉克斯",
+      "奥黛丽·塔图",
+      "伊恩·麦克莱恩",
+      "让·雷诺",
+      "保罗·贝坦尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453938430.jpg",
+    "id": "1329950",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "何舒"
+    ],
+    "rate": "6.6",
+    "cover_x": 3259,
+    "star": "35",
+    "title": "密室大逃脱 第一季",
+    "url": "https://movie.douban.com/subject/30384357/",
+    "casts": [
+      "杨幂",
+      "邓伦",
+      "魏大勋",
+      "谢依霖",
+      "黄明昊"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552430417.jpg",
+    "id": "30384357",
+    "cover_y": 4500
+  },
+  {
+    "directors": [
+      "平野真",
+      "谷村政树",
+      "相泽秀幸"
+    ],
+    "rate": "7.5",
+    "cover_x": 612,
+    "star": "40",
+    "title": "朝5晚9：帅气和尚爱上我",
+    "url": "https://movie.douban.com/subject/26588970/",
+    "casts": [
+      "石原里美",
+      "山下智久",
+      "田中圭",
+      "高梨临",
+      "纱荣子"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2281560338.jpg",
+    "id": "26588970",
+    "cover_y": 865
+  },
+  {
+    "directors": [
+      "田羽生"
+    ],
+    "rate": "6.1",
+    "cover_x": 5953,
+    "star": "30",
+    "title": "前任攻略",
+    "url": "https://movie.douban.com/subject/24751754/",
+    "casts": [
+      "韩庚",
+      "姚星彤",
+      "郑恺",
+      "王丽坤",
+      "班嘉佳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2171886373.jpg",
+    "id": "24751754",
+    "cover_y": 8315
+  },
+  {
+    "directors": [
+      "阎羽茜"
+    ],
+    "rate": "5.7",
+    "cover_x": 2657,
+    "star": "30",
+    "title": "猛禽小队和哈莉·奎茵",
+    "url": "https://movie.douban.com/subject/30160393/",
+    "casts": [
+      "玛格特·罗比",
+      "玛丽·伊丽莎白·温斯特德",
+      "罗茜·佩雷兹",
+      "朱尼·斯莫利特",
+      "伊万·麦克格雷格"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575974437.jpg",
+    "id": "30160393",
+    "cover_y": 4097
+  },
+  {
+    "directors": [
+      "珍妮弗·李",
+      "克里斯·巴克"
+    ],
+    "rate": "8.3",
+    "cover_x": 1086,
+    "star": "40",
+    "title": "冰雪奇缘：生日惊喜",
+    "url": "https://movie.douban.com/subject/25977198/",
+    "casts": [
+      "克里斯汀·贝尔",
+      "伊迪娜·门泽尔",
+      "乔纳森·格罗夫",
+      "乔什·加德",
+      "圣蒂诺·方塔纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2232190921.jpg",
+    "id": "25977198",
+    "cover_y": 1610
+  },
+  {
+    "directors": [
+      "李亨民"
+    ],
+    "rate": "7.9",
+    "cover_x": 1437,
+    "star": "40",
+    "title": "大力女子都奉顺",
+    "url": "https://movie.douban.com/subject/26815054/",
+    "casts": [
+      "朴宝英",
+      "朴炯植",
+      "金志洙",
+      "安宇延",
+      "金基茂"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2423081660.jpg",
+    "id": "26815054",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "袁和平"
+    ],
+    "rate": "7.8",
+    "cover_x": 600,
+    "star": "40",
+    "title": "太极张三丰",
+    "url": "https://movie.douban.com/subject/1294561/",
+    "casts": [
+      "李连杰",
+      "杨紫琼",
+      "钱小豪",
+      "袁洁莹",
+      "袁祥仁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p722764652.jpg",
+    "id": "1294561",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "王之"
+    ],
+    "rate": "7.5",
+    "cover_x": 690,
+    "star": "40",
+    "title": "我只喜欢你",
+    "url": "https://movie.douban.com/subject/27020659/",
+    "casts": [
+      "吴倩",
+      "张雨剑",
+      "赵志伟",
+      "马栗",
+      "安戈"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517385072.jpg",
+    "id": "27020659",
+    "cover_y": 1035
+  },
+  {
+    "directors": [
+      "青木荣",
+      "碇谷敦",
+      "下平佑一",
+      "又贺大介",
+      "栗山贵行",
+      "久保田雄大",
+      "青柳隆平"
+    ],
+    "rate": "9.1",
+    "cover_x": 780,
+    "star": "45",
+    "title": "异度侵入",
+    "url": "https://movie.douban.com/subject/34456027/",
+    "casts": [
+      "津田健次郎",
+      "细谷佳正",
+      "竹内良太",
+      "市道真央",
+      "布里德卡特·塞拉·惠美"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584476257.jpg",
+    "id": "34456027",
+    "cover_y": 1101
+  },
+  {
+    "directors": [
+      "申源浩"
+    ],
+    "rate": "9.0",
+    "cover_x": 1664,
+    "star": "45",
+    "title": "请回答1997",
+    "url": "https://movie.douban.com/subject/11516684/",
+    "casts": [
+      "郑恩地",
+      "徐仁国",
+      "申素率",
+      "殷志源",
+      "李浩沅"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2407174319.jpg",
+    "id": "11516684",
+    "cover_y": 2496
+  },
+  {
+    "directors": [
+      "艾里克斯·库兹曼"
+    ],
+    "rate": "4.7",
+    "cover_x": 2000,
+    "star": "25",
+    "title": "新木乃伊",
+    "url": "https://movie.douban.com/subject/20451290/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "罗素·克劳",
+      "安娜贝拉·沃丽丝",
+      "索菲亚·波多拉",
+      "杰克·约翰逊"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2459198108.jpg",
+    "id": "20451290",
+    "cover_y": 2999
+  },
+  {
+    "directors": [
+      "奥利弗·希施比格尔"
+    ],
+    "rate": "8.8",
+    "cover_x": 1400,
+    "star": "45",
+    "title": "帝国的毁灭",
+    "url": "https://movie.douban.com/subject/1309115/",
+    "casts": [
+      "布鲁诺·冈茨",
+      "亚历山德拉·玛丽亚·拉娜",
+      "科琳娜·哈弗奇",
+      "乌尔里希·马特斯",
+      "茱莉安·柯勒"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2191978526.jpg",
+    "id": "1309115",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "林超贤"
+    ],
+    "rate": "7.9",
+    "cover_x": 2126,
+    "star": "40",
+    "title": "激战",
+    "url": "https://movie.douban.com/subject/20388223/",
+    "casts": [
+      "张家辉",
+      "彭于晏",
+      "李馨巧",
+      "梅婷",
+      "李菲儿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2052557343.jpg",
+    "id": "20388223",
+    "cover_y": 2970
+  },
+  {
+    "directors": [
+      "西蒙·韦斯特"
+    ],
+    "rate": "7.1",
+    "cover_x": 590,
+    "star": "35",
+    "title": "机械师",
+    "url": "https://movie.douban.com/subject/3006783/",
+    "casts": [
+      "杰森·斯坦森",
+      "本·福斯特",
+      "托尼·戈德温",
+      "唐纳德·萨瑟兰",
+      "杰夫·蔡斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1008022297.jpg",
+    "id": "3006783",
+    "cover_y": 833
+  },
+  {
+    "directors": [
+      "柳昇完"
+    ],
+    "rate": "7.7",
+    "cover_x": 950,
+    "star": "40",
+    "title": "老手",
+    "url": "https://movie.douban.com/subject/25728010/",
+    "casts": [
+      "黄政民",
+      "刘亚仁",
+      "柳海真",
+      "吴达洙",
+      "郑满植"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2251912398.jpg",
+    "id": "25728010",
+    "cover_y": 1360
+  },
+  {
+    "directors": [
+      "阿里·艾斯特"
+    ],
+    "rate": "7.2",
+    "cover_x": 2024,
+    "star": "35",
+    "title": "遗传厄运",
+    "url": "https://movie.douban.com/subject/27621727/",
+    "casts": [
+      "亚历克斯·沃尔夫",
+      "加布里埃尔·伯恩",
+      "托妮·科莱特",
+      "米莉·夏普洛",
+      "克里斯蒂·萨默海斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518865763.jpg",
+    "id": "27621727",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "丁仰国",
+      "沈怡"
+    ],
+    "rate": "5.4",
+    "cover_x": 700,
+    "star": "25",
+    "title": "一起来看流星雨",
+    "url": "https://movie.douban.com/subject/3546712/",
+    "casts": [
+      "郑爽",
+      "张翰",
+      "俞灏明",
+      "魏晨",
+      "朱梓骁"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526602665.jpg",
+    "id": "3546712",
+    "cover_y": 980
+  },
+  {
+    "directors": [
+      "余明生"
+    ],
+    "rate": "8.1",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "魔幻手机",
+    "url": "https://movie.douban.com/subject/3032552/",
+    "casts": [
+      "李滨",
+      "陈创",
+      "舒畅",
+      "谢宁",
+      "洪乙心"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2325132291.jpg",
+    "id": "3032552",
+    "cover_y": 1406
+  },
+  {
+    "directors": [
+      "大塚隆史"
+    ],
+    "rate": "7.7",
+    "cover_x": 4103,
+    "star": "40",
+    "title": "航海王：狂热行动",
+    "url": "https://movie.douban.com/subject/30329892/",
+    "casts": [
+      "田中真弓",
+      "冈村明美",
+      "中井和哉",
+      "山口胜平",
+      "平田广明"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570039912.jpg",
+    "id": "30329892",
+    "cover_y": 5795
+  }
+]

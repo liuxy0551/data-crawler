@@ -1,0 +1,407 @@
+[
+  {
+    "directors": [
+      "斯里兰姆·拉格万"
+    ],
+    "rate": "8.3",
+    "cover_x": 5906,
+    "star": "40",
+    "title": "调音师",
+    "url": "https://movie.douban.com/subject/30334073/",
+    "casts": [
+      "阿尤斯曼·库拉纳",
+      "塔布",
+      "拉迪卡·艾普特",
+      "安尔·德霍万",
+      "马纳夫·维吉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551995207.jpg",
+    "id": "30334073",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "李力持"
+    ],
+    "rate": "8.6",
+    "cover_x": 730,
+    "star": "45",
+    "title": "唐伯虎点秋香",
+    "url": "https://movie.douban.com/subject/1306249/",
+    "casts": [
+      "周星驰",
+      "巩俐",
+      "陈百祥",
+      "郑佩佩",
+      "朱咪咪"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg",
+    "id": "1306249",
+    "cover_y": 1024
+  },
+  {
+    "directors": [
+      "毛鲲宇"
+    ],
+    "rate": "8.2",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "少年游之一寸相思",
+    "url": "https://movie.douban.com/subject/30426829/",
+    "casts": [
+      "张耀",
+      "张雅钦",
+      "邹廷威",
+      "邓郁立",
+      "郑好"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2606589900.jpg",
+    "id": "30426829",
+    "cover_y": 1533
+  },
+  {
+    "directors": [
+      "刘伟强",
+      "麦兆辉"
+    ],
+    "rate": "9.2",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "无间道",
+    "url": "https://movie.douban.com/subject/1307914/",
+    "casts": [
+      "刘德华",
+      "梁朝伟",
+      "黄秋生",
+      "曾志伟",
+      "郑秀文"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg",
+    "id": "1307914",
+    "cover_y": 1518
+  },
+  {
+    "directors": [
+      "皮埃尔·柯芬",
+      "克里斯·雷纳德"
+    ],
+    "rate": "8.6",
+    "cover_x": 1013,
+    "star": "45",
+    "title": "神偷奶爸",
+    "url": "https://movie.douban.com/subject/3287562/",
+    "casts": [
+      "史蒂夫·卡瑞尔",
+      "杰森·席格尔",
+      "拉塞尔·布兰德",
+      "朱莉·安德鲁斯",
+      "威尔·阿奈特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg",
+    "id": "3287562",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "陈思诚"
+    ],
+    "rate": "7.6",
+    "cover_x": 2850,
+    "star": "40",
+    "title": "唐人街探案",
+    "url": "https://movie.douban.com/subject/26311973/",
+    "casts": [
+      "王宝强",
+      "刘昊然",
+      "佟丽娅",
+      "陈赫",
+      "肖央"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2302930556.jpg",
+    "id": "26311973",
+    "cover_y": 3990
+  },
+  {
+    "directors": [
+      "奥里奥尔·保罗"
+    ],
+    "rate": "8.8",
+    "cover_x": 5906,
+    "star": "45",
+    "title": "看不见的客人",
+    "url": "https://movie.douban.com/subject/26580232/",
+    "casts": [
+      "马里奥·卡萨斯",
+      "阿娜·瓦格纳",
+      "何塞·科罗纳多",
+      "巴巴拉·莱涅",
+      "弗兰塞斯克·奥雷利亚"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg",
+    "id": "26580232",
+    "cover_y": 8425
+  },
+  {
+    "directors": [
+      "闫非",
+      "彭大魔"
+    ],
+    "rate": "6.6",
+    "cover_x": 679,
+    "star": "35",
+    "title": "西虹市首富",
+    "url": "https://movie.douban.com/subject/27605698/",
+    "casts": [
+      "沈腾",
+      "宋芸桦",
+      "张一鸣",
+      "张晨光",
+      "常远"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529206747.jpg",
+    "id": "27605698",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "周星驰"
+    ],
+    "rate": "8.6",
+    "cover_x": 2143,
+    "star": "45",
+    "title": "功夫",
+    "url": "https://movie.douban.com/subject/1291543/",
+    "casts": [
+      "周星驰",
+      "元秋",
+      "元华",
+      "黄圣依",
+      "梁小龙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg",
+    "id": "1291543",
+    "cover_y": 2993
+  },
+  {
+    "directors": [
+      "新海诚"
+    ],
+    "rate": "7.1",
+    "cover_x": 1452,
+    "star": "35",
+    "title": "天气之子",
+    "url": "https://movie.douban.com/subject/30402296/",
+    "casts": [
+      "醍醐虎汰朗",
+      "森七菜",
+      "小栗旬",
+      "本田翼",
+      "倍赏千惠子"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558022335.jpg",
+    "id": "30402296",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "智磊"
+    ],
+    "rate": "5.3",
+    "cover_x": 2160,
+    "star": "25",
+    "title": "漂亮书生",
+    "url": "https://movie.douban.com/subject/30463452/",
+    "casts": [
+      "鞠婧祎",
+      "宋威龙",
+      "毕雯珺",
+      "王瑞昌",
+      "陈奕龙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614993400.jpg",
+    "id": "30463452",
+    "cover_y": 3840
+  },
+  {
+    "directors": [
+      "陈思诚"
+    ],
+    "rate": "6.7",
+    "cover_x": 1400,
+    "star": "35",
+    "title": "唐人街探案2",
+    "url": "https://movie.douban.com/subject/26698897/",
+    "casts": [
+      "王宝强",
+      "刘昊然",
+      "肖央",
+      "刘承羽",
+      "尚语贤"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512717519.jpg",
+    "id": "26698897",
+    "cover_y": 1960
+  },
+  {
+    "directors": [
+      "宫崎骏"
+    ],
+    "rate": "9.1",
+    "cover_x": 2064,
+    "star": "45",
+    "title": "天空之城",
+    "url": "https://movie.douban.com/subject/1291583/",
+    "casts": [
+      "田中真弓",
+      "横泽启子",
+      "初井言荣",
+      "寺田农",
+      "常田富士男"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg",
+    "id": "1291583",
+    "cover_y": 2933
+  },
+  {
+    "directors": [
+      "柯汶利"
+    ],
+    "rate": "7.7",
+    "cover_x": 1680,
+    "star": "40",
+    "title": "误杀",
+    "url": "https://movie.douban.com/subject/30176393/",
+    "casts": [
+      "肖央",
+      "谭卓",
+      "陈冲",
+      "姜皓文",
+      "秦沛"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614628862.jpg",
+    "id": "30176393",
+    "cover_y": 2352
+  },
+  {
+    "directors": [
+      "克里斯·哥伦布"
+    ],
+    "rate": "8.7",
+    "cover_x": 3300,
+    "star": "45",
+    "title": "哈利·波特与密室",
+    "url": "https://movie.douban.com/subject/1296996/",
+    "casts": [
+      "丹尼尔·雷德克里夫",
+      "艾玛·沃森",
+      "鲁伯特·格林特",
+      "汤姆·费尔顿",
+      "理查德·格雷弗斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1082651990.jpg",
+    "id": "1296996",
+    "cover_y": 4877
+  },
+  {
+    "directors": [
+      "周星驰",
+      "李力持"
+    ],
+    "rate": "8.7",
+    "cover_x": 1080,
+    "star": "45",
+    "title": "喜剧之王",
+    "url": "https://movie.douban.com/subject/1302425/",
+    "casts": [
+      "周星驰",
+      "张柏芝",
+      "莫文蔚",
+      "吴孟达",
+      "林子善"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg",
+    "id": "1302425",
+    "cover_y": 1599
+  },
+  {
+    "directors": [
+      "闫非",
+      "彭大魔"
+    ],
+    "rate": "7.7",
+    "cover_x": 5906,
+    "star": "40",
+    "title": "夏洛特烦恼",
+    "url": "https://movie.douban.com/subject/25964071/",
+    "casts": [
+      "沈腾",
+      "马丽",
+      "尹正",
+      "艾伦",
+      "王智"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2264377763.jpg",
+    "id": "25964071",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "托德·菲利普斯"
+    ],
+    "rate": "8.7",
+    "cover_x": 4050,
+    "star": "45",
+    "title": "小丑",
+    "url": "https://movie.douban.com/subject/27119724/",
+    "casts": [
+      "华金·菲尼克斯",
+      "罗伯特·德尼罗",
+      "马克·马龙",
+      "莎姬·贝兹",
+      "谢伊·惠格姆"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567198874.jpg",
+    "id": "27119724",
+    "cover_y": 6000
+  },
+  {
+    "directors": [
+      "朱塞佩·托纳多雷"
+    ],
+    "rate": "8.9",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "西西里的美丽传说",
+    "url": "https://movie.douban.com/subject/1292402/",
+    "casts": [
+      "莫妮卡·贝鲁奇",
+      "朱塞佩·苏尔法罗",
+      "玛蒂尔德·皮亚纳",
+      "埃丽萨·莫鲁奇",
+      "奥罗拉·夸特罗基"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2448029416.jpg",
+    "id": "1292402",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "9.5",
+    "cover_x": 580,
+    "star": "50",
+    "title": "辛德勒的名单",
+    "url": "https://movie.douban.com/subject/1295124/",
+    "casts": [
+      "连姆·尼森",
+      "本·金斯利",
+      "拉尔夫·费因斯",
+      "卡罗琳·古多尔",
+      "乔纳森·萨加尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+    "id": "1295124",
+    "cover_y": 856
+  }
+]

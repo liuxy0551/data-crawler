@@ -1,0 +1,410 @@
+[
+  {
+    "directors": [
+      "汤姆·霍伯"
+    ],
+    "rate": "8.6",
+    "cover_x": 1012,
+    "star": "45",
+    "title": "悲惨世界",
+    "url": "https://movie.douban.com/subject/6860160/",
+    "casts": [
+      "休·杰克曼",
+      "罗素·克劳",
+      "安妮·海瑟薇",
+      "阿曼达·塞弗里德",
+      "萨莎·拜伦·科恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1900812761.jpg",
+    "id": "6860160",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "王竞"
+    ],
+    "rate": "8.6",
+    "cover_x": 625,
+    "star": "45",
+    "title": "万箭穿心",
+    "url": "https://movie.douban.com/subject/10537853/",
+    "casts": [
+      "颜丙燕",
+      "陈刚",
+      "焦刚",
+      "李现",
+      "赵倩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1759644668.jpg",
+    "id": "10537853",
+    "cover_y": 894
+  },
+  {
+    "directors": [
+      "克里斯·哥伦布"
+    ],
+    "rate": "8.0",
+    "cover_x": 1448,
+    "star": "40",
+    "title": "小鬼当家2",
+    "url": "https://movie.douban.com/subject/1293353/",
+    "casts": [
+      "麦考利·卡尔金",
+      "乔·佩西",
+      "丹尼尔·斯特恩",
+      "凯瑟琳·欧哈拉",
+      "约翰·赫德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2442677226.jpg",
+    "id": "1293353",
+    "cover_y": 2143
+  },
+  {
+    "directors": [
+      "弗朗西斯·安南"
+    ],
+    "rate": "7.6",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "逃离比勒陀利亚",
+    "url": "https://movie.douban.com/subject/27046758/",
+    "casts": [
+      "丹尼尔·雷德克里夫",
+      "伊恩·哈特",
+      "丹尼尔·韦伯",
+      "内森·佩吉",
+      "斯蒂芬·亨特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2589768807.jpg",
+    "id": "27046758",
+    "cover_y": 2925
+  },
+  {
+    "directors": [
+      "关锦鹏"
+    ],
+    "rate": "8.4",
+    "cover_x": 800,
+    "star": "40",
+    "title": "胭脂扣",
+    "url": "https://movie.douban.com/subject/1299288/",
+    "casts": [
+      "梅艳芳",
+      "张国荣",
+      "万梓良",
+      "朱宝意",
+      "温碧霞"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205476838.jpg",
+    "id": "1299288",
+    "cover_y": 1103
+  },
+  {
+    "directors": [
+      "尹鸿承"
+    ],
+    "rate": "4.8",
+    "cover_x": 600,
+    "star": "25",
+    "title": "逆时营救",
+    "url": "https://movie.douban.com/subject/26667056/",
+    "casts": [
+      "杨幂",
+      "霍建华",
+      "金士杰",
+      "刘畅",
+      "张艺瀚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2472784892.jpg",
+    "id": "26667056",
+    "cover_y": 877
+  },
+  {
+    "directors": [
+      "方骏钊"
+    ],
+    "rate": "8.2",
+    "cover_x": 1365,
+    "star": "40",
+    "title": "降魔的2.0",
+    "url": "https://movie.douban.com/subject/30150688/",
+    "casts": [
+      "马国明",
+      "胡鸿钧",
+      "黄智雯",
+      "蒋志光",
+      "谢雪心"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2599415109.jpg",
+    "id": "30150688",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "王晶"
+    ],
+    "rate": "7.5",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "小鱼儿与花无缺",
+    "url": "https://movie.douban.com/subject/2284418/",
+    "casts": [
+      "谢霆锋",
+      "张卫健",
+      "袁泉",
+      "范冰冰",
+      "徐锦江"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522336125.jpg",
+    "id": "2284418",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "戴铁郎",
+      "范马迪",
+      "熊南清"
+    ],
+    "rate": "8.6",
+    "cover_x": 542,
+    "star": "45",
+    "title": "黑猫警长",
+    "url": "https://movie.douban.com/subject/1860377/",
+    "casts": [
+      "史东敏",
+      "王卫",
+      "张泉灵",
+      "杨文元",
+      "杨玉天"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528877467.jpg",
+    "id": "1860377",
+    "cover_y": 766
+  },
+  {
+    "directors": [
+      "范小天",
+      "梦继",
+      "叶伟信"
+    ],
+    "rate": "7.7",
+    "cover_x": 793,
+    "star": "40",
+    "title": "春光灿烂猪八戒",
+    "url": "https://movie.douban.com/subject/2270545/",
+    "casts": [
+      "徐峥",
+      "陶虹",
+      "孙兴",
+      "李立群",
+      "陈红"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564579500.jpg",
+    "id": "2270545",
+    "cover_y": 1121
+  },
+  {
+    "directors": [
+      "李力持",
+      "程小东"
+    ],
+    "rate": "7.6",
+    "cover_x": 800,
+    "star": "40",
+    "title": "破坏之王",
+    "url": "https://movie.douban.com/subject/1299745/",
+    "casts": [
+      "周星驰",
+      "吴孟达",
+      "钟丽缇",
+      "林国斌",
+      "李力持"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2165828468.jpg",
+    "id": "1299745",
+    "cover_y": 1116
+  },
+  {
+    "directors": [
+      "马克∙安德鲁斯",
+      "布兰达∙查普曼",
+      "史蒂夫·普切尔"
+    ],
+    "rate": "7.5",
+    "cover_x": 2693,
+    "star": "40",
+    "title": "勇敢传说",
+    "url": "https://movie.douban.com/subject/3036473/",
+    "casts": [
+      "凯莉·麦克唐纳",
+      "艾玛·汤普森",
+      "比利·康诺利",
+      "朱丽·沃特斯",
+      "罗彼·考特拉尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1597593082.jpg",
+    "id": "3036473",
+    "cover_y": 3993
+  },
+  {
+    "directors": [
+      "柳升进"
+    ],
+    "rate": "8.1",
+    "cover_x": 1313,
+    "star": "40",
+    "title": "火车",
+    "url": "https://movie.douban.com/subject/34908102/",
+    "casts": [
+      "尹施允",
+      "景收真",
+      "申素率",
+      "赵莞基",
+      "车烨"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2608808723.jpg",
+    "id": "34908102",
+    "cover_y": 1848
+  },
+  {
+    "directors": [
+      "温子仁"
+    ],
+    "rate": "8.1",
+    "cover_x": 1012,
+    "star": "40",
+    "title": "潜伏2",
+    "url": "https://movie.douban.com/subject/10485526/",
+    "casts": [
+      "帕特里克·威尔森",
+      "罗丝·伯恩",
+      "泰·辛普金斯",
+      "林·沙烨",
+      "芭芭拉·赫希"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2044151740.jpg",
+    "id": "10485526",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "韦斯·鲍尔"
+    ],
+    "rate": "5.9",
+    "cover_x": 1900,
+    "star": "30",
+    "title": "移动迷宫2",
+    "url": "https://movie.douban.com/subject/25995508/",
+    "casts": [
+      "迪伦·奥布莱恩",
+      "卡雅·斯考达里奥",
+      "托马斯·布罗迪-桑斯特",
+      "吉安卡罗·埃斯波西托",
+      "艾丹·吉伦"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2276189752.jpg",
+    "id": "25995508",
+    "cover_y": 2864
+  },
+  {
+    "directors": [
+      "李章焄"
+    ],
+    "rate": "8.3",
+    "cover_x": 1583,
+    "star": "40",
+    "title": "现在去见你",
+    "url": "https://movie.douban.com/subject/27018285/",
+    "casts": [
+      "苏志燮",
+      "孙艺珍",
+      "金智焕",
+      "金贤秀",
+      "李有镇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514384773.jpg",
+    "id": "27018285",
+    "cover_y": 2268
+  },
+  {
+    "directors": [
+      "迈克尔·格雷西"
+    ],
+    "rate": "7.8",
+    "cover_x": 644,
+    "star": "40",
+    "title": "马戏之王",
+    "url": "https://movie.douban.com/subject/3914513/",
+    "casts": [
+      "休·杰克曼",
+      "米歇尔·威廉姆斯",
+      "扎克·埃夫隆",
+      "赞达亚",
+      "丽贝卡·弗格森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511346392.jpg",
+    "id": "3914513",
+    "cover_y": 900
+  },
+  {
+    "directors": [
+      "张开宙"
+    ],
+    "rate": "6.5",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "清平乐",
+    "url": "https://movie.douban.com/subject/26759908/",
+    "casts": [
+      "王凯",
+      "江疏影",
+      "任敏",
+      "杨玏",
+      "边程"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2593883281.jpg",
+    "id": "26759908",
+    "cover_y": 1921
+  },
+  {
+    "directors": [
+      "静野孔文",
+      "山本泰一郎"
+    ],
+    "rate": "6.4",
+    "cover_x": 1600,
+    "star": "30",
+    "title": "名侦探柯南：第十一名前锋",
+    "url": "https://movie.douban.com/subject/6984051/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "小山力也",
+      "山口胜平",
+      "松井菜樱子"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1448359856.jpg",
+    "id": "6984051",
+    "cover_y": 2302
+  },
+  {
+    "directors": [
+      "李添胜"
+    ],
+    "rate": "8.9",
+    "cover_x": 400,
+    "star": "45",
+    "title": "天龙八部",
+    "url": "https://movie.douban.com/subject/1863941/",
+    "casts": [
+      "黄日华",
+      "陈浩民",
+      "樊少皇",
+      "李若彤",
+      "赵学而"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2346289959.jpg",
+    "id": "1863941",
+    "cover_y": 635
+  }
+]

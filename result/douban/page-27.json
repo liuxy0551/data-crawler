@@ -1,0 +1,405 @@
+[
+  {
+    "directors": [
+      "神山征二郎"
+    ],
+    "rate": "9.2",
+    "cover_x": 421,
+    "star": "45",
+    "title": "忠犬八公物语",
+    "url": "https://movie.douban.com/subject/1959195/",
+    "casts": [
+      "山本圭",
+      "井川比佐志",
+      "片桐入",
+      "仲代达矢",
+      "春川真澄"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1576418852.jpg",
+    "id": "1959195",
+    "cover_y": 600
+  },
+  {
+    "directors": [
+      "惠楷栋",
+      "温德光"
+    ],
+    "rate": "7.2",
+    "cover_x": 900,
+    "star": "35",
+    "title": "延禧攻略",
+    "url": "https://movie.douban.com/subject/26999852/",
+    "casts": [
+      "秦岚",
+      "聂远",
+      "佘诗曼",
+      "吴谨言",
+      "许凯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509891341.jpg",
+    "id": "26999852",
+    "cover_y": 1260
+  },
+  {
+    "directors": [
+      "杨玄"
+    ],
+    "rate": "6.8",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "三生三世枕上书",
+    "url": "https://movie.douban.com/subject/26915522/",
+    "casts": [
+      "迪丽热巴",
+      "高伟光",
+      "陈楚河",
+      "郭品超",
+      "刘雨欣"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581729661.jpg",
+    "id": "26915522",
+    "cover_y": 2800
+  },
+  {
+    "directors": [
+      "鲁伯特·瓦耶特"
+    ],
+    "rate": "8.1",
+    "cover_x": 1013,
+    "star": "40",
+    "title": "猩球崛起",
+    "url": "https://movie.douban.com/subject/3274505/",
+    "casts": [
+      "安迪·瑟金斯",
+      "詹姆斯·弗兰科",
+      "芙蕾达·平托",
+      "约翰·利思戈",
+      "布莱恩·考克斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1281402537.jpg",
+    "id": "3274505",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "彼得·杰克逊"
+    ],
+    "rate": "8.3",
+    "cover_x": 1600,
+    "star": "40",
+    "title": "霍比特人1：意外之旅",
+    "url": "https://movie.douban.com/subject/1966182/",
+    "casts": [
+      "伊恩·麦克莱恩",
+      "马丁·弗瑞曼",
+      "理查德·阿米蒂奇",
+      "肯·斯托特",
+      "格拉汉姆·麦克泰维什"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2159038705.jpg",
+    "id": "1966182",
+    "cover_y": 2366
+  },
+  {
+    "directors": [
+      "白雪"
+    ],
+    "rate": "7.7",
+    "cover_x": 1165,
+    "star": "40",
+    "title": "过春天",
+    "url": "https://movie.douban.com/subject/27191431/",
+    "casts": [
+      "黄尧",
+      "孙阳",
+      "汤加文",
+      "倪虹洁",
+      "江美仪"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549537782.jpg",
+    "id": "27191431",
+    "cover_y": 1653
+  },
+  {
+    "directors": [
+      "彼得·杰克逊"
+    ],
+    "rate": "8.4",
+    "cover_x": 3523,
+    "star": "40",
+    "title": "霍比特人3：五军之战",
+    "url": "https://movie.douban.com/subject/2973079/",
+    "casts": [
+      "马丁·弗瑞曼",
+      "伊恩·麦克莱恩",
+      "理查德·阿米蒂奇",
+      "伊万杰琳·莉莉",
+      "李·佩斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219406504.jpg",
+    "id": "2973079",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "许宏宇"
+    ],
+    "rate": "6.7",
+    "cover_x": 679,
+    "star": "35",
+    "title": "喜欢你",
+    "url": "https://movie.douban.com/subject/26816383/",
+    "casts": [
+      "金城武",
+      "周冬雨",
+      "孙艺洲",
+      "奚梦瑶",
+      "杨祐宁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2456180253.jpg",
+    "id": "26816383",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "马克·韦布"
+    ],
+    "rate": "7.5",
+    "cover_x": 1700,
+    "star": "40",
+    "title": "超凡蜘蛛侠",
+    "url": "https://movie.douban.com/subject/2129132/",
+    "casts": [
+      "安德鲁·加菲尔德",
+      "艾玛·斯通",
+      "瑞斯·伊凡斯",
+      "马丁·辛",
+      "莎莉·菲尔德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1619928534.jpg",
+    "id": "2129132",
+    "cover_y": 2689
+  },
+  {
+    "directors": [
+      "曹盾"
+    ],
+    "rate": "8.3",
+    "cover_x": 3500,
+    "star": "40",
+    "title": "长安十二时辰",
+    "url": "https://movie.douban.com/subject/26849758/",
+    "casts": [
+      "雷佳音",
+      "易烊千玺",
+      "周一围",
+      "芦芳生",
+      "热依扎"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2562953341.jpg",
+    "id": "26849758",
+    "cover_y": 4899
+  },
+  {
+    "directors": [
+      "尼西卡特·卡马特"
+    ],
+    "rate": "8.5",
+    "cover_x": 831,
+    "star": "45",
+    "title": "误杀瞒天记",
+    "url": "https://movie.douban.com/subject/26419637/",
+    "casts": [
+      "阿贾耶·德乌干",
+      "塔布",
+      "施芮娅·萨兰",
+      "拉贾特·卡普尔",
+      "伊西塔·杜塔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2276962949.jpg",
+    "id": "26419637",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "孔笙",
+      "简川訸"
+    ],
+    "rate": "7.4",
+    "cover_x": 690,
+    "star": "35",
+    "title": "欢乐颂",
+    "url": "https://movie.douban.com/subject/26430092/",
+    "casts": [
+      "刘涛",
+      "蒋欣",
+      "王子文",
+      "杨紫",
+      "乔欣"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2336048812.jpg",
+    "id": "26430092",
+    "cover_y": 1036
+  },
+  {
+    "directors": [
+      "肯尼思·洛纳根"
+    ],
+    "rate": "8.6",
+    "cover_x": 2811,
+    "star": "45",
+    "title": "海边的曼彻斯特",
+    "url": "https://movie.douban.com/subject/25980443/",
+    "casts": [
+      "卡西·阿弗莱克",
+      "卢卡斯·赫奇斯",
+      "米歇尔·威廉姆斯",
+      "C·J·威尔逊",
+      "凯尔·钱德勒"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg",
+    "id": "25980443",
+    "cover_y": 4167
+  },
+  {
+    "directors": [
+      "刘伟强",
+      "麦兆辉"
+    ],
+    "rate": "8.5",
+    "cover_x": 1132,
+    "star": "45",
+    "title": "无间道2",
+    "url": "https://movie.douban.com/subject/1307106/",
+    "casts": [
+      "陈冠希",
+      "余文乐",
+      "曾志伟",
+      "黄秋生",
+      "吴镇宇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p958008320.jpg",
+    "id": "1307106",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "吴锦源",
+      "梁胜权",
+      "麦贯之",
+      "于建福",
+      "李国立"
+    ],
+    "rate": "8.9",
+    "cover_x": 1378,
+    "star": "45",
+    "title": "仙剑奇侠传",
+    "url": "https://movie.douban.com/subject/2210031/",
+    "casts": [
+      "胡歌",
+      "刘亦菲",
+      "安以轩",
+      "刘品言",
+      "彭于晏"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561931895.jpg",
+    "id": "2210031",
+    "cover_y": 2008
+  },
+  {
+    "directors": [
+      "乔丹·皮尔"
+    ],
+    "rate": "7.7",
+    "cover_x": 2526,
+    "star": "40",
+    "title": "逃出绝命镇",
+    "url": "https://movie.douban.com/subject/26688480/",
+    "casts": [
+      "丹尼尔·卡卢亚",
+      "艾莉森·威廉姆斯",
+      "凯瑟琳·基纳",
+      "布莱德利·惠特福德",
+      "卡赖伯·兰德里·琼斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508604641.jpg",
+    "id": "26688480",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "竹内亮"
+    ],
+    "rate": "8.3",
+    "cover_x": 1024,
+    "star": "40",
+    "title": "好久不见，武汉",
+    "url": "https://movie.douban.com/subject/35121307/",
+    "casts": [
+      "竹内亮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2611374103.jpg",
+    "id": "35121307",
+    "cover_y": 1374
+  },
+  {
+    "directors": [
+      "昆汀·塔伦蒂诺"
+    ],
+    "rate": "8.3",
+    "cover_x": 1021,
+    "star": "40",
+    "title": "杀死比尔",
+    "url": "https://movie.douban.com/subject/1291580/",
+    "casts": [
+      "乌玛·瑟曼",
+      "刘玉玲",
+      "薇薇卡·福克斯",
+      "达丽尔·汉纳",
+      "大卫·卡拉丁"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454638445.jpg",
+    "id": "1291580",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "王晶"
+    ],
+    "rate": "8.3",
+    "cover_x": 600,
+    "star": "40",
+    "title": "赌神",
+    "url": "https://movie.douban.com/subject/1300883/",
+    "casts": [
+      "周润发",
+      "刘德华",
+      "王祖贤",
+      "张敏",
+      "向华强"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1986001156.jpg",
+    "id": "1300883",
+    "cover_y": 860
+  },
+  {
+    "directors": [
+      "徐浩峰"
+    ],
+    "rate": "8.1",
+    "cover_x": 1280,
+    "star": "40",
+    "title": "师父",
+    "url": "https://movie.douban.com/subject/25919910/",
+    "casts": [
+      "廖凡",
+      "宋佳",
+      "蒋雯丽",
+      "金士杰",
+      "宋洋"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554541437.jpg",
+    "id": "25919910",
+    "cover_y": 1792
+  }
+]

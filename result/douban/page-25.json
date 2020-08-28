@@ -1,0 +1,404 @@
+[
+  {
+    "directors": [
+      "马修·沃恩"
+    ],
+    "rate": "8.2",
+    "cover_x": 1024,
+    "star": "40",
+    "title": "X战警：第一战",
+    "url": "https://movie.douban.com/subject/3168089/",
+    "casts": [
+      "詹姆斯·麦卡沃伊",
+      "迈克尔·法斯宾德",
+      "凯文·贝肯",
+      "詹妮弗·劳伦斯",
+      "罗丝·伯恩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p956878707.jpg",
+    "id": "3168089",
+    "cover_y": 1483
+  },
+  {
+    "directors": [
+      "汤姆·提克威"
+    ],
+    "rate": "8.5",
+    "cover_x": 1460,
+    "star": "45",
+    "title": "香水",
+    "url": "https://movie.douban.com/subject/1760622/",
+    "casts": [
+      "本·卫肖",
+      "艾伦·瑞克曼",
+      "蕾切儿·哈伍德",
+      "达斯汀·霍夫曼",
+      "大卫·卡尔德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2571500223.jpg",
+    "id": "1760622",
+    "cover_y": 2160
+  },
+  {
+    "directors": [
+      "赵薇"
+    ],
+    "rate": "6.6",
+    "cover_x": 717,
+    "star": "35",
+    "title": "致我们终将逝去的青春",
+    "url": "https://movie.douban.com/subject/6973376/",
+    "casts": [
+      "杨子姗",
+      "赵又廷",
+      "韩庚",
+      "江疏影",
+      "刘雅瑟"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1935067049.jpg",
+    "id": "6973376",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "丹尼斯·维伦纽瓦"
+    ],
+    "rate": "7.8",
+    "cover_x": 1281,
+    "star": "40",
+    "title": "降临",
+    "url": "https://movie.douban.com/subject/21324900/",
+    "casts": [
+      "艾米·亚当斯",
+      "杰瑞米·雷纳",
+      "福里斯特·惠特克",
+      "迈克尔·斯图巴",
+      "马泰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2411622421.jpg",
+    "id": "21324900",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "伍思薇"
+    ],
+    "rate": "8.0",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "真心半解",
+    "url": "https://movie.douban.com/subject/33420285/",
+    "casts": [
+      "莉娅·刘易斯",
+      "丹尼尔·迪默",
+      "艾丽克西斯·勒梅尔",
+      "沃尔夫冈·诺沃格拉茨",
+      "邹兆龙"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2594916975.jpg",
+    "id": "33420285",
+    "cover_y": 2222
+  },
+  {
+    "directors": [
+      "陈正道"
+    ],
+    "rate": "7.6",
+    "cover_x": 2071,
+    "star": "40",
+    "title": "催眠大师",
+    "url": "https://movie.douban.com/subject/24743711/",
+    "casts": [
+      "徐峥",
+      "莫文蔚",
+      "胡静",
+      "吕中",
+      "王耀庆"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181062460.jpg",
+    "id": "24743711",
+    "cover_y": 3016
+  },
+  {
+    "directors": [
+      "吕寅荣"
+    ],
+    "rate": "8.0",
+    "cover_x": 1466,
+    "star": "40",
+    "title": "功夫熊猫2",
+    "url": "https://movie.douban.com/subject/3233635/",
+    "casts": [
+      "杰克·布莱克",
+      "安吉丽娜·朱莉",
+      "达斯汀·霍夫曼",
+      "加里·奥德曼",
+      "成龙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p877183898.jpg",
+    "id": "3233635",
+    "cover_y": 2290
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "4.9",
+    "cover_x": 4429,
+    "star": "25",
+    "title": "长城",
+    "url": "https://movie.douban.com/subject/6982558/",
+    "casts": [
+      "马特·达蒙",
+      "景甜",
+      "佩德罗·帕斯卡",
+      "刘德华",
+      "威廉·达福"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2400082527.jpg",
+    "id": "6982558",
+    "cover_y": 6201
+  },
+  {
+    "directors": [
+      "菲尔·约翰斯顿",
+      "瑞奇·摩尔"
+    ],
+    "rate": "8.1",
+    "cover_x": 1968,
+    "star": "40",
+    "title": "无敌破坏王2：大闹互联网",
+    "url": "https://movie.douban.com/subject/20438964/",
+    "casts": [
+      "约翰·C·赖利",
+      "萨拉·西尔弗曼",
+      "盖尔·加朵",
+      "塔拉吉·P·汉森",
+      "杰克·麦克布瑞尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537667301.jpg",
+    "id": "20438964",
+    "cover_y": 2756
+  },
+  {
+    "directors": [
+      "路阳"
+    ],
+    "rate": "7.6",
+    "cover_x": 4339,
+    "star": "40",
+    "title": "绣春刀",
+    "url": "https://movie.douban.com/subject/24745500/",
+    "casts": [
+      "张震",
+      "刘诗诗",
+      "王千源",
+      "李东学",
+      "聂远"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194066391.jpg",
+    "id": "24745500",
+    "cover_y": 6551
+  },
+  {
+    "directors": [
+      "路阳"
+    ],
+    "rate": "7.2",
+    "cover_x": 800,
+    "star": "35",
+    "title": "绣春刀II：修罗战场",
+    "url": "https://movie.douban.com/subject/26270502/",
+    "casts": [
+      "张震",
+      "杨幂",
+      "张译",
+      "雷佳音",
+      "辛芷蕾"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561713454.jpg",
+    "id": "26270502",
+    "cover_y": 1165
+  },
+  {
+    "directors": [
+      "田里"
+    ],
+    "rate": "8.2",
+    "cover_x": 802,
+    "star": "40",
+    "title": "河神",
+    "url": "https://movie.douban.com/subject/26776350/",
+    "casts": [
+      "李现",
+      "张铭恩",
+      "王紫璇",
+      "陈芋米",
+      "苇青"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2492172704.jpg",
+    "id": "26776350",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "安佳星"
+    ],
+    "rate": "7.1",
+    "cover_x": 1800,
+    "star": "35",
+    "title": "老大不小",
+    "url": "https://movie.douban.com/subject/34913597/",
+    "casts": [
+      "高炜",
+      "杨长青",
+      "赵燕国彰",
+      "王睿",
+      "戴菲"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2613246507.jpg",
+    "id": "34913597",
+    "cover_y": 2360
+  },
+  {
+    "directors": [
+      "布莱恩·辛格"
+    ],
+    "rate": "7.7",
+    "cover_x": 1015,
+    "star": "40",
+    "title": "X战警2",
+    "url": "https://movie.douban.com/subject/1305724/",
+    "casts": [
+      "帕特里克·斯图尔特",
+      "休·杰克曼",
+      "伊恩·麦克莱恩",
+      "哈莉·贝瑞",
+      "法米克·詹森"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1349307666.jpg",
+    "id": "1305724",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "王晶",
+      "关智耀"
+    ],
+    "rate": "7.2",
+    "cover_x": 679,
+    "star": "35",
+    "title": "追龙",
+    "url": "https://movie.douban.com/subject/26425068/",
+    "casts": [
+      "甄子丹",
+      "刘德华",
+      "姜皓文",
+      "郑则仕",
+      "刘浩龙"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499052494.jpg",
+    "id": "26425068",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "山姆·雷米"
+    ],
+    "rate": "7.6",
+    "cover_x": 2460,
+    "star": "40",
+    "title": "蜘蛛侠2",
+    "url": "https://movie.douban.com/subject/1308570/",
+    "casts": [
+      "托比·马奎尔",
+      "克斯汀·邓斯特",
+      "詹姆斯·弗兰科",
+      "阿尔弗雷德·莫里纳",
+      "罗斯玛丽·哈里斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1617867110.jpg",
+    "id": "1308570",
+    "cover_y": 3500
+  },
+  {
+    "directors": [
+      "杰茜·尼尔森"
+    ],
+    "rate": "8.9",
+    "cover_x": 400,
+    "star": "45",
+    "title": "我是山姆",
+    "url": "https://movie.douban.com/subject/1306861/",
+    "casts": [
+      "西恩·潘",
+      "达科塔·范宁",
+      "米歇尔·菲佛",
+      "黛安·韦斯特",
+      "洛雷塔·迪瓦恩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg",
+    "id": "1306861",
+    "cover_y": 600
+  },
+  {
+    "directors": [
+      "梅尔·吉布森"
+    ],
+    "rate": "8.9",
+    "cover_x": 2025,
+    "star": "45",
+    "title": "勇敢的心",
+    "url": "https://movie.douban.com/subject/1294639/",
+    "casts": [
+      "梅尔·吉布森",
+      "苏菲·玛索",
+      "布莱恩·考克斯",
+      "詹姆斯·科兹莫",
+      "辛·劳洛"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg",
+    "id": "1294639",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "丹尼斯·维伦纽瓦"
+    ],
+    "rate": "8.3",
+    "cover_x": 960,
+    "star": "40",
+    "title": "银翼杀手2049",
+    "url": "https://movie.douban.com/subject/10512661/",
+    "casts": [
+      "瑞恩·高斯林",
+      "哈里森·福特",
+      "安娜·德·阿玛斯",
+      "西尔维娅·侯克斯",
+      "罗宾·怀特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501864539.jpg",
+    "id": "10512661",
+    "cover_y": 1453
+  },
+  {
+    "directors": [
+      "阿尔弗雷德·希区柯克"
+    ],
+    "rate": "9.0",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "惊魂记",
+    "url": "https://movie.douban.com/subject/1293181/",
+    "casts": [
+      "安东尼·博金斯",
+      "维拉·迈尔斯",
+      "约翰·加文",
+      "珍妮特·利",
+      "马丁·鲍尔萨姆"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg",
+    "id": "1293181",
+    "cover_y": 1500
+  }
+]

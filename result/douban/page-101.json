@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "张天晓"
+    ],
+    "rate": "9.5",
+    "cover_x": 600,
+    "star": "50",
+    "title": "中华小子",
+    "url": "https://movie.douban.com/subject/2244765/",
+    "casts": [
+      "黄怡晴",
+      "徐刚",
+      "王肖兵",
+      "游军",
+      "王衡"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570091648.jpg",
+    "id": "2244765",
+    "cover_y": 880
+  },
+  {
+    "directors": [
+      "A.R.目虏古多斯",
+      "A·R·拉曼"
+    ],
+    "rate": "8.1",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "未知死亡",
+    "url": "https://movie.douban.com/subject/3397503/",
+    "casts": [
+      "阿米尔·汗",
+      "缇努·阿南德",
+      "阿辛",
+      "吉雅·罕"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192809983.jpg",
+    "id": "3397503",
+    "cover_y": 1348
+  },
+  {
+    "directors": [
+      "保罗·费格"
+    ],
+    "rate": "7.5",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "女间谍",
+    "url": "https://movie.douban.com/subject/25752261/",
+    "casts": [
+      "梅丽莎·麦卡西",
+      "杰森·斯坦森",
+      "裘德·洛",
+      "罗丝·伯恩",
+      "莫蕾娜·巴卡琳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2254455238.jpg",
+    "id": "25752261",
+    "cover_y": 2212
+  },
+  {
+    "directors": [
+      "滕华涛"
+    ],
+    "rate": "5.6",
+    "cover_x": 1074,
+    "star": "30",
+    "title": "等风来",
+    "url": "https://movie.douban.com/subject/10833923/",
+    "casts": [
+      "倪妮",
+      "井柏然",
+      "刘雅瑟",
+      "张子萱",
+      "刘孜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2163861862.jpg",
+    "id": "10833923",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "艾伦·吉布森"
+    ],
+    "rate": "9.5",
+    "cover_x": 550,
+    "star": "50",
+    "title": "控方证人",
+    "url": "https://movie.douban.com/subject/5294851/",
+    "casts": [
+      "拉尔夫·理查德森",
+      "黛博拉·蔻儿",
+      "博·布里奇斯",
+      "黛安娜·里格",
+      "温蒂·希勒"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2367853261.jpg",
+    "id": "5294851",
+    "cover_y": 762
+  },
+  {
+    "directors": [
+      "庾河"
+    ],
+    "rate": "8.0",
+    "cover_x": 1200,
+    "star": "40",
+    "title": "卑劣的街头",
+    "url": "https://movie.douban.com/subject/1827713/",
+    "casts": [
+      "赵寅成",
+      "李宝英",
+      "千虎珍",
+      "南宫珉",
+      "晋久"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1877813710.jpg",
+    "id": "1827713",
+    "cover_y": 1684
+  },
+  {
+    "directors": [
+      "约什·布恩"
+    ],
+    "rate": "7.9",
+    "cover_x": 1372,
+    "star": "40",
+    "title": "星运里的错",
+    "url": "https://movie.douban.com/subject/22733673/",
+    "casts": [
+      "谢琳·伍德蕾",
+      "安塞尔·艾尔高特",
+      "纳特·沃尔夫",
+      "劳拉·邓恩",
+      "山姆·特拉梅尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2197680919.jpg",
+    "id": "22733673",
+    "cover_y": 2032
+  },
+  {
+    "directors": [
+      "徐克",
+      "林岭东"
+    ],
+    "rate": "7.5",
+    "cover_x": 757,
+    "star": "40",
+    "title": "双龙会",
+    "url": "https://movie.douban.com/subject/1296978/",
+    "casts": [
+      "成龙",
+      "张曼玉",
+      "利智",
+      "泰迪·罗宾",
+      "黄霑"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1914274264.jpg",
+    "id": "1296978",
+    "cover_y": 1133
+  },
+  {
+    "directors": [
+      "贾斯汀·查德维克"
+    ],
+    "rate": "7.0",
+    "cover_x": 2019,
+    "star": "35",
+    "title": "另一个波琳家的女孩",
+    "url": "https://movie.douban.com/subject/1863955/",
+    "casts": [
+      "娜塔莉·波特曼",
+      "斯嘉丽·约翰逊",
+      "艾瑞克·巴纳",
+      "吉姆·斯特吉斯",
+      "马克·里朗斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p597623489.jpg",
+    "id": "1863955",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "赖水清",
+      "国建勇"
+    ],
+    "rate": "5.0",
+    "cover_x": 2362,
+    "star": "25",
+    "title": "请赐我一双翅膀",
+    "url": "https://movie.douban.com/subject/27185549/",
+    "casts": [
+      "鞠婧祎",
+      "炎亚纶",
+      "韩栋",
+      "张予曦",
+      "米热"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522410935.jpg",
+    "id": "27185549",
+    "cover_y": 3543
+  },
+  {
+    "directors": [
+      "胡玫"
+    ],
+    "rate": "9.2",
+    "cover_x": 600,
+    "star": "45",
+    "title": "汉武大帝",
+    "url": "https://movie.douban.com/subject/2411184/",
+    "casts": [
+      "陈宝国",
+      "焦晃",
+      "归亚蕾",
+      "陶虹",
+      "杨童舒"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2374992370.jpg",
+    "id": "2411184",
+    "cover_y": 1112
+  },
+  {
+    "directors": [
+      "何舒"
+    ],
+    "rate": "9.2",
+    "cover_x": 1080,
+    "star": "45",
+    "title": "明星大侦探之名侦探学院 第二季",
+    "url": "https://movie.douban.com/subject/35023781/",
+    "casts": [
+      "蒲熠星",
+      "周峻纬",
+      "唐九洲",
+      "齐思钧",
+      "石凯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2596134287.jpg",
+    "id": "35023781",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "蒂姆·波顿"
+    ],
+    "rate": "7.6",
+    "cover_x": 1200,
+    "star": "40",
+    "title": "断头谷",
+    "url": "https://movie.douban.com/subject/1296078/",
+    "casts": [
+      "约翰尼·德普",
+      "克里斯蒂娜·里奇",
+      "米兰达·理查森",
+      "迈克尔·刚本",
+      "卡斯帕·凡·迪恩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2429986978.jpg",
+    "id": "1296078",
+    "cover_y": 1802
+  },
+  {
+    "directors": [
+      "尤小刚",
+      "刘德凯"
+    ],
+    "rate": "8.4",
+    "cover_x": 500,
+    "star": "40",
+    "title": "孝庄秘史",
+    "url": "https://movie.douban.com/subject/2157146/",
+    "casts": [
+      "宁静",
+      "马景涛",
+      "刘德凯",
+      "邬倩倩",
+      "赵鸿飞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2373066962.jpg",
+    "id": "2157146",
+    "cover_y": 850
+  },
+  {
+    "directors": [
+      "贾樟柯"
+    ],
+    "rate": "8.2",
+    "cover_x": 590,
+    "star": "40",
+    "title": "三峡好人",
+    "url": "https://movie.douban.com/subject/1872133/",
+    "casts": [
+      "赵涛",
+      "韩三明",
+      "王宏伟",
+      "李竹斌",
+      "项海渔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p520162740.jpg",
+    "id": "1872133",
+    "cover_y": 841
+  },
+  {
+    "directors": [
+      "罗伯特·路克蒂克"
+    ],
+    "rate": "7.3",
+    "cover_x": 580,
+    "star": "35",
+    "title": "律政俏佳人",
+    "url": "https://movie.douban.com/subject/1304854/",
+    "casts": [
+      "瑞茜·威瑟斯彭",
+      "卢克·威尔逊",
+      "塞尔玛·布莱尔",
+      "马修·戴维斯",
+      "维克多·加博"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2201173343.jpg",
+    "id": "1304854",
+    "cover_y": 844
+  },
+  {
+    "directors": [
+      "八锹新之介",
+      "李桢凡"
+    ],
+    "rate": "7.3",
+    "cover_x": 4370,
+    "star": "35",
+    "title": "哆啦A梦：大雄的月球探险记",
+    "url": "https://movie.douban.com/subject/30249161/",
+    "casts": [
+      "水田山葵",
+      "大原惠美",
+      "嘉数由美",
+      "木村昴",
+      "关智一"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557500825.jpg",
+    "id": "30249161",
+    "cover_y": 6202
+  },
+  {
+    "directors": [
+      "中田秀夫"
+    ],
+    "rate": "7.5",
+    "cover_x": 1683,
+    "star": "40",
+    "title": "午夜凶铃",
+    "url": "https://movie.douban.com/subject/1307696/",
+    "casts": [
+      "松岛菜菜子",
+      "真田广之",
+      "竹内结子",
+      "中谷美纪",
+      "佐藤仁美"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1324520469.jpg",
+    "id": "1307696",
+    "cover_y": 2450
+  },
+  {
+    "directors": [
+      "王全安"
+    ],
+    "rate": "6.4",
+    "cover_x": 1032,
+    "star": "30",
+    "title": "白鹿原",
+    "url": "https://movie.douban.com/subject/4718369/",
+    "casts": [
+      "张丰毅",
+      "张雨绮",
+      "段奕宏",
+      "吴刚",
+      "刘威"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1624660243.jpg",
+    "id": "4718369",
+    "cover_y": 1440
+  },
+  {
+    "directors": [
+      "雷德利·斯科特"
+    ],
+    "rate": "8.2",
+    "cover_x": 1445,
+    "star": "40",
+    "title": "火柴人",
+    "url": "https://movie.douban.com/subject/1307542/",
+    "casts": [
+      "尼古拉斯·凯奇",
+      "山姆·洛克威尔",
+      "艾莉森·洛曼",
+      "布鲁斯·奥尔特曼",
+      "布鲁斯·麦克吉尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363227082.jpg",
+    "id": "1307542",
+    "cover_y": 2133
+  }
+]

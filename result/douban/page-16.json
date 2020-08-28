@@ -1,0 +1,400 @@
+[
+  {
+    "directors": [
+      "王家卫"
+    ],
+    "rate": "8.6",
+    "cover_x": 648,
+    "star": "45",
+    "title": "东邪西毒",
+    "url": "https://movie.douban.com/subject/1292328/",
+    "casts": [
+      "张国荣",
+      "林青霞",
+      "梁朝伟",
+      "张学友",
+      "张曼玉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg",
+    "id": "1292328",
+    "cover_y": 900
+  },
+  {
+    "directors": [
+      "理查德·林克莱特"
+    ],
+    "rate": "8.8",
+    "cover_x": 5400,
+    "star": "45",
+    "title": "爱在黎明破晓前",
+    "url": "https://movie.douban.com/subject/1296339/",
+    "casts": [
+      "伊桑·霍克",
+      "朱莉·德尔佩",
+      "安德莉亚·埃克特",
+      "汉诺·波西尔",
+      "Karl Bruckschwaiger"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555762374.jpg",
+    "id": "1296339",
+    "cover_y": 8000
+  },
+  {
+    "directors": [
+      "叶伟民"
+    ],
+    "rate": "7.7",
+    "cover_x": 2362,
+    "star": "40",
+    "title": "人在囧途",
+    "url": "https://movie.douban.com/subject/4237879/",
+    "casts": [
+      "徐峥",
+      "王宝强",
+      "李曼",
+      "李小璐",
+      "左小青"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p500548437.jpg",
+    "id": "4237879",
+    "cover_y": 3543
+  },
+  {
+    "directors": [
+      "戈尔·维宾斯基"
+    ],
+    "rate": "8.3",
+    "cover_x": 1741,
+    "star": "40",
+    "title": "加勒比海盗2：聚魂棺",
+    "url": "https://movie.douban.com/subject/1315574/",
+    "casts": [
+      "约翰尼·德普",
+      "奥兰多·布鲁姆",
+      "凯拉·奈特莉",
+      "杰克·达文波特",
+      "比尔·奈伊"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443438709.jpg",
+    "id": "1315574",
+    "cover_y": 2580
+  },
+  {
+    "directors": [
+      "苏有朋"
+    ],
+    "rate": "6.4",
+    "cover_x": 2143,
+    "star": "30",
+    "title": "嫌疑人X的献身",
+    "url": "https://movie.douban.com/subject/26606743/",
+    "casts": [
+      "王凯",
+      "张鲁一",
+      "林心如",
+      "叶祖新",
+      "丁冠森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2448676053.jpg",
+    "id": "26606743",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "蒂姆·波顿"
+    ],
+    "rate": "8.2",
+    "cover_x": 1012,
+    "star": "40",
+    "title": "查理和巧克力工厂",
+    "url": "https://movie.douban.com/subject/1309101/",
+    "casts": [
+      "约翰尼·德普",
+      "弗莱迪·海默",
+      "海伦娜·伯翰·卡特",
+      "克里斯托弗·李",
+      "诺亚·泰勒"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453925617.jpg",
+    "id": "1309101",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "大鹏"
+    ],
+    "rate": "6.6",
+    "cover_x": 1500,
+    "star": "35",
+    "title": "缝纫机乐队",
+    "url": "https://movie.douban.com/subject/26926321/",
+    "casts": [
+      "大鹏",
+      "乔杉",
+      "古力娜扎",
+      "李鸿其",
+      "韩童生"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498558511.jpg",
+    "id": "26926321",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "昆汀·塔伦蒂诺"
+    ],
+    "rate": "8.7",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "被解救的姜戈",
+    "url": "https://movie.douban.com/subject/6307447/",
+    "casts": [
+      "杰米·福克斯",
+      "莱昂纳多·迪卡普里奥",
+      "克里斯托弗·瓦尔兹",
+      "塞缪尔·杰克逊",
+      "凯丽·华盛顿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1959232369.jpg",
+    "id": "6307447",
+    "cover_y": 1666
+  },
+  {
+    "directors": [
+      "陈正道"
+    ],
+    "rate": "7.1",
+    "cover_x": 1020,
+    "star": "35",
+    "title": "重返20岁",
+    "url": "https://movie.douban.com/subject/25870084/",
+    "casts": [
+      "杨子姗",
+      "归亚蕾",
+      "陈柏霖",
+      "鹿晗",
+      "王德顺"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2216353367.jpg",
+    "id": "25870084",
+    "cover_y": 1486
+  },
+  {
+    "directors": [
+      "蒂姆·米勒"
+    ],
+    "rate": "7.8",
+    "cover_x": 1715,
+    "star": "40",
+    "title": "死侍",
+    "url": "https://movie.douban.com/subject/3718279/",
+    "casts": [
+      "瑞恩·雷诺兹",
+      "莫蕾娜·巴卡琳",
+      "艾德·斯克林",
+      "T·J·米勒",
+      "吉娜·卡拉诺"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2309264172.jpg",
+    "id": "3718279",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "比尔·康顿"
+    ],
+    "rate": "7.2",
+    "cover_x": 1500,
+    "star": "35",
+    "title": "美女与野兽",
+    "url": "https://movie.douban.com/subject/25900945/",
+    "casts": [
+      "艾玛·沃森",
+      "丹·史蒂文斯",
+      "卢克·伊万斯",
+      "凯文·克莱恩",
+      "乔什·加德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2417948644.jpg",
+    "id": "25900945",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "大卫·叶茨"
+    ],
+    "rate": "7.8",
+    "cover_x": 630,
+    "star": "40",
+    "title": "神奇动物在哪里",
+    "url": "https://movie.douban.com/subject/25726614/",
+    "casts": [
+      "埃迪·雷德梅恩",
+      "凯瑟琳·沃特斯顿",
+      "丹·福勒",
+      "艾莉森·萨多尔",
+      "科林·法瑞尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2392444121.jpg",
+    "id": "25726614",
+    "cover_y": 900
+  },
+  {
+    "directors": [
+      "大卫·雷奇"
+    ],
+    "rate": "7.3",
+    "cover_x": 4618,
+    "star": "35",
+    "title": "死侍2：我爱我家",
+    "url": "https://movie.douban.com/subject/26588308/",
+    "casts": [
+      "瑞恩·雷诺兹",
+      "乔什·布洛林",
+      "朱利安·迪尼森",
+      "斯蒂芬·卡皮契奇",
+      "莎姬·贝兹"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545479945.jpg",
+    "id": "26588308",
+    "cover_y": 6842
+  },
+  {
+    "directors": [
+      "土井裕泰"
+    ],
+    "rate": "8.2",
+    "cover_x": 1333,
+    "star": "40",
+    "title": "垫底辣妹",
+    "url": "https://movie.douban.com/subject/26259677/",
+    "casts": [
+      "有村架纯",
+      "伊藤淳史",
+      "吉田羊",
+      "田中哲司",
+      "野村周平"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2329080834.jpg",
+    "id": "26259677",
+    "cover_y": 1892
+  },
+  {
+    "directors": [
+      "克雷格·卓贝"
+    ],
+    "rate": "7.3",
+    "cover_x": 3158,
+    "star": "35",
+    "title": "狩猎",
+    "url": "https://movie.douban.com/subject/30182726/",
+    "casts": [
+      "贝蒂·吉尔平",
+      "希拉里·斯万克",
+      "艾玛·罗伯茨",
+      "贾斯汀·哈特雷",
+      "伊克·巴里霍尔兹"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585533507.jpg",
+    "id": "30182726",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "韩延"
+    ],
+    "rate": "7.4",
+    "cover_x": 560,
+    "star": "35",
+    "title": "滚蛋吧！肿瘤君",
+    "url": "https://movie.douban.com/subject/26289144/",
+    "casts": [
+      "白百何",
+      "吴彦祖",
+      "李媛",
+      "刘芮麟",
+      "程伊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2259298553.jpg",
+    "id": "26289144",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "迈克尔·道赫蒂"
+    ],
+    "rate": "6.3",
+    "cover_x": 1500,
+    "star": "30",
+    "title": "哥斯拉2：怪兽之王",
+    "url": "https://movie.douban.com/subject/25890017/",
+    "casts": [
+      "凯尔·钱德勒",
+      "维拉·法米加",
+      "米莉·波比·布朗",
+      "章子怡",
+      "渡边谦"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg",
+    "id": "25890017",
+    "cover_y": 2150
+  },
+  {
+    "directors": [
+      "陆伟"
+    ],
+    "rate": "9.1",
+    "cover_x": 1600,
+    "star": "45",
+    "title": "这！就是街舞 第三季",
+    "url": "https://movie.douban.com/subject/34979018/",
+    "casts": [
+      "王嘉尔",
+      "王一博",
+      "钟汉良",
+      "张艺兴"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2616204856.jpg",
+    "id": "34979018",
+    "cover_y": 2843
+  },
+  {
+    "directors": [
+      "王家卫"
+    ],
+    "rate": "8.9",
+    "cover_x": 487,
+    "star": "45",
+    "title": "春光乍泄",
+    "url": "https://movie.douban.com/subject/1292679/",
+    "casts": [
+      "张国荣",
+      "梁朝伟",
+      "张震",
+      "格利高里·戴顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg",
+    "id": "1292679",
+    "cover_y": 711
+  },
+  {
+    "directors": [
+      "马修·沃恩"
+    ],
+    "rate": "8.4",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "王牌特工：特工学院",
+    "url": "https://movie.douban.com/subject/24405378/",
+    "casts": [
+      "塔伦·埃哲顿",
+      "科林·费尔斯",
+      "塞缪尔·杰克逊",
+      "迈克尔·凯恩",
+      "马克·斯特朗"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2231932406.jpg",
+    "id": "24405378",
+    "cover_y": 2839
+  }
+]

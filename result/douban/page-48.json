@@ -1,0 +1,414 @@
+[
+  {
+    "directors": [
+      "彼得·杰克逊"
+    ],
+    "rate": "7.9",
+    "cover_x": 1012,
+    "star": "40",
+    "title": "金刚",
+    "url": "https://movie.douban.com/subject/1309043/",
+    "casts": [
+      "安迪·瑟金斯",
+      "娜奥米·沃茨",
+      "杰克·布莱克",
+      "艾德里安·布洛迪",
+      "托马斯·克莱舒曼"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p858079649.jpg",
+    "id": "1309043",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "拉维·德耶瓦尔"
+    ],
+    "rate": "6.8",
+    "cover_x": 1969,
+    "star": "35",
+    "title": "一个母亲的复仇",
+    "url": "https://movie.douban.com/subject/26996734/",
+    "casts": [
+      "诗丽黛玮",
+      "阿克夏耶·坎纳",
+      "萨佳·阿里",
+      "阿德南·西德奎",
+      "纳瓦祖丁·席迪圭"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554613277.jpg",
+    "id": "26996734",
+    "cover_y": 2756
+  },
+  {
+    "directors": [
+      "王晶",
+      "关智耀"
+    ],
+    "rate": "5.5",
+    "cover_x": 2499,
+    "star": "30",
+    "title": "追龙Ⅱ",
+    "url": "https://movie.douban.com/subject/30175306/",
+    "casts": [
+      "梁家辉",
+      "古天乐",
+      "林家栋",
+      "邱意浓",
+      "叶项明"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2559100280.jpg",
+    "id": "30175306",
+    "cover_y": 3500
+  },
+  {
+    "directors": [
+      "赵小丁",
+      "安东尼·拉默里纳拉"
+    ],
+    "rate": "4.0",
+    "cover_x": 1372,
+    "star": "20",
+    "title": "三生三世十里桃花",
+    "url": "https://movie.douban.com/subject/25823277/",
+    "casts": [
+      "刘亦菲",
+      "杨洋",
+      "罗晋",
+      "严屹宽",
+      "李纯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494279388.jpg",
+    "id": "25823277",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "约翰·李·汉考克"
+    ],
+    "rate": "8.6",
+    "cover_x": 800,
+    "star": "45",
+    "title": "弱点",
+    "url": "https://movie.douban.com/subject/3552028/",
+    "casts": [
+      "桑德拉·布洛克",
+      "蒂姆·麦格罗",
+      "昆东·亚伦",
+      "杰·海德",
+      "莉莉·柯林斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p585477853.jpg",
+    "id": "3552028",
+    "cover_y": 1185
+  },
+  {
+    "directors": [
+      "饶晓志"
+    ],
+    "rate": "6.8",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "你好，疯子！",
+    "url": "https://movie.douban.com/subject/26696879/",
+    "casts": [
+      "万茜",
+      "周一围",
+      "王自健",
+      "金士杰",
+      "李虹辰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2408394301.jpg",
+    "id": "26696879",
+    "cover_y": 1512
+  },
+  {
+    "directors": [
+      "宋晓飞",
+      "董旭"
+    ],
+    "rate": "6.0",
+    "cover_x": 654,
+    "star": "30",
+    "title": "情圣",
+    "url": "https://movie.douban.com/subject/26879060/",
+    "casts": [
+      "肖央",
+      "闫妮",
+      "小沈阳",
+      "乔杉",
+      "艾伦"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2409022364.jpg",
+    "id": "26879060",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "阿兰·泰勒"
+    ],
+    "rate": "6.9",
+    "cover_x": 4919,
+    "star": "35",
+    "title": "终结者：创世纪",
+    "url": "https://movie.douban.com/subject/3338862/",
+    "casts": [
+      "阿诺·施瓦辛格",
+      "杰森·克拉克",
+      "艾米莉亚·克拉克",
+      "杰·科特尼",
+      "J·K·西蒙斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2262649521.jpg",
+    "id": "3338862",
+    "cover_y": 7000
+  },
+  {
+    "directors": [
+      "叶伟信"
+    ],
+    "rate": "6.5",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "叶问3",
+    "url": "https://movie.douban.com/subject/11598977/",
+    "casts": [
+      "甄子丹",
+      "迈克·泰森",
+      "张晋",
+      "熊黛林",
+      "谭耀文"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2322954776.jpg",
+    "id": "11598977",
+    "cover_y": 2828
+  },
+  {
+    "directors": [
+      "詹姆斯·伯罗斯",
+      "泰德·瓦斯",
+      "乔尔·默里",
+      "马克·森卓斯基"
+    ],
+    "rate": "9.5",
+    "cover_x": 1280,
+    "star": "50",
+    "title": "生活大爆炸  第一季",
+    "url": "https://movie.douban.com/subject/2156528/",
+    "casts": [
+      "吉姆·帕森斯",
+      "约翰尼·盖尔克奇",
+      "凯莉·库柯",
+      "西蒙·赫尔伯格",
+      "昆瑙·内亚"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553281898.jpg",
+    "id": "2156528",
+    "cover_y": 1921
+  },
+  {
+    "directors": [
+      "戴斯特尼·埃卡拉加",
+      "露西·福布斯"
+    ],
+    "rate": "9.2",
+    "cover_x": 1500,
+    "star": "45",
+    "title": "去他*的世界 第二季",
+    "url": "https://movie.douban.com/subject/27625457/",
+    "casts": [
+      "杰西卡·巴登",
+      "埃里克斯·劳瑟",
+      "娜奥米·阿基",
+      "史蒂夫·奥拉姆",
+      "克里斯汀·博顿利"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2573147295.jpg",
+    "id": "27625457",
+    "cover_y": 2222
+  },
+  {
+    "directors": [
+      "是枝裕和"
+    ],
+    "rate": "8.8",
+    "cover_x": 1417,
+    "star": "45",
+    "title": "比海更深",
+    "url": "https://movie.douban.com/subject/26694988/",
+    "casts": [
+      "阿部宽",
+      "真木阳子",
+      "小林聪美",
+      "树木希林",
+      "中川雅也"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2454274023.jpg",
+    "id": "26694988",
+    "cover_y": 2005
+  },
+  {
+    "directors": [
+      "张哲洙"
+    ],
+    "rate": "8.5",
+    "cover_x": 4028,
+    "star": "45",
+    "title": "金福南杀人事件始末",
+    "url": "https://movie.douban.com/subject/4826419/",
+    "casts": [
+      "徐英姬",
+      "池成媛",
+      "朴政学",
+      "白秀莲",
+      "黄民浩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p596526266.jpg",
+    "id": "4826419",
+    "cover_y": 5740
+  },
+  {
+    "directors": [
+      "吕克·贝松"
+    ],
+    "rate": "7.7",
+    "cover_x": 3543,
+    "star": "40",
+    "title": "安娜",
+    "url": "https://movie.douban.com/subject/27166976/",
+    "casts": [
+      "萨莎·露丝",
+      "海伦·米伦",
+      "卢克·伊万斯",
+      "基里安·墨菲",
+      "莱拉·阿波瓦"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553320254.jpg",
+    "id": "27166976",
+    "cover_y": 4724
+  },
+  {
+    "directors": [
+      "克利斯汀·迪特"
+    ],
+    "rate": "7.5",
+    "cover_x": 1413,
+    "star": "40",
+    "title": "爱你，罗茜",
+    "url": "https://movie.douban.com/subject/5153254/",
+    "casts": [
+      "莉莉·柯林斯",
+      "山姆·克拉弗林",
+      "塔姆欣·伊格顿",
+      "杰美·温斯顿",
+      "克里斯蒂安·库克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190768432.jpg",
+    "id": "5153254",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "D·B·威斯",
+      "艾利克斯·格雷夫斯",
+      "米歇尔·麦克拉伦",
+      "埃里克·萨哈罗夫",
+      "尼尔·马歇尔"
+    ],
+    "rate": "9.6",
+    "cover_x": 3240,
+    "star": "50",
+    "title": "权力的游戏 第四季",
+    "url": "https://movie.douban.com/subject/23232876/",
+    "casts": [
+      "彼特·丁拉基",
+      "尼古拉·科斯特-瓦尔道",
+      "琳娜·海蒂",
+      "艾米莉亚·克拉克",
+      "基特·哈灵顿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2172313849.jpg",
+    "id": "23232876",
+    "cover_y": 4800
+  },
+  {
+    "directors": [
+      "费尔南多·梅里尔斯",
+      "卡迪亚·兰德"
+    ],
+    "rate": "8.9",
+    "cover_x": 600,
+    "star": "45",
+    "title": "上帝之城",
+    "url": "https://movie.douban.com/subject/1292208/",
+    "casts": [
+      "亚历桑德雷·罗德里格斯",
+      "莱安德鲁·菲尔米诺",
+      "菲利佩·哈根森",
+      "道格拉斯·席尔瓦",
+      "乔纳森·哈根森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg",
+    "id": "1292208",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "西蒙·柯蒂斯"
+    ],
+    "rate": "8.3",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "我在雨中等你",
+    "url": "https://movie.douban.com/subject/3882427/",
+    "casts": [
+      "凯文·科斯特纳",
+      "米洛·文堤米利亚",
+      "阿曼达·塞弗里德",
+      "马丁·唐文",
+      "盖瑞·科尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557226052.jpg",
+    "id": "3882427",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "陈赫"
+    ],
+    "rate": "7.6",
+    "cover_x": 520,
+    "star": "40",
+    "title": "蓝色大海的传说",
+    "url": "https://movie.douban.com/subject/26806061/",
+    "casts": [
+      "全智贤",
+      "李敏镐",
+      "文素丽",
+      "朴珍荣",
+      "成东日"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398864969.jpg",
+    "id": "26806061",
+    "cover_y": 678
+  },
+  {
+    "directors": [
+      "静野孔文"
+    ],
+    "rate": "5.9",
+    "cover_x": 2143,
+    "star": "30",
+    "title": "名侦探柯南：业火的向日葵",
+    "url": "https://movie.douban.com/subject/26094129/",
+    "casts": [
+      "高山南",
+      "山口胜平",
+      "山崎和佳奈",
+      "小山力也",
+      "林原惠美"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2273435952.jpg",
+    "id": "26094129",
+    "cover_y": 2993
+  }
+]

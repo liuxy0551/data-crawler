@@ -1,0 +1,423 @@
+[
+  {
+    "directors": [
+      "陈家林",
+      "刘大印"
+    ],
+    "rate": "9.1",
+    "cover_x": 448,
+    "star": "45",
+    "title": "康熙王朝",
+    "url": "https://movie.douban.com/subject/1830590/",
+    "casts": [
+      "斯琴高娃",
+      "陈道明",
+      "高兰村",
+      "茹萍",
+      "李建群"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373067679.jpg",
+    "id": "1830590",
+    "cover_y": 672
+  },
+  {
+    "directors": [
+      "徐克"
+    ],
+    "rate": "8.2",
+    "cover_x": 1069,
+    "star": "40",
+    "title": "黄飞鸿",
+    "url": "https://movie.douban.com/subject/1298443/",
+    "casts": [
+      "李连杰",
+      "元彪",
+      "关之琳",
+      "张学友",
+      "郑则仕"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2204476216.jpg",
+    "id": "1298443",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "罗泓轸"
+    ],
+    "rate": "8.4",
+    "cover_x": 1400,
+    "star": "40",
+    "title": "追击者",
+    "url": "https://movie.douban.com/subject/3006309/",
+    "casts": [
+      "河正宇",
+      "金允石",
+      "徐英姬",
+      "金裕贞",
+      "郑仁基"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496896804.jpg",
+    "id": "3006309",
+    "cover_y": 2006
+  },
+  {
+    "directors": [
+      "J·J·艾布拉姆斯"
+    ],
+    "rate": "7.2",
+    "cover_x": 1986,
+    "star": "35",
+    "title": "星球大战7：原力觉醒",
+    "url": "https://movie.douban.com/subject/20326665/",
+    "casts": [
+      "哈里森·福特",
+      "马克·哈米尔",
+      "凯丽·费雪",
+      "亚当·德赖弗",
+      "黛西·雷德利"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2293954118.jpg",
+    "id": "20326665",
+    "cover_y": 2835
+  },
+  {
+    "directors": [
+      "滕丛丛"
+    ],
+    "rate": "7.1",
+    "cover_x": 4371,
+    "star": "35",
+    "title": "送我上青云",
+    "url": "https://movie.douban.com/subject/27180759/",
+    "casts": [
+      "姚晨",
+      "袁弘",
+      "李九霄",
+      "梁冠华",
+      "杨新鸣"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565751382.jpg",
+    "id": "27180759",
+    "cover_y": 6215
+  },
+  {
+    "directors": [
+      "吴锦源"
+    ],
+    "rate": "5.1",
+    "cover_x": 2048,
+    "star": "25",
+    "title": "楚乔传",
+    "url": "https://movie.douban.com/subject/26363186/",
+    "casts": [
+      "赵丽颖",
+      "林更新",
+      "窦骁",
+      "李沁",
+      "王彦霖"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456163175.jpg",
+    "id": "26363186",
+    "cover_y": 3641
+  },
+  {
+    "directors": [
+      "黑泽明"
+    ],
+    "rate": "9.2",
+    "cover_x": 545,
+    "star": "45",
+    "title": "七武士",
+    "url": "https://movie.douban.com/subject/1295399/",
+    "casts": [
+      "三船敏郎",
+      "志村乔",
+      "津岛惠子",
+      "岛崎雪子",
+      "藤原釜足"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215886505.jpg",
+    "id": "1295399",
+    "cover_y": 773
+  },
+  {
+    "directors": [
+      "雷德利·斯科特"
+    ],
+    "rate": "8.2",
+    "cover_x": 402,
+    "star": "40",
+    "title": "汉尼拔",
+    "url": "https://movie.douban.com/subject/1301746/",
+    "casts": [
+      "安东尼·霍普金斯",
+      "朱丽安·摩尔",
+      "加里·奥德曼",
+      "雷·利奥塔",
+      "弗兰基·费森"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p613321434.jpg",
+    "id": "1301746",
+    "cover_y": 600
+  },
+  {
+    "directors": [
+      "罗伯·明可夫"
+    ],
+    "rate": "7.5",
+    "cover_x": 4679,
+    "star": "40",
+    "title": "天才眼镜狗",
+    "url": "https://movie.douban.com/subject/3101548/",
+    "casts": [
+      "泰·布利尔",
+      "麦克斯·查尔斯",
+      "罗莉·弗雷泽",
+      "吉约姆·阿瑞托斯",
+      "帕特里斯·A·缪吉克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174250040.jpg",
+    "id": "3101548",
+    "cover_y": 6934
+  },
+  {
+    "directors": [
+      "金容华"
+    ],
+    "rate": "7.6",
+    "cover_x": 800,
+    "star": "40",
+    "title": "与神同行2：因与缘",
+    "url": "https://movie.douban.com/subject/27003543/",
+    "casts": [
+      "河正宇",
+      "朱智勋",
+      "马东锡",
+      "金香起",
+      "李政宰"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527205786.jpg",
+    "id": "27003543",
+    "cover_y": 1146
+  },
+  {
+    "directors": [
+      "迈克尔·斯派瑞",
+      "彼得·斯派瑞"
+    ],
+    "rate": "6.9",
+    "cover_x": 1327,
+    "star": "35",
+    "title": "电锯惊魂8：竖锯",
+    "url": "https://movie.douban.com/subject/25788426/",
+    "casts": [
+      "马特·帕斯摩尔",
+      "托宾·贝尔",
+      "考乐姆·吉斯·雷尼",
+      "汉娜·艾米莉·安德森",
+      "科勒·班尼特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499761124.jpg",
+    "id": "25788426",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "徐克"
+    ],
+    "rate": "6.5",
+    "cover_x": 3000,
+    "star": "35",
+    "title": "狄仁杰之神都龙王",
+    "url": "https://movie.douban.com/subject/5996801/",
+    "casts": [
+      "赵又廷",
+      "冯绍峰",
+      "林更新",
+      "金汎",
+      "杨颖"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2099623528.jpg",
+    "id": "5996801",
+    "cover_y": 4200
+  },
+  {
+    "directors": [
+      "罗伯·马歇尔"
+    ],
+    "rate": "7.5",
+    "cover_x": 511,
+    "star": "40",
+    "title": "艺伎回忆录",
+    "url": "https://movie.douban.com/subject/1309059/",
+    "casts": [
+      "章子怡",
+      "渡边谦",
+      "杨紫琼",
+      "巩俐",
+      "周采芹"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p849464387.jpg",
+    "id": "1309059",
+    "cover_y": 760
+  },
+  {
+    "directors": [
+      "J·J·艾布拉姆斯"
+    ],
+    "rate": "6.3",
+    "cover_x": 2953,
+    "star": "30",
+    "title": "星球大战9：天行者崛起",
+    "url": "https://movie.douban.com/subject/22265687/",
+    "casts": [
+      "黛西·雷德利",
+      "亚当·德赖弗",
+      "奥斯卡·伊萨克",
+      "约翰·博耶加",
+      "马克·哈米尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575456458.jpg",
+    "id": "22265687",
+    "cover_y": 4370
+  },
+  {
+    "directors": [
+      "荒木哲郎",
+      "肥冢正史",
+      "田中洋之",
+      "横山彰利",
+      "赤松康裕",
+      "若野哲也",
+      "金森阳子",
+      "江副仁美",
+      "内田信吾",
+      "高桥谦仁",
+      "丝贺慎太郎"
+    ],
+    "rate": "9.8",
+    "cover_x": 1442,
+    "star": "50",
+    "title": "进击的巨人 第三季 Part.2",
+    "url": "https://movie.douban.com/subject/30353357/",
+    "casts": [
+      "梶裕贵",
+      "石川由依",
+      "井上麻里奈",
+      "神谷浩史",
+      "小野大辅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2550184312.jpg",
+    "id": "30353357",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "金成勋",
+      "朴仁载"
+    ],
+    "rate": "8.3",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "王国 第二季",
+    "url": "https://movie.douban.com/subject/30306401/",
+    "casts": [
+      "朱智勋",
+      "裴斗娜",
+      "柳承龙",
+      "金成圭",
+      "全锡浩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2587671506.jpg",
+    "id": "30306401",
+    "cover_y": 2222
+  },
+  {
+    "directors": [
+      "王子鸣"
+    ],
+    "rate": "4.7",
+    "cover_x": 678,
+    "star": "25",
+    "title": "不二神探",
+    "url": "https://movie.douban.com/subject/10604486/",
+    "casts": [
+      "文章",
+      "李连杰",
+      "刘诗诗",
+      "陈妍希",
+      "柳岩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2006870496.jpg",
+    "id": "10604486",
+    "cover_y": 949
+  },
+  {
+    "directors": [
+      "迈克尔·莱拜克",
+      "詹姆斯·伯罗斯",
+      "托马斯·施拉梅",
+      "凯文·布莱特",
+      "彼得·博内兹",
+      "盖尔·曼库索",
+      "玛丽·凯·普莱斯"
+    ],
+    "rate": "9.8",
+    "cover_x": 984,
+    "star": "50",
+    "title": "老友记 第二季",
+    "url": "https://movie.douban.com/subject/3286528/",
+    "casts": [
+      "詹妮弗·安妮斯顿",
+      "柯特妮·考克斯",
+      "丽莎·库卓",
+      "马特·勒布朗",
+      "马修·派瑞"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2200410776.jpg",
+    "id": "3286528",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "卡洛斯·沙尔丹哈"
+    ],
+    "rate": "8.3",
+    "cover_x": 1013,
+    "star": "40",
+    "title": "里约大冒险",
+    "url": "https://movie.douban.com/subject/3731581/",
+    "casts": [
+      "杰西·艾森伯格",
+      "安妮·海瑟薇",
+      "乔治·洛佩兹",
+      "罗德里戈·桑托罗",
+      "凯特·德尔·卡斯蒂洛"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2170811687.jpg",
+    "id": "3731581",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "石川淳一",
+      "城宝秀则",
+      "西坂瑞城"
+    ],
+    "rate": "9.3",
+    "cover_x": 1867,
+    "star": "45",
+    "title": "胜者即是正义2",
+    "url": "https://movie.douban.com/subject/23997724/",
+    "casts": [
+      "堺雅人",
+      "新垣结衣",
+      "冈田将生",
+      "小雪",
+      "田口淳之介"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2171877514.jpg",
+    "id": "23997724",
+    "cover_y": 2560
+  }
+]

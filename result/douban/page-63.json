@@ -1,0 +1,407 @@
+[
+  {
+    "directors": [
+      "奥特姆·代·怀尔德"
+    ],
+    "rate": "7.2",
+    "cover_x": 2765,
+    "star": "35",
+    "title": "爱玛",
+    "url": "https://movie.douban.com/subject/30361878/",
+    "casts": [
+      "安雅·泰勒-乔伊",
+      "强尼·弗林",
+      "比尔·奈伊",
+      "乔什·奥康纳",
+      "米娅·高斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581191543.jpg",
+    "id": "30361878",
+    "cover_y": 4096
+  },
+  {
+    "directors": [
+      "迈克尔·恩格勒"
+    ],
+    "rate": "8.1",
+    "cover_x": 1012,
+    "star": "40",
+    "title": "唐顿庄园",
+    "url": "https://movie.douban.com/subject/27002635/",
+    "casts": [
+      "米歇尔·道克瑞",
+      "休·博纳维尔",
+      "伊丽莎白·麦戈文",
+      "玛吉·史密斯",
+      "艾美达·斯丹顿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575400017.jpg",
+    "id": "27002635",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "达伦·林恩·鲍斯曼"
+    ],
+    "rate": "7.8",
+    "cover_x": 750,
+    "star": "40",
+    "title": "电锯惊魂4",
+    "url": "https://movie.douban.com/subject/1922273/",
+    "casts": [
+      "托宾·贝尔",
+      "科斯塔斯·曼迪勒",
+      "斯科特·帕特森",
+      "贝茜·拉塞尔",
+      "雷瑞克·本特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196982868.jpg",
+    "id": "1922273",
+    "cover_y": 1110
+  },
+  {
+    "directors": [
+      "李海蜀",
+      "黄彦威"
+    ],
+    "rate": "4.8",
+    "cover_x": 1000,
+    "star": "25",
+    "title": "傲娇与偏见",
+    "url": "https://movie.douban.com/subject/26644002/",
+    "casts": [
+      "迪丽热巴",
+      "张云龙",
+      "高伟光",
+      "金晨",
+      "马薇薇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455810613.jpg",
+    "id": "26644002",
+    "cover_y": 1413
+  },
+  {
+    "directors": [
+      "李昕芸"
+    ],
+    "rate": "4.9",
+    "cover_x": 1500,
+    "star": "25",
+    "title": "龙虾刑警",
+    "url": "https://movie.douban.com/subject/26992383/",
+    "casts": [
+      "王千源",
+      "袁姗姗",
+      "刘桦",
+      "周游",
+      "周云鹏"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523437806.jpg",
+    "id": "26992383",
+    "cover_y": 2142
+  },
+  {
+    "directors": [
+      "杨韬",
+      "赖水清"
+    ],
+    "rate": "8.3",
+    "cover_x": 748,
+    "star": "40",
+    "title": "倚天屠龙记",
+    "url": "https://movie.douban.com/subject/3901418/",
+    "casts": [
+      "苏有朋",
+      "贾静雯",
+      "高圆圆",
+      "张国立",
+      "张铁林"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1639170690.jpg",
+    "id": "3901418",
+    "cover_y": 1177
+  },
+  {
+    "directors": [
+      "郑保瑞"
+    ],
+    "rate": "7.4",
+    "cover_x": 907,
+    "star": "35",
+    "title": "杀破狼2",
+    "url": "https://movie.douban.com/subject/23788440/",
+    "casts": [
+      "吴京",
+      "托尼·贾",
+      "张晋",
+      "任达华",
+      "卢惠光"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2246885606.jpg",
+    "id": "23788440",
+    "cover_y": 1290
+  },
+  {
+    "directors": [
+      "静野孔文"
+    ],
+    "rate": "6.8",
+    "cover_x": 2866,
+    "star": "35",
+    "title": "名侦探柯南：唐红的恋歌",
+    "url": "https://movie.douban.com/subject/26788667/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "小山力也",
+      "山口胜平",
+      "堀川亮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461296240.jpg",
+    "id": "26788667",
+    "cover_y": 4055
+  },
+  {
+    "directors": [
+      "李应福",
+      "白尚勋"
+    ],
+    "rate": "8.0",
+    "cover_x": 1239,
+    "star": "40",
+    "title": "你是谁 - 学校2015",
+    "url": "https://movie.douban.com/subject/26334949/",
+    "casts": [
+      "金所泫",
+      "南柱赫",
+      "陆星材",
+      "李在仁",
+      "朴亚成"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2244091644.jpg",
+    "id": "26334949",
+    "cover_y": 1800
+  },
+  {
+    "directors": [
+      "凯文·格劳特"
+    ],
+    "rate": "7.7",
+    "cover_x": 2400,
+    "star": "40",
+    "title": "电锯惊魂7",
+    "url": "https://movie.douban.com/subject/3878157/",
+    "casts": [
+      "托宾·贝尔",
+      "科斯塔斯·曼迪勒",
+      "贝茜·拉塞尔",
+      "加利·艾尔维斯",
+      "肖恩·派特里克·弗兰纳里"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p639966511.jpg",
+    "id": "3878157",
+    "cover_y": 3556
+  },
+  {
+    "directors": [
+      "林诣彬"
+    ],
+    "rate": "7.4",
+    "cover_x": 1377,
+    "star": "35",
+    "title": "星际迷航3：超越星辰",
+    "url": "https://movie.douban.com/subject/22939161/",
+    "casts": [
+      "克里斯·派恩",
+      "扎克瑞·昆图",
+      "佐伊·索尔达娜",
+      "西蒙·佩吉",
+      "安东·叶利钦"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2377455123.jpg",
+    "id": "22939161",
+    "cover_y": 2027
+  },
+  {
+    "directors": [
+      "陈嘉上",
+      "秦小珍"
+    ],
+    "rate": "5.2",
+    "cover_x": 679,
+    "star": "25",
+    "title": "四大名捕",
+    "url": "https://movie.douban.com/subject/6124012/",
+    "casts": [
+      "邓超",
+      "刘亦菲",
+      "郑中基",
+      "邹兆龙",
+      "黄秋生"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1607300196.jpg",
+    "id": "6124012",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "朱里安·杰拉德"
+    ],
+    "rate": "8.3",
+    "cover_x": 1873,
+    "star": "40",
+    "title": "成为简·奥斯汀",
+    "url": "https://movie.douban.com/subject/1920805/",
+    "casts": [
+      "安妮·海瑟薇",
+      "詹姆斯·麦卡沃伊",
+      "朱丽·沃特斯",
+      "詹姆斯·克伦威尔",
+      "玛吉·史密斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1284506783.jpg",
+    "id": "1920805",
+    "cover_y": 2800
+  },
+  {
+    "directors": [
+      "陈木胜"
+    ],
+    "rate": "6.7",
+    "cover_x": 1428,
+    "star": "35",
+    "title": "保持通话",
+    "url": "https://movie.douban.com/subject/2359431/",
+    "casts": [
+      "古天乐",
+      "徐熙媛",
+      "张家辉",
+      "刘烨",
+      "樊少皇"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p505145746.jpg",
+    "id": "2359431",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "大卫·R·艾里斯"
+    ],
+    "rate": "6.5",
+    "cover_x": 1259,
+    "star": "35",
+    "title": "死神来了4",
+    "url": "https://movie.douban.com/subject/2357708/",
+    "casts": [
+      "鲍比·坎波",
+      "珊特尔·范圣滕",
+      "尼克·扎诺",
+      "海雷·韦伯",
+      "麦凯尔泰·威廉逊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1137326910.jpg",
+    "id": "2357708",
+    "cover_y": 1788
+  },
+  {
+    "directors": [
+      "贾斯汀·罗兰",
+      "胡安·何塞·梅扎-莱昂"
+    ],
+    "rate": "9.8",
+    "cover_x": 523,
+    "star": "50",
+    "title": "瑞克和莫蒂 第三季",
+    "url": "https://movie.douban.com/subject/26592971/",
+    "casts": [
+      "贾斯汀·罗兰",
+      "克里斯·帕内尔",
+      "斯宾瑟·格拉默",
+      "萨拉·乔克",
+      "内森·菲利安"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2492804476.jpg",
+    "id": "26592971",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "韦正"
+    ],
+    "rate": "7.5",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "爱情公寓3",
+    "url": "https://movie.douban.com/subject/6312211/",
+    "casts": [
+      "娄艺潇",
+      "陈赫",
+      "邓家佳",
+      "王传君",
+      "李金铭"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1625980712.jpg",
+    "id": "6312211",
+    "cover_y": 1414
+  },
+  {
+    "directors": [
+      "卡洛斯·沙尔丹哈"
+    ],
+    "rate": "7.7",
+    "cover_x": 2834,
+    "star": "40",
+    "title": "里约大冒险2",
+    "url": "https://movie.douban.com/subject/11443314/",
+    "casts": [
+      "安妮·海瑟薇",
+      "杰西·艾森伯格",
+      "布鲁诺·马尔斯",
+      "杰米·福克斯",
+      "克里斯汀·肯诺恩斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2177142678.jpg",
+    "id": "11443314",
+    "cover_y": 4252
+  },
+  {
+    "directors": [
+      "蔡聪"
+    ],
+    "rate": "5.4",
+    "cover_x": 1066,
+    "star": "25",
+    "title": "韫色过浓",
+    "url": "https://movie.douban.com/subject/34800631/",
+    "casts": [
+      "张予曦",
+      "丁禹兮",
+      "师铭泽",
+      "完颜洛绒",
+      "林昕宜"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2602985637.jpg",
+    "id": "34800631",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "陈思诚"
+    ],
+    "rate": "6.1",
+    "cover_x": 4465,
+    "star": "30",
+    "title": "北京爱情故事",
+    "url": "https://movie.douban.com/subject/24736566/",
+    "casts": [
+      "梁家辉",
+      "刘嘉玲",
+      "王学兵",
+      "余男",
+      "陈思诚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2167457161.jpg",
+    "id": "24736566",
+    "cover_y": 6354
+  }
+]

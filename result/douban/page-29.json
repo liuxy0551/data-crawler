@@ -1,0 +1,403 @@
+[
+  {
+    "directors": [
+      "赛尔乔·莱昂内"
+    ],
+    "rate": "9.2",
+    "cover_x": 580,
+    "star": "45",
+    "title": "美国往事",
+    "url": "https://movie.douban.com/subject/1292262/",
+    "casts": [
+      "罗伯特·德尼罗",
+      "詹姆斯·伍兹",
+      "伊丽莎白·麦戈文",
+      "乔·佩西",
+      "波特·杨"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg",
+    "id": "1292262",
+    "cover_y": 859
+  },
+  {
+    "directors": [
+      "特瑞·乔治"
+    ],
+    "rate": "8.9",
+    "cover_x": 677,
+    "star": "45",
+    "title": "卢旺达饭店",
+    "url": "https://movie.douban.com/subject/1291822/",
+    "casts": [
+      "唐·钱德尔",
+      "苏菲·奥康内多",
+      "华金·菲尼克斯",
+      "尼克·诺特",
+      "哈基姆·凯-卡西姆"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg",
+    "id": "1291822",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "J·A·巴亚纳"
+    ],
+    "rate": "6.7",
+    "cover_x": 504,
+    "star": "35",
+    "title": "侏罗纪世界2",
+    "url": "https://movie.douban.com/subject/26416062/",
+    "casts": [
+      "克里斯·帕拉特",
+      "布莱丝·达拉斯·霍华德",
+      "贾斯蒂斯·史密斯",
+      "伊莎贝拉·瑟蒙",
+      "拉菲·斯波"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522069454.jpg",
+    "id": "26416062",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "高畑勋"
+    ],
+    "rate": "8.7",
+    "cover_x": 844,
+    "star": "45",
+    "title": "萤火虫之墓",
+    "url": "https://movie.douban.com/subject/1293318/",
+    "casts": [
+      "辰己努",
+      "白石绫乃",
+      "志乃原良子",
+      "山口朱美",
+      "端田宏三"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1157334208.jpg",
+    "id": "1293318",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "7.9",
+    "cover_x": 1445,
+    "star": "40",
+    "title": "天下无贼",
+    "url": "https://movie.douban.com/subject/1291550/",
+    "casts": [
+      "刘德华",
+      "刘若英",
+      "王宝强",
+      "李冰冰",
+      "葛优"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2191934463.jpg",
+    "id": "1291550",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "俞白眉",
+      "邓超"
+    ],
+    "rate": "5.1",
+    "cover_x": 4430,
+    "star": "25",
+    "title": "分手大师",
+    "url": "https://movie.douban.com/subject/24879858/",
+    "casts": [
+      "邓超",
+      "杨幂",
+      "古力娜扎",
+      "栾元晖",
+      "秦越"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2188112867.jpg",
+    "id": "24879858",
+    "cover_y": 6201
+  },
+  {
+    "directors": [
+      "马修·沃恩"
+    ],
+    "rate": "6.9",
+    "cover_x": 3440,
+    "star": "35",
+    "title": "王牌特工2：黄金圈",
+    "url": "https://movie.douban.com/subject/26378579/",
+    "casts": [
+      "塔伦·埃哲顿",
+      "科林·费尔斯",
+      "马克·斯特朗",
+      "朱丽安·摩尔",
+      "埃尔顿·约翰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499792043.jpg",
+    "id": "26378579",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "陈嘉上"
+    ],
+    "rate": "7.9",
+    "cover_x": 527,
+    "star": "40",
+    "title": "逃学威龙",
+    "url": "https://movie.douban.com/subject/1302090/",
+    "casts": [
+      "周星驰",
+      "张敏",
+      "吴孟达",
+      "张耀扬",
+      "黄一山"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2002724530.jpg",
+    "id": "1302090",
+    "cover_y": 720
+  },
+  {
+    "directors": [
+      "斯坦利·库布里克"
+    ],
+    "rate": "8.8",
+    "cover_x": 1532,
+    "star": "45",
+    "title": "2001太空漫游",
+    "url": "https://movie.douban.com/subject/1292226/",
+    "casts": [
+      "凯尔·杜拉",
+      "加里·洛克伍德",
+      "威廉姆·西尔维斯特",
+      "丹尼尔·里希特",
+      "雷纳德·洛塞特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560717825.jpg",
+    "id": "1292226",
+    "cover_y": 2172
+  },
+  {
+    "directors": [
+      "本·斯蒂勒"
+    ],
+    "rate": "8.5",
+    "cover_x": 2025,
+    "star": "45",
+    "title": "白日梦想家",
+    "url": "https://movie.douban.com/subject/2133323/",
+    "casts": [
+      "本·斯蒂勒",
+      "克里斯汀·韦格",
+      "亚当·斯科特",
+      "西恩·潘",
+      "凯瑟琳·哈恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2160195181.jpg",
+    "id": "2133323",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "道格·里曼"
+    ],
+    "rate": "8.1",
+    "cover_x": 3420,
+    "star": "40",
+    "title": "明日边缘",
+    "url": "https://movie.douban.com/subject/4746257/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "艾米莉·布朗特",
+      "布莱丹·格里森",
+      "比尔·帕克斯顿",
+      "约纳斯·阿姆斯特朗"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2185073849.jpg",
+    "id": "4746257",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "熊泽尚人"
+    ],
+    "rate": "7.0",
+    "cover_x": 2142,
+    "star": "35",
+    "title": "好想告诉你",
+    "url": "https://movie.douban.com/subject/4727460/",
+    "casts": [
+      "多部未华子",
+      "三浦春马",
+      "莲佛美沙子",
+      "桐谷美玲",
+      "夏菜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p666945712.jpg",
+    "id": "4727460",
+    "cover_y": 3025
+  },
+  {
+    "directors": [
+      "周杰伦"
+    ],
+    "rate": "7.9",
+    "cover_x": 905,
+    "star": "40",
+    "title": "不能说的秘密",
+    "url": "https://movie.douban.com/subject/2124724/",
+    "casts": [
+      "周杰伦",
+      "桂纶镁",
+      "黄秋生",
+      "曾恺玹",
+      "苏明明"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568025412.jpg",
+    "id": "2124724",
+    "cover_y": 1280
+  },
+  {
+    "directors": [
+      "马丁·斯科塞斯"
+    ],
+    "rate": "7.9",
+    "cover_x": 2202,
+    "star": "40",
+    "title": "华尔街之狼",
+    "url": "https://movie.douban.com/subject/2997076/",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "乔纳·希尔",
+      "玛格特·罗比",
+      "马修·麦康纳",
+      "凯尔·钱德勒"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2160254162.jpg",
+    "id": "2997076",
+    "cover_y": 3263
+  },
+  {
+    "directors": [
+      "李路"
+    ],
+    "rate": "8.3",
+    "cover_x": 1280,
+    "star": "40",
+    "title": "人民的名义",
+    "url": "https://movie.douban.com/subject/26727273/",
+    "casts": [
+      "陆毅",
+      "柯蓝",
+      "张丰毅",
+      "吴刚",
+      "许亚军"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2452241358.jpg",
+    "id": "26727273",
+    "cover_y": 2088
+  },
+  {
+    "directors": [
+      "于淼"
+    ],
+    "rate": "5.8",
+    "cover_x": 800,
+    "star": "30",
+    "title": "来电狂响",
+    "url": "https://movie.douban.com/subject/30377703/",
+    "casts": [
+      "佟大为",
+      "马丽",
+      "霍思燕",
+      "乔杉",
+      "田雨"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542268337.jpg",
+    "id": "30377703",
+    "cover_y": 1120
+  },
+  {
+    "directors": [
+      "吉尔莫·德尔·托罗"
+    ],
+    "rate": "7.2",
+    "cover_x": 2025,
+    "star": "35",
+    "title": "水形物语",
+    "url": "https://movie.douban.com/subject/26752852/",
+    "casts": [
+      "莎莉·霍金斯",
+      "道格·琼斯",
+      "迈克尔·珊农",
+      "理查德·詹金斯",
+      "奥克塔维亚·斯宾瑟"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506388632.jpg",
+    "id": "26752852",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "马克·福斯特"
+    ],
+    "rate": "7.5",
+    "cover_x": 1200,
+    "star": "40",
+    "title": "僵尸世界大战",
+    "url": "https://movie.douban.com/subject/2132473/",
+    "casts": [
+      "布拉德·皮特",
+      "米瑞·伊诺丝",
+      "马修·福克斯",
+      "埃里克·韦斯特",
+      "大卫·摩斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2119276553.jpg",
+    "id": "2132473",
+    "cover_y": 1845
+  },
+  {
+    "directors": [
+      "娄烨"
+    ],
+    "rate": "7.2",
+    "cover_x": 1372,
+    "star": "35",
+    "title": "风中有朵雨做的云",
+    "url": "https://movie.douban.com/subject/26728669/",
+    "casts": [
+      "井柏然",
+      "宋佳",
+      "马思纯",
+      "秦昊",
+      "陈妍希"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552522615.jpg",
+    "id": "26728669",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "吴贤钟"
+    ],
+    "rate": "8.6",
+    "cover_x": 792,
+    "star": "45",
+    "title": "举重妖精金福珠",
+    "url": "https://movie.douban.com/subject/26836808/",
+    "casts": [
+      "李圣经",
+      "南柱赫",
+      "景收真",
+      "李载允",
+      "刘多仁"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458852037.jpg",
+    "id": "26836808",
+    "cover_y": 1181
+  }
+]

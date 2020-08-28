@@ -1,0 +1,402 @@
+[
+  {
+    "directors": [
+      "大卫·芬奇"
+    ],
+    "rate": "8.8",
+    "cover_x": 961,
+    "star": "45",
+    "title": "七宗罪",
+    "url": "https://movie.douban.com/subject/1292223/",
+    "casts": [
+      "摩根·弗里曼",
+      "布拉德·皮特",
+      "凯文·史派西",
+      "格温妮斯·帕特洛",
+      "安德鲁·凯文·沃克"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg",
+    "id": "1292223",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "7.6",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "芳华",
+    "url": "https://movie.douban.com/subject/26862829/",
+    "casts": [
+      "黄轩",
+      "苗苗",
+      "钟楚曦",
+      "杨采钰",
+      "李晓峰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507227732.jpg",
+    "id": "26862829",
+    "cover_y": 2802
+  },
+  {
+    "directors": [
+      "宁浩"
+    ],
+    "rate": "8.5",
+    "cover_x": 578,
+    "star": "45",
+    "title": "疯狂的石头",
+    "url": "https://movie.douban.com/subject/1862151/",
+    "casts": [
+      "郭涛",
+      "刘桦",
+      "连晋",
+      "黄渤",
+      "徐峥"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg",
+    "id": "1862151",
+    "cover_y": 764
+  },
+  {
+    "directors": [
+      "沙恩·布莱克"
+    ],
+    "rate": "7.8",
+    "cover_x": 864,
+    "star": "40",
+    "title": "钢铁侠3",
+    "url": "https://movie.douban.com/subject/3231742/",
+    "casts": [
+      "小罗伯特·唐尼",
+      "盖·皮尔斯",
+      "格温妮斯·帕特洛",
+      "本·金斯利",
+      "唐·钱德尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1955027201.jpg",
+    "id": "3231742",
+    "cover_y": 1280
+  },
+  {
+    "directors": [
+      "李濬益"
+    ],
+    "rate": "9.3",
+    "cover_x": 1500,
+    "star": "45",
+    "title": "素媛",
+    "url": "https://movie.douban.com/subject/21937452/",
+    "casts": [
+      "薛景求",
+      "严志媛",
+      "李来",
+      "金海淑",
+      "金相浩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg",
+    "id": "21937452",
+    "cover_y": 2137
+  },
+  {
+    "directors": [
+      "梁旋",
+      "张春"
+    ],
+    "rate": "6.9",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "大鱼海棠",
+    "url": "https://movie.douban.com/subject/5045678/",
+    "casts": [
+      "季冠霖",
+      "苏尚卿",
+      "许魏洲",
+      "金士杰",
+      "杨婷"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2361744534.jpg",
+    "id": "5045678",
+    "cover_y": 1620
+  },
+  {
+    "directors": [
+      "是枝裕和"
+    ],
+    "rate": "8.7",
+    "cover_x": 3300,
+    "star": "45",
+    "title": "小偷家族",
+    "url": "https://movie.douban.com/subject/27622447/",
+    "casts": [
+      "中川雅也",
+      "安藤樱",
+      "松冈茉优",
+      "城桧吏",
+      "佐佐木美结"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg",
+    "id": "27622447",
+    "cover_y": 4659
+  },
+  {
+    "directors": [
+      "肯尼思·布拉纳"
+    ],
+    "rate": "7.1",
+    "cover_x": 5523,
+    "star": "35",
+    "title": "雷神",
+    "url": "https://movie.douban.com/subject/1866471/",
+    "casts": [
+      "克里斯·海姆斯沃斯",
+      "娜塔莉·波特曼",
+      "汤姆·希德勒斯顿",
+      "安东尼·霍普金斯",
+      "斯特兰·斯卡斯加德"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p956098719.jpg",
+    "id": "1866471",
+    "cover_y": 8000
+  },
+  {
+    "directors": [
+      "大卫·叶茨"
+    ],
+    "rate": "8.9",
+    "cover_x": 1600,
+    "star": "45",
+    "title": "哈利·波特与死亡圣器(下)",
+    "url": "https://movie.douban.com/subject/3011235/",
+    "casts": [
+      "丹尼尔·雷德克里夫",
+      "艾玛·沃森",
+      "鲁伯特·格林特",
+      "海伦娜·伯翰·卡特",
+      "拉尔夫·费因斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg",
+    "id": "3011235",
+    "cover_y": 2366
+  },
+  {
+    "directors": [
+      "弗朗西斯·福特·科波拉"
+    ],
+    "rate": "9.3",
+    "cover_x": 1130,
+    "star": "45",
+    "title": "教父",
+    "url": "https://movie.douban.com/subject/1291841/",
+    "casts": [
+      "马龙·白兰度",
+      "阿尔·帕西诺",
+      "詹姆斯·肯恩",
+      "理查德·卡斯特尔诺",
+      "罗伯特·杜瓦尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg",
+    "id": "1291841",
+    "cover_y": 1599
+  },
+  {
+    "directors": [
+      "乔·赖特"
+    ],
+    "rate": "8.6",
+    "cover_x": 2131,
+    "star": "45",
+    "title": "傲慢与偏见",
+    "url": "https://movie.douban.com/subject/1418200/",
+    "casts": [
+      "凯拉·奈特莉",
+      "马修·麦克费登",
+      "唐纳德·萨瑟兰",
+      "布兰达·布莱斯",
+      "凯瑞·穆里根"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg",
+    "id": "1418200",
+    "cover_y": 3162
+  },
+  {
+    "directors": [
+      "李凌霄"
+    ],
+    "rate": "6.2",
+    "cover_x": 1080,
+    "star": "30",
+    "title": "妙先生",
+    "url": "https://movie.douban.com/subject/34888476/",
+    "casts": [
+      "小连杀",
+      "宝木中阳"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614234255.jpg",
+    "id": "34888476",
+    "cover_y": 1512
+  },
+  {
+    "directors": [
+      "庄文强"
+    ],
+    "rate": "8.1",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "无双",
+    "url": "https://movie.douban.com/subject/26425063/",
+    "casts": [
+      "周润发",
+      "郭富城",
+      "张静初",
+      "冯文娟",
+      "廖启智"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535260806.jpg",
+    "id": "26425063",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "安东尼·罗素",
+      "乔·罗素"
+    ],
+    "rate": "7.9",
+    "cover_x": 1800,
+    "star": "40",
+    "title": "美国队长3",
+    "url": "https://movie.douban.com/subject/25820460/",
+    "casts": [
+      "克里斯·埃文斯",
+      "小罗伯特·唐尼",
+      "斯嘉丽·约翰逊",
+      "塞巴斯蒂安·斯坦",
+      "安东尼·麦凯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2332503406.jpg",
+    "id": "25820460",
+    "cover_y": 2521
+  },
+  {
+    "directors": [
+      "克里斯·巴克",
+      "珍妮弗·李"
+    ],
+    "rate": "8.4",
+    "cover_x": 1373,
+    "star": "40",
+    "title": "冰雪奇缘",
+    "url": "https://movie.douban.com/subject/4202982/",
+    "casts": [
+      "克里斯汀·贝尔",
+      "伊迪娜·门泽尔",
+      "乔纳森·格罗夫",
+      "乔什·加德",
+      "圣蒂诺·方塔纳"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2166640945.jpg",
+    "id": "4202982",
+    "cover_y": 1969
+  },
+  {
+    "directors": [
+      "乔·庄斯顿"
+    ],
+    "rate": "7.0",
+    "cover_x": 1745,
+    "star": "35",
+    "title": "美国队长",
+    "url": "https://movie.douban.com/subject/2138838/",
+    "casts": [
+      "克里斯·埃文斯",
+      "海莉·阿特维尔",
+      "塞巴斯蒂安·斯坦",
+      "汤米·李·琼斯",
+      "雨果·维文"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075448129.jpg",
+    "id": "2138838",
+    "cover_y": 2724
+  },
+  {
+    "directors": [
+      "詹姆斯·古恩"
+    ],
+    "rate": "8.1",
+    "cover_x": 2033,
+    "star": "40",
+    "title": "银河护卫队",
+    "url": "https://movie.douban.com/subject/7065154/",
+    "casts": [
+      "克里斯·帕拉特",
+      "佐伊·索尔达娜",
+      "布莱德利·库珀",
+      "范·迪塞尔",
+      "戴夫·巴蒂斯塔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2198455702.jpg",
+    "id": "7065154",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "佩顿·里德"
+    ],
+    "rate": "7.7",
+    "cover_x": 1945,
+    "star": "40",
+    "title": "蚁人",
+    "url": "https://movie.douban.com/subject/1866473/",
+    "casts": [
+      "保罗·路德",
+      "迈克尔·道格拉斯",
+      "伊万杰琳·莉莉",
+      "寇瑞·斯托尔",
+      "迈克尔·佩纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266823371.jpg",
+    "id": "1866473",
+    "cover_y": 2881
+  },
+  {
+    "directors": [
+      "詹姆斯·古恩"
+    ],
+    "rate": "8.0",
+    "cover_x": 1418,
+    "star": "40",
+    "title": "银河护卫队2",
+    "url": "https://movie.douban.com/subject/25937854/",
+    "casts": [
+      "克里斯·帕拉特",
+      "佐伊·索尔达娜",
+      "戴夫·巴蒂斯塔",
+      "范·迪塞尔",
+      "布莱德利·库珀"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455261804.jpg",
+    "id": "25937854",
+    "cover_y": 1985
+  },
+  {
+    "directors": [
+      "黄天仁"
+    ],
+    "rate": "9.2",
+    "cover_x": 2953,
+    "star": "45",
+    "title": "想见你",
+    "url": "https://movie.douban.com/subject/30468961/",
+    "casts": [
+      "柯佳嬿",
+      "许光汉",
+      "施柏宇",
+      "颜毓麟",
+      "严艺文"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2576977981.jpg",
+    "id": "30468961",
+    "cover_y": 4134
+  }
+]

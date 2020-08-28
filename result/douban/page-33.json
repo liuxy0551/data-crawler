@@ -1,0 +1,407 @@
+[
+  {
+    "directors": [
+      "保罗·金"
+    ],
+    "rate": "7.7",
+    "cover_x": 572,
+    "star": "40",
+    "title": "帕丁顿熊",
+    "url": "https://movie.douban.com/subject/2998373/",
+    "casts": [
+      "本·卫肖",
+      "妮可·基德曼",
+      "休·博纳维尔",
+      "莎莉·霍金斯",
+      "萨缪尔·乔斯林"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2231740424.jpg",
+    "id": "2998373",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "叶伟信"
+    ],
+    "rate": "7.7",
+    "cover_x": 2054,
+    "star": "40",
+    "title": "叶问",
+    "url": "https://movie.douban.com/subject/3041806/",
+    "casts": [
+      "甄子丹",
+      "任达华",
+      "熊黛林",
+      "池内博之",
+      "林家栋"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p458263441.jpg",
+    "id": "3041806",
+    "cover_y": 2846
+  },
+  {
+    "directors": [
+      "布拉德·伯德"
+    ],
+    "rate": "8.3",
+    "cover_x": 8539,
+    "star": "40",
+    "title": "碟中谍4",
+    "url": "https://movie.douban.com/subject/3068206/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "杰瑞米·雷纳",
+      "西蒙·佩吉",
+      "宝拉·巴顿",
+      "蕾雅·赛杜"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1382432968.jpg",
+    "id": "3068206",
+    "cover_y": 12472
+  },
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "8.2",
+    "cover_x": 5621,
+    "star": "40",
+    "title": "侏罗纪公园",
+    "url": "https://movie.douban.com/subject/1292523/",
+    "casts": [
+      "山姆·尼尔",
+      "劳拉·邓恩",
+      "杰夫·高布伦",
+      "理查德·阿滕伯勒",
+      "鲍勃·佩克"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg",
+    "id": "1292523",
+    "cover_y": 8000
+  },
+  {
+    "directors": [
+      "詹姆斯·卡梅隆"
+    ],
+    "rate": "8.2",
+    "cover_x": 1997,
+    "star": "40",
+    "title": "终结者",
+    "url": "https://movie.douban.com/subject/1300656/",
+    "casts": [
+      "阿诺·施瓦辛格",
+      "迈克尔·比恩",
+      "琳达·汉密尔顿",
+      "保罗·温菲尔德",
+      "兰斯·亨利克森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493796201.jpg",
+    "id": "1300656",
+    "cover_y": 2960
+  },
+  {
+    "directors": [
+      "伦尼·阿伯拉罕森",
+      "希提·麦克唐纳"
+    ],
+    "rate": "8.7",
+    "cover_x": 1458,
+    "star": "45",
+    "title": "正常人",
+    "url": "https://movie.douban.com/subject/33477335/",
+    "casts": [
+      "黛西·埃德加-琼斯",
+      "保罗·麦斯卡",
+      "艾略特·撒奥特",
+      "莎拉·格林",
+      "德斯蒙德·伊斯特伍德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595064425.jpg",
+    "id": "33477335",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "田羽生"
+    ],
+    "rate": "5.1",
+    "cover_x": 1500,
+    "star": "25",
+    "title": "小小的愿望",
+    "url": "https://movie.douban.com/subject/30235440/",
+    "casts": [
+      "彭昱畅",
+      "王大陆",
+      "魏大勋",
+      "曾梦雪",
+      "贾冰"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567277578.jpg",
+    "id": "30235440",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "成龙"
+    ],
+    "rate": "6.7",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "十二生肖",
+    "url": "https://movie.douban.com/subject/4212172/",
+    "casts": [
+      "成龙",
+      "权相宇",
+      "廖凡",
+      "姚星彤",
+      "张蓝心"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1826580562.jpg",
+    "id": "4212172",
+    "cover_y": 2794
+  },
+  {
+    "directors": [
+      "木村尚"
+    ],
+    "rate": "5.6",
+    "cover_x": 1946,
+    "star": "30",
+    "title": "尸人庄杀人事件",
+    "url": "https://movie.douban.com/subject/30396302/",
+    "casts": [
+      "神木隆之介",
+      "滨边美波",
+      "中村伦也",
+      "叶山奖之",
+      "矢本悠马"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570964511.jpg",
+    "id": "30396302",
+    "cover_y": 2752
+  },
+  {
+    "directors": [
+      "陈格洲"
+    ],
+    "rate": "7.0",
+    "cover_x": 750,
+    "star": "35",
+    "title": "向往的生活 第四季",
+    "url": "https://movie.douban.com/subject/34861173/",
+    "casts": [
+      "何炅",
+      "黄磊",
+      "彭昱畅",
+      "张子枫",
+      "周迅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2595985553.jpg",
+    "id": "34861173",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "儿玉兼嗣"
+    ],
+    "rate": "9.0",
+    "cover_x": 800,
+    "star": "45",
+    "title": "名侦探柯南：贝克街的亡灵",
+    "url": "https://movie.douban.com/subject/2286642/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "神谷明",
+      "山口胜平",
+      "林原惠美"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453731188.jpg",
+    "id": "2286642",
+    "cover_y": 1137
+  },
+  {
+    "directors": [
+      "布拉德·伯德"
+    ],
+    "rate": "8.1",
+    "cover_x": 1024,
+    "star": "40",
+    "title": "超人总动员",
+    "url": "https://movie.douban.com/subject/1291577/",
+    "casts": [
+      "格雷格·T·尼尔森",
+      "霍利·亨特",
+      "塞缪尔·杰克逊",
+      "杰森·李",
+      "泰迪·牛顿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167017148.jpg",
+    "id": "1291577",
+    "cover_y": 1517
+  },
+  {
+    "directors": [
+      "比尔·康顿"
+    ],
+    "rate": "7.0",
+    "cover_x": 3377,
+    "star": "35",
+    "title": "暮光之城4：破晓(下)",
+    "url": "https://movie.douban.com/subject/4889554/",
+    "casts": [
+      "克里斯汀·斯图尔特",
+      "罗伯特·帕丁森",
+      "泰勒·洛特纳",
+      "彼得·费辛利",
+      "伊莉莎白·里瑟"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1725916674.jpg",
+    "id": "4889554",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "藤森雅也"
+    ],
+    "rate": "8.9",
+    "cover_x": 2142,
+    "star": "45",
+    "title": "你看起来好像很好吃",
+    "url": "https://movie.douban.com/subject/4848115/",
+    "casts": [
+      "山口胜平",
+      "爱河里花子",
+      "加藤清史郎",
+      "原田知世",
+      "川岛得爱"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg",
+    "id": "4848115",
+    "cover_y": 3025
+  },
+  {
+    "directors": [
+      "李安"
+    ],
+    "rate": "6.9",
+    "cover_x": 2187,
+    "star": "35",
+    "title": "双子杀手",
+    "url": "https://movie.douban.com/subject/3097572/",
+    "casts": [
+      "威尔·史密斯",
+      "玛丽·伊丽莎白·温斯特德",
+      "克莱夫·欧文",
+      "本尼迪克特·王",
+      "道格拉斯·霍奇斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2570906505.jpg",
+    "id": "3097572",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "尤洛斯·林",
+      "奥图·巴瑟赫斯特",
+      "布莱恩·威尔许"
+    ],
+    "rate": "9.4",
+    "cover_x": 1059,
+    "star": "45",
+    "title": "黑镜 第一季",
+    "url": "https://movie.douban.com/subject/7054120/",
+    "casts": [
+      "罗里·金尼尔",
+      "鲁伯特·艾弗雷特",
+      "丹尼尔·卡卢亚",
+      "托比·凯贝尔",
+      "杰西卡·布朗·芬德利"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1403875505.jpg",
+    "id": "7054120",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "大友启史"
+    ],
+    "rate": "7.4",
+    "cover_x": 2894,
+    "star": "35",
+    "title": "影里",
+    "url": "https://movie.douban.com/subject/30291552/",
+    "casts": [
+      "绫野刚",
+      "松田龙平",
+      "国村隼",
+      "筒井真理子",
+      "中村伦也"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2584726781.jpg",
+    "id": "30291552",
+    "cover_y": 4093
+  },
+  {
+    "directors": [
+      "叶伟民",
+      "王晶"
+    ],
+    "rate": "7.6",
+    "cover_x": 770,
+    "star": "40",
+    "title": "百变星君",
+    "url": "https://movie.douban.com/subject/1300498/",
+    "casts": [
+      "周星驰",
+      "吴孟达",
+      "梁咏琪",
+      "孙佳君",
+      "徐锦江"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2563027293.jpg",
+    "id": "1300498",
+    "cover_y": 1080
+  },
+  {
+    "directors": [
+      "布拉德·伯德",
+      "简·皮克瓦"
+    ],
+    "rate": "8.4",
+    "cover_x": 500,
+    "star": "40",
+    "title": "美食总动员",
+    "url": "https://movie.douban.com/subject/1793491/",
+    "casts": [
+      "帕顿·奥斯瓦尔特",
+      "伊安·霍姆",
+      "卢·罗曼诺",
+      "布莱恩·丹内利",
+      "彼得·孙"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p465604496.jpg",
+    "id": "1793491",
+    "cover_y": 735
+  },
+  {
+    "directors": [
+      "施嘉宁"
+    ],
+    "rate": "4.6",
+    "cover_x": 1080,
+    "star": "25",
+    "title": "极限挑战 第六季",
+    "url": "https://movie.douban.com/subject/35005150/",
+    "casts": [
+      "雷佳音",
+      "岳云鹏",
+      "王迅",
+      "贾乃亮",
+      "张艺兴"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2602136451.jpg",
+    "id": "35005150",
+    "cover_y": 1920
+  }
+]

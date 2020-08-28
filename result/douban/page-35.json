@@ -1,0 +1,405 @@
+[
+  {
+    "directors": [
+      "荒井晴彦"
+    ],
+    "rate": "7.1",
+    "cover_x": 730,
+    "star": "35",
+    "title": "火口的两人",
+    "url": "https://movie.douban.com/subject/30405087/",
+    "casts": [
+      "柄本佑",
+      "泷内公美",
+      "柄本明"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556419282.jpg",
+    "id": "30405087",
+    "cover_y": 1031
+  },
+  {
+    "directors": [
+      "文晏"
+    ],
+    "rate": "8.2",
+    "cover_x": 1329,
+    "star": "40",
+    "title": "嘉年华",
+    "url": "https://movie.douban.com/subject/27019527/",
+    "casts": [
+      "文淇",
+      "周美君",
+      "史可",
+      "耿乐",
+      "刘威葳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503644828.jpg",
+    "id": "27019527",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "安德鲁·斯坦顿",
+      "李·昂克里奇"
+    ],
+    "rate": "8.4",
+    "cover_x": 2015,
+    "star": "40",
+    "title": "海底总动员",
+    "url": "https://movie.douban.com/subject/1291586/",
+    "casts": [
+      "艾伯特·布鲁克斯",
+      "艾伦·德杰尼勒斯",
+      "亚历山大·古尔德",
+      "威廉·达福",
+      "布拉德·加内特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1755893801.jpg",
+    "id": "1291586",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "杨文军",
+      "黄斌"
+    ],
+    "rate": "3.8",
+    "cover_x": 2143,
+    "star": "20",
+    "title": "何以笙箫默",
+    "url": "https://movie.douban.com/subject/26259634/",
+    "casts": [
+      "黄晓明",
+      "杨幂",
+      "佟大为",
+      "杨颖",
+      "谢依霖"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2239863767.jpg",
+    "id": "26259634",
+    "cover_y": 2993
+  },
+  {
+    "directors": [
+      "迈克尔·贝"
+    ],
+    "rate": "6.6",
+    "cover_x": 2143,
+    "star": "35",
+    "title": "变形金刚4：绝迹重生",
+    "url": "https://movie.douban.com/subject/7054604/",
+    "casts": [
+      "马克·沃尔伯格",
+      "斯坦利·图齐",
+      "凯尔希·格兰莫",
+      "妮可拉·佩尔茨",
+      "杰克·莱诺"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187231762.jpg",
+    "id": "7054604",
+    "cover_y": 2993
+  },
+  {
+    "directors": [
+      "唐季礼"
+    ],
+    "rate": "6.7",
+    "cover_x": 472,
+    "star": "35",
+    "title": "神话",
+    "url": "https://movie.douban.com/subject/1307023/",
+    "casts": [
+      "成龙",
+      "金喜善",
+      "梁家辉",
+      "玛丽卡·沙拉瓦特",
+      "孙周"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p486725980.jpg",
+    "id": "1307023",
+    "cover_y": 676
+  },
+  {
+    "directors": [
+      "李沧东"
+    ],
+    "rate": "8.0",
+    "cover_x": 1300,
+    "star": "40",
+    "title": "燃烧",
+    "url": "https://movie.douban.com/subject/26842702/",
+    "casts": [
+      "刘亚仁",
+      "史蒂文·元",
+      "全钟瑞",
+      "金秀京",
+      "崔承浩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.jpg",
+    "id": "26842702",
+    "cover_y": 1856
+  },
+  {
+    "directors": [
+      "细田守"
+    ],
+    "rate": "8.6",
+    "cover_x": 2175,
+    "star": "45",
+    "title": "穿越时空的少女",
+    "url": "https://movie.douban.com/subject/1937946/",
+    "casts": [
+      "仲里依纱",
+      "石田卓也",
+      "板仓光隆",
+      "垣内彩未",
+      "谷村美月"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2079334409.jpg",
+    "id": "1937946",
+    "cover_y": 3034
+  },
+  {
+    "directors": [
+      "乌尔善"
+    ],
+    "rate": "6.0",
+    "cover_x": 1772,
+    "star": "30",
+    "title": "画皮2",
+    "url": "https://movie.douban.com/subject/4218768/",
+    "casts": [
+      "周迅",
+      "赵薇",
+      "陈坤",
+      "冯绍峰",
+      "杨幂"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1584319849.jpg",
+    "id": "4218768",
+    "cover_y": 2480
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "5.8",
+    "cover_x": 4000,
+    "star": "30",
+    "title": "私人订制",
+    "url": "https://movie.douban.com/subject/10605978/",
+    "casts": [
+      "葛优",
+      "白百何",
+      "李小璐",
+      "郑恺",
+      "范伟"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159261731.jpg",
+    "id": "10605978",
+    "cover_y": 5579
+  },
+  {
+    "directors": [
+      "尼尔·博格"
+    ],
+    "rate": "7.7",
+    "cover_x": 8858,
+    "star": "40",
+    "title": "触不可及(美版)",
+    "url": "https://movie.douban.com/subject/26061679/",
+    "casts": [
+      "凯文·哈特",
+      "布莱恩·科兰斯顿",
+      "妮可·基德曼",
+      "阿雅·娜奥米·金",
+      "贾西·迪阿洛·温斯顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575135153.jpg",
+    "id": "26061679",
+    "cover_y": 12402
+  },
+  {
+    "directors": [
+      "亚历克斯·加兰"
+    ],
+    "rate": "7.2",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "湮灭",
+    "url": "https://movie.douban.com/subject/26384741/",
+    "casts": [
+      "娜塔莉·波特曼",
+      "詹妮弗·杰森·李",
+      "吉娜·罗德里格兹",
+      "泰莎·汤普森",
+      "奥斯卡·伊萨克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg",
+    "id": "26384741",
+    "cover_y": 1685
+  },
+  {
+    "directors": [
+      "林玉芬",
+      "高林豹",
+      "梁胜权"
+    ],
+    "rate": "6.7",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "花千骨",
+    "url": "https://movie.douban.com/subject/25812420/",
+    "casts": [
+      "霍建华",
+      "赵丽颖",
+      "蒋欣",
+      "张丹峰",
+      "马可"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2274795208.jpg",
+    "id": "25812420",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "布莱恩·德·帕尔玛"
+    ],
+    "rate": "8.2",
+    "cover_x": 2075,
+    "star": "40",
+    "title": "碟中谍",
+    "url": "https://movie.douban.com/subject/1292484/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "强·沃特",
+      "艾曼纽·贝阿",
+      "亨利·科泽尼",
+      "让·雷诺"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1660124103.jpg",
+    "id": "1292484",
+    "cover_y": 3075
+  },
+  {
+    "directors": [
+      "大卫·斯雷德"
+    ],
+    "rate": "6.7",
+    "cover_x": 3413,
+    "star": "35",
+    "title": "暮光之城3：月食",
+    "url": "https://movie.douban.com/subject/3289086/",
+    "casts": [
+      "克里斯汀·斯图尔特",
+      "罗伯特·帕丁森",
+      "泰勒·洛特纳",
+      "比利·伯克",
+      "阿什丽·格林尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p533676600.jpg",
+    "id": "3289086",
+    "cover_y": 5038
+  },
+  {
+    "directors": [
+      "吴宇森"
+    ],
+    "rate": "7.2",
+    "cover_x": 1067,
+    "star": "35",
+    "title": "碟中谍2",
+    "url": "https://movie.douban.com/subject/1298525/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "多格雷·斯科特",
+      "坦迪·牛顿",
+      "文·瑞姆斯",
+      "理查德·劳斯伯格"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1355956258.jpg",
+    "id": "1298525",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "扎克·施奈德"
+    ],
+    "rate": "6.5",
+    "cover_x": 2600,
+    "star": "35",
+    "title": "正义联盟",
+    "url": "https://movie.douban.com/subject/2158490/",
+    "casts": [
+      "本·阿弗莱克",
+      "亨利·卡维尔",
+      "盖尔·加朵",
+      "埃兹拉·米勒",
+      "杰森·莫玛"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504027804.jpg",
+    "id": "2158490",
+    "cover_y": 3785
+  },
+  {
+    "directors": [
+      "今敏"
+    ],
+    "rate": "8.7",
+    "cover_x": 1661,
+    "star": "45",
+    "title": "千年女优",
+    "url": "https://movie.douban.com/subject/1307394/",
+    "casts": [
+      "庄司美代子",
+      "小山茉美",
+      "折笠富美子",
+      "饭塚昭三",
+      "小野坂昌也"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215102596.jpg",
+    "id": "1307394",
+    "cover_y": 2327
+  },
+  {
+    "directors": [
+      "俞白眉",
+      "邓超"
+    ],
+    "rate": "4.2",
+    "cover_x": 2500,
+    "star": "20",
+    "title": "恶棍天使",
+    "url": "https://movie.douban.com/subject/26290365/",
+    "casts": [
+      "邓超",
+      "孙俪",
+      "代乐乐",
+      "梁超",
+      "杨新鸣"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2298326979.jpg",
+    "id": "26290365",
+    "cover_y": 3500
+  },
+  {
+    "directors": [
+      "汤姆·霍伯"
+    ],
+    "rate": "8.4",
+    "cover_x": 1950,
+    "star": "40",
+    "title": "国王的演讲",
+    "url": "https://movie.douban.com/subject/4023638/",
+    "casts": [
+      "科林·费尔斯",
+      "杰弗里·拉什",
+      "海伦娜·伯翰·卡特",
+      "盖·皮尔斯",
+      "迈克尔·刚本"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768879237.jpg",
+    "id": "4023638",
+    "cover_y": 2850
+  }
+]

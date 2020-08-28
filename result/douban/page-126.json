@@ -1,0 +1,417 @@
+[
+  {
+    "directors": [
+      "林合隆"
+    ],
+    "rate": "6.1",
+    "cover_x": 971,
+    "star": "30",
+    "title": "公主小妹",
+    "url": "https://movie.douban.com/subject/2249496/",
+    "casts": [
+      "张韶涵",
+      "吴尊",
+      "顾宝明",
+      "辰亦儒",
+      "胡宇威"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556764482.jpg",
+    "id": "2249496",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "罗宾·普劳特"
+    ],
+    "rate": "6.0",
+    "cover_x": 2025,
+    "star": "30",
+    "title": "沉默",
+    "url": "https://movie.douban.com/subject/30216114/",
+    "casts": [
+      "尼古拉·科斯特-瓦尔道",
+      "卡勒布·埃尔斯沃斯·克拉克",
+      "乔什·克鲁达斯",
+      "安娜贝拉·沃丽丝",
+      "扎恩·迈克拉农"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2610789507.jpg",
+    "id": "30216114",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "钟澍佳"
+    ],
+    "rate": "5.0",
+    "cover_x": 3500,
+    "star": "25",
+    "title": "龙凤店",
+    "url": "https://movie.douban.com/subject/4735944/",
+    "casts": [
+      "徐熙媛",
+      "任贤齐",
+      "霍思燕",
+      "陈百祥",
+      "罗家英"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p598445761.jpg",
+    "id": "4735944",
+    "cover_y": 5250
+  },
+  {
+    "directors": [
+      "许安"
+    ],
+    "rate": "2.9",
+    "cover_x": 1429,
+    "star": "15",
+    "title": "封神传奇",
+    "url": "https://movie.douban.com/subject/25850122/",
+    "casts": [
+      "李连杰",
+      "范冰冰",
+      "黄晓明",
+      "杨颖",
+      "古天乐"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2366372816.jpg",
+    "id": "25850122",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "肯·奥林",
+      "克里斯·科赫",
+      "小乔治·提尔曼"
+    ],
+    "rate": "9.5",
+    "cover_x": 1500,
+    "star": "50",
+    "title": "我们这一天 第四季",
+    "url": "https://movie.douban.com/subject/33444115/",
+    "casts": [
+      "米洛·文堤米利亚",
+      "曼迪·摩尔",
+      "斯特林·K·布朗",
+      "克丽丝·梅斯",
+      "贾斯汀·哈特雷"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568383912.jpg",
+    "id": "33444115",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "庵野秀明",
+      "鹤卷和哉",
+      "大塚雅彦"
+    ],
+    "rate": "9.4",
+    "cover_x": 1234,
+    "star": "45",
+    "title": "新世纪福音战士剧场版：Air/真心为你",
+    "url": "https://movie.douban.com/subject/1308892/",
+    "casts": [
+      "绪方惠美",
+      "林原惠美",
+      "三石琴乃",
+      "宫村优子",
+      "山口由里子"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2252700119.jpg",
+    "id": "1308892",
+    "cover_y": 1746
+  },
+  {
+    "directors": [
+      "亚历克斯·罗德里戈",
+      "科尔多·塞拉",
+      "嘉维尔·昆塔斯"
+    ],
+    "rate": "9.1",
+    "cover_x": 8100,
+    "star": "45",
+    "title": "纸钞屋 第四季",
+    "url": "https://movie.douban.com/subject/34911053/",
+    "casts": [
+      "乌苏拉·科尔维罗",
+      "阿尔瓦罗·莫奇",
+      "伊西娅尔·伊图诺",
+      "佩德罗·阿隆索",
+      "阿尔巴·弗洛雷斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2593852774.jpg",
+    "id": "34911053",
+    "cover_y": 12000
+  },
+  {
+    "directors": [
+      "钱运达",
+      "阎善春"
+    ],
+    "rate": "8.6",
+    "cover_x": 632,
+    "star": "45",
+    "title": "邋遢大王奇遇记",
+    "url": "https://movie.douban.com/subject/1817169/",
+    "casts": [
+      "丁建华"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520057783.jpg",
+    "id": "1817169",
+    "cover_y": 900
+  },
+  {
+    "directors": [
+      "罗曼·波兰斯基"
+    ],
+    "rate": "8.4",
+    "cover_x": 437,
+    "star": "40",
+    "title": "苦月亮",
+    "url": "https://movie.douban.com/subject/1301582/",
+    "casts": [
+      "彼德·考约特",
+      "艾玛纽尔·塞尼耶",
+      "休·格兰特",
+      "克里斯汀·斯科特·托马斯",
+      "维克多·班纳杰"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p700187064.jpg",
+    "id": "1301582",
+    "cover_y": 600
+  },
+  {
+    "directors": [
+      "任旭东"
+    ],
+    "rate": "8.2",
+    "cover_x": 432,
+    "star": "40",
+    "title": "地道战",
+    "url": "https://movie.douban.com/subject/3033864/",
+    "casts": [
+      "朱龙广",
+      "张勇手",
+      "刘秀杰",
+      "刘江",
+      "王炳彧"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551228401.jpg",
+    "id": "3033864",
+    "cover_y": 644
+  },
+  {
+    "directors": [
+      "欧格斯·兰斯莫斯"
+    ],
+    "rate": "7.5",
+    "cover_x": 2070,
+    "star": "40",
+    "title": "宠儿",
+    "url": "https://movie.douban.com/subject/26628282/",
+    "casts": [
+      "奥利维娅·科尔曼",
+      "艾玛·斯通",
+      "蕾切尔·薇兹",
+      "尼古拉斯·霍尔特",
+      "乔·阿尔文"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532012274.jpg",
+    "id": "26628282",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "姜孝镇"
+    ],
+    "rate": "7.5",
+    "cover_x": 1599,
+    "star": "40",
+    "title": "法外搜查",
+    "url": "https://movie.douban.com/subject/34810447/",
+    "casts": [
+      "车太贤",
+      "李善彬",
+      "郑尚勋",
+      "池承炫",
+      "尹敬浩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2595695131.jpg",
+    "id": "34810447",
+    "cover_y": 2265
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "6.8",
+    "cover_x": 1476,
+    "star": "35",
+    "title": "文雀",
+    "url": "https://movie.douban.com/subject/2976123/",
+    "casts": [
+      "任达华",
+      "林熙蕾",
+      "林家栋",
+      "卢海鹏",
+      "罗永昌"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p648373937.jpg",
+    "id": "2976123",
+    "cover_y": 2067
+  },
+  {
+    "directors": [
+      "杜琪峰",
+      "麦启光"
+    ],
+    "rate": "5.5",
+    "cover_x": 1050,
+    "star": "30",
+    "title": "单身男女2",
+    "url": "https://movie.douban.com/subject/21359619/",
+    "casts": [
+      "古天乐",
+      "杨千嬅",
+      "高圆圆",
+      "周渝民",
+      "吴彦祖"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2209656483.jpg",
+    "id": "21359619",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "黄元达"
+    ],
+    "rate": "4.5",
+    "cover_x": 1024,
+    "star": "25",
+    "title": "超星星学园",
+    "url": "https://movie.douban.com/subject/26765418/",
+    "casts": [
+      "肖战",
+      "王玉雯",
+      "白澍",
+      "彭楚粤",
+      "伍嘉成"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2387116066.jpg",
+    "id": "26765418",
+    "cover_y": 1448
+  },
+  {
+    "directors": [
+      "雅克·贝克"
+    ],
+    "rate": "9.2",
+    "cover_x": 1117,
+    "star": "45",
+    "title": "洞",
+    "url": "https://movie.douban.com/subject/1424334/",
+    "casts": [
+      "马克·米歇尔",
+      "吉恩·凯乐蒂",
+      "菲利普·勒鲁瓦",
+      "迈克尔·康斯坦丁",
+      "雷蒙德·梅尼尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497389079.jpg",
+    "id": "1424334",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "泷本智行",
+      "常广丈太"
+    ],
+    "rate": "8.5",
+    "cover_x": 400,
+    "star": "45",
+    "title": "人生删除事务所",
+    "url": "https://movie.douban.com/subject/30232260/",
+    "casts": [
+      "山田孝之",
+      "菅田将晖",
+      "麻生久美子",
+      "桥本爱",
+      "野田洋次郎"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529175001.jpg",
+    "id": "30232260",
+    "cover_y": 566
+  },
+  {
+    "directors": [
+      "岩井俊二"
+    ],
+    "rate": "7.8",
+    "cover_x": 600,
+    "star": "40",
+    "title": "关于莉莉周的一切",
+    "url": "https://movie.douban.com/subject/1292219/",
+    "casts": [
+      "市原隼人",
+      "忍成修吾",
+      "伊藤步",
+      "大泽隆夫",
+      "市川实和子"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p649141235.jpg",
+    "id": "1292219",
+    "cover_y": 861
+  },
+  {
+    "directors": [
+      "樱井亲良",
+      "樱美胜志",
+      "则座诚",
+      "冈本英树",
+      "福岛利规",
+      "铃木吉男",
+      "宫崎修治",
+      "奥野浩行",
+      "神谷智大",
+      "海宝兴藏",
+      "安藤良"
+    ],
+    "rate": "7.8",
+    "cover_x": 707,
+    "star": "40",
+    "title": "一拳超人 第二季",
+    "url": "https://movie.douban.com/subject/26882339/",
+    "casts": [
+      "古川慎",
+      "石川界人",
+      "梶裕贵",
+      "悠木碧",
+      "山路和弘"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549894230.jpg",
+    "id": "26882339",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "徐遇安"
+    ],
+    "rate": "7.5",
+    "cover_x": 448,
+    "star": "40",
+    "title": "读心神探",
+    "url": "https://movie.douban.com/subject/4202127/",
+    "casts": [
+      "林保怡",
+      "黄宗泽",
+      "田蕊妮",
+      "陈茵媺",
+      "黎诺懿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2021984922.jpg",
+    "id": "4202127",
+    "cover_y": 672
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "directors": [
+      "李骏",
+      "白涛"
+    ],
+    "rate": "7.9",
+    "cover_x": 960,
+    "star": "40",
+    "title": "和平饭店",
+    "url": "https://movie.douban.com/subject/26828285/",
+    "casts": [
+      "陈数",
+      "雷佳音",
+      "李光洁",
+      "陶慧",
+      "张一龙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509782433.jpg",
+    "id": "26828285",
+    "cover_y": 1344
+  },
+  {
+    "directors": [
+      "罗伯·明可夫"
+    ],
+    "rate": "5.6",
+    "cover_x": 1800,
+    "star": "30",
+    "title": "功夫之王",
+    "url": "https://movie.douban.com/subject/1939414/",
+    "casts": [
+      "李连杰",
+      "成龙",
+      "刘亦菲",
+      "李冰冰",
+      "迈克尔·安格拉诺"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p887405912.jpg",
+    "id": "1939414",
+    "cover_y": 2775
+  },
+  {
+    "directors": [
+      "毕赣"
+    ],
+    "rate": "6.9",
+    "cover_x": 4000,
+    "star": "35",
+    "title": "地球最后的夜晚",
+    "url": "https://movie.douban.com/subject/26633257/",
+    "casts": [
+      "汤唯",
+      "黄觉",
+      "张艾嘉",
+      "李鸿其",
+      "陈永忠"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541183610.jpg",
+    "id": "26633257",
+    "cover_y": 5998
+  },
+  {
+    "directors": [
+      "韦斯·鲍尔"
+    ],
+    "rate": "5.3",
+    "cover_x": 707,
+    "star": "25",
+    "title": "移动迷宫3：死亡解药",
+    "url": "https://movie.douban.com/subject/26004132/",
+    "casts": [
+      "迪伦·奥布莱恩",
+      "卡雅·斯考达里奥",
+      "李起弘",
+      "托马斯·布罗迪-桑斯特",
+      "罗莎·萨拉查"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508618114.jpg",
+    "id": "26004132",
+    "cover_y": 1024
+  },
+  {
+    "directors": [
+      "安德鲁·尼科尔"
+    ],
+    "rate": "7.0",
+    "cover_x": 3191,
+    "star": "35",
+    "title": "时间规划局",
+    "url": "https://movie.douban.com/subject/4924142/",
+    "casts": [
+      "阿曼达·塞弗里德",
+      "贾斯汀·汀布莱克",
+      "基里安·墨菲",
+      "文森特·卡塞瑟",
+      "亚历克斯·帕蒂弗"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1166966337.jpg",
+    "id": "4924142",
+    "cover_y": 4880
+  },
+  {
+    "directors": [
+      "金景熙"
+    ],
+    "rate": "9.1",
+    "cover_x": 1005,
+    "star": "45",
+    "title": "365：逆转命运的1年",
+    "url": "https://movie.douban.com/subject/34902595/",
+    "casts": [
+      "李浚赫",
+      "南志铉",
+      "金智秀",
+      "杨东根",
+      "李诗雅"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2589342098.jpg",
+    "id": "34902595",
+    "cover_y": 1440
+  },
+  {
+    "directors": [
+      "程小东"
+    ],
+    "rate": "8.4",
+    "cover_x": 970,
+    "star": "40",
+    "title": "笑傲江湖2：东方不败",
+    "url": "https://movie.douban.com/subject/1294417/",
+    "casts": [
+      "李连杰",
+      "林青霞",
+      "关之琳",
+      "李嘉欣",
+      "李子雄"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p838966341.jpg",
+    "id": "1294417",
+    "cover_y": 1442
+  },
+  {
+    "directors": [
+      "萨姆·门德斯"
+    ],
+    "rate": "7.1",
+    "cover_x": 2025,
+    "star": "35",
+    "title": "007：大破天幕杀机",
+    "url": "https://movie.douban.com/subject/2363876/",
+    "casts": [
+      "丹尼尔·克雷格",
+      "朱迪·丹奇",
+      "哈维尔·巴登",
+      "拉尔夫·费因斯",
+      "娜奥米·哈里斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1710656803.jpg",
+    "id": "2363876",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "丁晟"
+    ],
+    "rate": "5.8",
+    "cover_x": 1028,
+    "star": "30",
+    "title": "警察故事2013",
+    "url": "https://movie.douban.com/subject/20266753/",
+    "casts": [
+      "成龙",
+      "刘烨",
+      "景甜",
+      "殷桃",
+      "那威"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2161934790.jpg",
+    "id": "20266753",
+    "cover_y": 1440
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "8.5",
+    "cover_x": 516,
+    "star": "45",
+    "title": "暗战",
+    "url": "https://movie.douban.com/subject/1298898/",
+    "casts": [
+      "刘德华",
+      "刘青云",
+      "蒙嘉慧",
+      "李子雄",
+      "许绍雄"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2001994907.jpg",
+    "id": "1298898",
+    "cover_y": 727
+  },
+  {
+    "directors": [
+      "朱锐斌",
+      "周远舟",
+      "刘国辉",
+      "朱少杰"
+    ],
+    "rate": "6.1",
+    "cover_x": 1018,
+    "star": "30",
+    "title": "青云志",
+    "url": "https://movie.douban.com/subject/25823275/",
+    "casts": [
+      "李易峰",
+      "赵丽颖",
+      "杨紫",
+      "舒畅",
+      "王源"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2298470198.jpg",
+    "id": "25823275",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "麦兆辉"
+    ],
+    "rate": "5.4",
+    "cover_x": 4193,
+    "star": "25",
+    "title": "廉政风云",
+    "url": "https://movie.douban.com/subject/27114416/",
+    "casts": [
+      "刘青云",
+      "张家辉",
+      "林嘉欣",
+      "袁咏仪",
+      "方中信"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554020294.jpg",
+    "id": "27114416",
+    "cover_y": 5965
+  },
+  {
+    "directors": [
+      "乔治·卢卡斯"
+    ],
+    "rate": "8.4",
+    "cover_x": 473,
+    "star": "40",
+    "title": "星球大战",
+    "url": "https://movie.douban.com/subject/1293838/",
+    "casts": [
+      "哈里森·福特",
+      "马克·哈米尔",
+      "凯丽·费雪",
+      "彼得·库欣",
+      "亚历克·吉尼斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p732941361.jpg",
+    "id": "1293838",
+    "cover_y": 667
+  },
+  {
+    "directors": [
+      "乔纳森·诺兰",
+      "詹妮弗·盖辛格",
+      "理查德·J·刘易斯",
+      "保罗·卡梅隆",
+      "安娜·福斯特",
+      "阿曼达·马尔萨利斯",
+      "海伦·谢费"
+    ],
+    "rate": "8.3",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "西部世界 第三季",
+    "url": "https://movie.douban.com/subject/30206389/",
+    "casts": [
+      "埃文·蕾切尔·伍德",
+      "坦迪·牛顿",
+      "泰莎·汤普森",
+      "杰弗里·怀特",
+      "艾德·哈里斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2585693570.jpg",
+    "id": "30206389",
+    "cover_y": 2988
+  },
+  {
+    "directors": [
+      "林玉芬",
+      "高林豹"
+    ],
+    "rate": "8.4",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "无心法师",
+    "url": "https://movie.douban.com/subject/26298756/",
+    "casts": [
+      "韩东君",
+      "金晨",
+      "陈瑶",
+      "张若昀",
+      "孔连顺"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2285023234.jpg",
+    "id": "26298756",
+    "cover_y": 1640
+  },
+  {
+    "directors": [
+      "任海曜"
+    ],
+    "rate": "6.8",
+    "cover_x": 3543,
+    "star": "35",
+    "title": "暮白首",
+    "url": "https://movie.douban.com/subject/30446742/",
+    "casts": [
+      "任嘉伦",
+      "张慧雯",
+      "李艺彤",
+      "郭昊钧",
+      "卢星宇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2608228601.jpg",
+    "id": "30446742",
+    "cover_y": 5475
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "8.2",
+    "cover_x": 3543,
+    "star": "40",
+    "title": "黑社会",
+    "url": "https://movie.douban.com/subject/1309220/",
+    "casts": [
+      "任达华",
+      "梁家辉",
+      "古天乐",
+      "林雪",
+      "张家辉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2213462183.jpg",
+    "id": "1309220",
+    "cover_y": 4887
+  },
+  {
+    "directors": [
+      "安德斯·穆斯切蒂"
+    ],
+    "rate": "6.4",
+    "cover_x": 4050,
+    "star": "30",
+    "title": "小丑回魂2",
+    "url": "https://movie.douban.com/subject/27133569/",
+    "casts": [
+      "詹姆斯·麦卡沃伊",
+      "杰西卡·查斯坦",
+      "比尔·斯卡斯加德",
+      "比尔·哈德尔",
+      "索菲娅·莉莉丝"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562980418.jpg",
+    "id": "27133569",
+    "cover_y": 6000
+  },
+  {
+    "directors": [
+      "李慧珠",
+      "于正"
+    ],
+    "rate": "6.1",
+    "cover_x": 1600,
+    "star": "30",
+    "title": "宫",
+    "url": "https://movie.douban.com/subject/4917905/",
+    "casts": [
+      "杨幂",
+      "冯绍峰",
+      "佟丽娅",
+      "何晟铭",
+      "郭羡妮"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p945446094.jpg",
+    "id": "4917905",
+    "cover_y": 2400
+  },
+  {
+    "directors": [
+      "张黎"
+    ],
+    "rate": "9.7",
+    "cover_x": 500,
+    "star": "50",
+    "title": "大明王朝1566",
+    "url": "https://movie.douban.com/subject/2210001/",
+    "casts": [
+      "陈宝国",
+      "黄志忠",
+      "王庆祥",
+      "倪大红",
+      "祝希娟"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2444453078.jpg",
+    "id": "2210001",
+    "cover_y": 700
+  }
+]

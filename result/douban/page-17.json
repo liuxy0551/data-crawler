@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "陈可辛"
+    ],
+    "rate": "7.6",
+    "cover_x": 1017,
+    "star": "40",
+    "title": "中国合伙人",
+    "url": "https://movie.douban.com/subject/11529526/",
+    "casts": [
+      "黄晓明",
+      "邓超",
+      "佟大为",
+      "杜鹃",
+      "王真儿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1959304567.jpg",
+    "id": "11529526",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "落落"
+    ],
+    "rate": "5.9",
+    "cover_x": 1600,
+    "star": "30",
+    "title": "悲伤逆流成河",
+    "url": "https://movie.douban.com/subject/27102569/",
+    "casts": [
+      "赵英博",
+      "任敏",
+      "辛云来",
+      "章若楠",
+      "朱丹妮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2616327870.jpg",
+    "id": "27102569",
+    "cover_y": 2240
+  },
+  {
+    "directors": [
+      "艾斯彭·山德伯格",
+      "乔阿吉姆·罗恩尼"
+    ],
+    "rate": "7.2",
+    "cover_x": 2500,
+    "star": "35",
+    "title": "加勒比海盗5：死无对证",
+    "url": "https://movie.douban.com/subject/6311303/",
+    "casts": [
+      "约翰尼·德普",
+      "哈维尔·巴登",
+      "杰弗里·拉什",
+      "布伦顿·思韦茨",
+      "卡雅·斯考达里奥"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2459723975.jpg",
+    "id": "6311303",
+    "cover_y": 3517
+  },
+  {
+    "directors": [
+      "张开宙"
+    ],
+    "rate": "7.7",
+    "cover_x": 3547,
+    "star": "40",
+    "title": "知否知否应是绿肥红瘦",
+    "url": "https://movie.douban.com/subject/26928226/",
+    "casts": [
+      "赵丽颖",
+      "冯绍峰",
+      "朱一龙",
+      "施诗",
+      "张佳宁"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537131688.jpg",
+    "id": "26928226",
+    "cover_y": 4729
+  },
+  {
+    "directors": [
+      "徐克"
+    ],
+    "rate": "8.5",
+    "cover_x": 2848,
+    "star": "45",
+    "title": "青蛇",
+    "url": "https://movie.douban.com/subject/1303394/",
+    "casts": [
+      "张曼玉",
+      "王祖贤",
+      "赵文卓",
+      "吴兴国",
+      "马精武"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570901292.jpg",
+    "id": "1303394",
+    "cover_y": 4096
+  },
+  {
+    "directors": [
+      "弗朗西斯·福特·科波拉"
+    ],
+    "rate": "9.2",
+    "cover_x": 620,
+    "star": "45",
+    "title": "教父2",
+    "url": "https://movie.douban.com/subject/1299131/",
+    "casts": [
+      "阿尔·帕西诺",
+      "罗伯特·杜瓦尔",
+      "黛安·基顿",
+      "罗伯特·德尼罗",
+      "约翰·凯泽尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg",
+    "id": "1299131",
+    "cover_y": 879
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "7.2",
+    "cover_x": 3927,
+    "star": "35",
+    "title": "影",
+    "url": "https://movie.douban.com/subject/4864908/",
+    "casts": [
+      "邓超",
+      "孙俪",
+      "郑恺",
+      "王千源",
+      "王景春"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2530513100.jpg",
+    "id": "4864908",
+    "cover_y": 5788
+  },
+  {
+    "directors": [
+      "徐峥",
+      "阮惟新"
+    ],
+    "rate": "5.7",
+    "cover_x": 1071,
+    "star": "30",
+    "title": "港囧",
+    "url": "https://movie.douban.com/subject/25710912/",
+    "casts": [
+      "徐峥",
+      "赵薇",
+      "包贝尔",
+      "杜鹃",
+      "葛民辉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2266145079.jpg",
+    "id": "25710912",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "金成洙"
+    ],
+    "rate": "7.7",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "流感",
+    "url": "https://movie.douban.com/subject/10432911/",
+    "casts": [
+      "张赫",
+      "秀爱",
+      "朴敏荷",
+      "柳海真",
+      "李熙俊"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2029391129.jpg",
+    "id": "10432911",
+    "cover_y": 2865
+  },
+  {
+    "directors": [
+      "宁浩"
+    ],
+    "rate": "7.2",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "心花路放",
+    "url": "https://movie.douban.com/subject/25717233/",
+    "casts": [
+      "黄渤",
+      "徐峥",
+      "袁泉",
+      "周冬雨",
+      "陶慧"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221061003.jpg",
+    "id": "25717233",
+    "cover_y": 2800
+  },
+  {
+    "directors": [
+      "凯尔·巴尔达",
+      "皮埃尔·柯芬",
+      "埃里克·吉隆"
+    ],
+    "rate": "6.8",
+    "cover_x": 5512,
+    "star": "35",
+    "title": "神偷奶爸3",
+    "url": "https://movie.douban.com/subject/25812712/",
+    "casts": [
+      "史蒂夫·卡瑞尔",
+      "克里斯汀·韦格",
+      "崔·帕克",
+      "米兰达·卡斯格拉夫",
+      "达纳·盖尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2469070974.jpg",
+    "id": "25812712",
+    "cover_y": 7874
+  },
+  {
+    "directors": [
+      "奉俊昊"
+    ],
+    "rate": "7.5",
+    "cover_x": 4134,
+    "star": "40",
+    "title": "雪国列车",
+    "url": "https://movie.douban.com/subject/3071441/",
+    "casts": [
+      "克里斯·埃文斯",
+      "宋康昊",
+      "艾德·哈里斯",
+      "约翰·赫特",
+      "蒂尔达·斯文顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173648321.jpg",
+    "id": "3071441",
+    "cover_y": 5906
+  },
+  {
+    "directors": [
+      "温子仁"
+    ],
+    "rate": "8.3",
+    "cover_x": 1704,
+    "star": "40",
+    "title": "速度与激情7",
+    "url": "https://movie.douban.com/subject/23761370/",
+    "casts": [
+      "范·迪塞尔",
+      "保罗·沃克",
+      "杰森·斯坦森",
+      "米歇尔·罗德里格兹",
+      "乔丹娜·布鲁斯特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2233706697.jpg",
+    "id": "23761370",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "北野武"
+    ],
+    "rate": "8.8",
+    "cover_x": 4320,
+    "star": "45",
+    "title": "菊次郎的夏天",
+    "url": "https://movie.douban.com/subject/1293359/",
+    "casts": [
+      "北野武",
+      "关口雄介",
+      "岸本加世子",
+      "吉行和子",
+      "细川典江"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p751835224.jpg",
+    "id": "1293359",
+    "cover_y": 6099
+  },
+  {
+    "directors": [
+      "宫崎骏"
+    ],
+    "rate": "8.9",
+    "cover_x": 1788,
+    "star": "45",
+    "title": "风之谷",
+    "url": "https://movie.douban.com/subject/1291585/",
+    "casts": [
+      "岛本须美",
+      "松田洋治",
+      "榊原良子",
+      "辻村真人",
+      "京田尚子"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg",
+    "id": "1291585",
+    "cover_y": 2531
+  },
+  {
+    "directors": [
+      "王家卫"
+    ],
+    "rate": "8.7",
+    "cover_x": 1335,
+    "star": "45",
+    "title": "重庆森林",
+    "url": "https://movie.douban.com/subject/1291999/",
+    "casts": [
+      "林青霞",
+      "金城武",
+      "梁朝伟",
+      "王菲",
+      "周嘉玲"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg",
+    "id": "1291999",
+    "cover_y": 1900
+  },
+  {
+    "directors": [
+      "吴昱翰"
+    ],
+    "rate": "4.7",
+    "cover_x": 5906,
+    "star": "25",
+    "title": "李茶的姑妈",
+    "url": "https://movie.douban.com/subject/27092785/",
+    "casts": [
+      "黄才伦",
+      "艾伦",
+      "宋阳",
+      "卢靖姗",
+      "沈腾"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533384240.jpg",
+    "id": "27092785",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "韩寒"
+    ],
+    "rate": "7.1",
+    "cover_x": 6458,
+    "star": "35",
+    "title": "后会无期",
+    "url": "https://movie.douban.com/subject/25805741/",
+    "casts": [
+      "冯绍峰",
+      "陈柏霖",
+      "钟汉良",
+      "王珞丹",
+      "袁泉"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2195469915.jpg",
+    "id": "25805741",
+    "cover_y": 9213
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "8.2",
+    "cover_x": 2142,
+    "star": "40",
+    "title": "金陵十三钗",
+    "url": "https://movie.douban.com/subject/3649049/",
+    "casts": [
+      "克里斯蒂安·贝尔",
+      "倪妮",
+      "张歆怡",
+      "黄天元",
+      "韩熙庭"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1322247572.jpg",
+    "id": "3649049",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "忻钰坤"
+    ],
+    "rate": "8.3",
+    "cover_x": 3578,
+    "star": "40",
+    "title": "暴裂无声",
+    "url": "https://movie.douban.com/subject/26647117/",
+    "casts": [
+      "宋洋",
+      "姜武",
+      "袁文康",
+      "谭卓",
+      "王梓尘"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.jpg",
+    "id": "26647117",
+    "cover_y": 5078
+  }
+]

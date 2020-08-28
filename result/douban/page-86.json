@@ -1,0 +1,411 @@
+[
+  {
+    "directors": [
+      "李政燮",
+      "金振宇"
+    ],
+    "rate": "8.6",
+    "cover_x": 570,
+    "star": "45",
+    "title": "治愈者",
+    "url": "https://movie.douban.com/subject/25932015/",
+    "casts": [
+      "池昌旭",
+      "朴敏英",
+      "刘智泰",
+      "郑圭洙",
+      "张成范"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2214769057.jpg",
+    "id": "25932015",
+    "cover_y": 807
+  },
+  {
+    "directors": [
+      "宫崎吾朗"
+    ],
+    "rate": "8.0",
+    "cover_x": 1522,
+    "star": "40",
+    "title": "虞美人盛开的山坡",
+    "url": "https://movie.douban.com/subject/5262338/",
+    "casts": [
+      "长泽雅美",
+      "冈田准一",
+      "香川照之",
+      "石田百合子",
+      "风吹淳"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1335271624.jpg",
+    "id": "5262338",
+    "cover_y": 2150
+  },
+  {
+    "directors": [
+      "埃德加·赖特"
+    ],
+    "rate": "7.0",
+    "cover_x": 1500,
+    "star": "35",
+    "title": "极盗车神",
+    "url": "https://movie.douban.com/subject/25933890/",
+    "casts": [
+      "安塞尔·艾尔高特",
+      "凯文·史派西",
+      "杰米·福克斯",
+      "乔恩·哈姆",
+      "艾莎·冈萨雷斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496901482.jpg",
+    "id": "25933890",
+    "cover_y": 2177
+  },
+  {
+    "directors": [
+      "郑保瑞"
+    ],
+    "rate": "5.6",
+    "cover_x": 1071,
+    "star": "30",
+    "title": "西游记之孙悟空三打白骨精",
+    "url": "https://movie.douban.com/subject/25827963/",
+    "casts": [
+      "郭富城",
+      "巩俐",
+      "冯绍峰",
+      "小沈阳",
+      "罗仲谦"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2315805100.jpg",
+    "id": "25827963",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "马丁·斯科塞斯"
+    ],
+    "rate": "8.1",
+    "cover_x": 2295,
+    "star": "40",
+    "title": "飞行家",
+    "url": "https://movie.douban.com/subject/1309070/",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "凯特·布兰切特",
+      "凯特·贝金赛尔",
+      "约翰·C·赖利",
+      "亚历克·鲍德温"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2215458280.jpg",
+    "id": "1309070",
+    "cover_y": 3222
+  },
+  {
+    "directors": [
+      "深作欣二"
+    ],
+    "rate": "8.0",
+    "cover_x": 580,
+    "star": "40",
+    "title": "大逃杀",
+    "url": "https://movie.douban.com/subject/1292444/",
+    "casts": [
+      "藤原龙也",
+      "前田亚季",
+      "山本太郎",
+      "北野武",
+      "栗山千明"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1071682909.jpg",
+    "id": "1292444",
+    "cover_y": 812
+  },
+  {
+    "directors": [
+      "黄仁赫",
+      "宋敏烨"
+    ],
+    "rate": "8.9",
+    "cover_x": 658,
+    "star": "45",
+    "title": "囚犯医生",
+    "url": "https://movie.douban.com/subject/30346900/",
+    "casts": [
+      "南宫珉",
+      "权娜拉",
+      "金炳哲",
+      "崔元英",
+      "李多寅"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549329796.jpg",
+    "id": "30346900",
+    "cover_y": 986
+  },
+  {
+    "directors": [
+      "乔恩·斯图尔特"
+    ],
+    "rate": "7.3",
+    "cover_x": 2025,
+    "star": "35",
+    "title": "不可抗拒",
+    "url": "https://movie.douban.com/subject/30482204/",
+    "casts": [
+      "史蒂夫·卡瑞尔",
+      "罗丝·伯恩",
+      "麦肯兹·戴维斯",
+      "娜塔莎·雷昂",
+      "克里斯·库珀"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2588939222.jpg",
+    "id": "30482204",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "埃里克松·科尔"
+    ],
+    "rate": "7.0",
+    "cover_x": 2480,
+    "star": "35",
+    "title": "极盗者",
+    "url": "https://movie.douban.com/subject/25809384/",
+    "casts": [
+      "卢克·布雷西",
+      "埃德加·拉米雷兹",
+      "泰莉莎·帕尔墨",
+      "雷·温斯顿",
+      "麦克斯·泰瑞奥"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2301979501.jpg",
+    "id": "25809384",
+    "cover_y": 3507
+  },
+  {
+    "directors": [
+      "朱慧"
+    ],
+    "rate": "6.5",
+    "cover_x": 554,
+    "star": "35",
+    "title": "认真的嘎嘎们",
+    "url": "https://movie.douban.com/subject/34894502/",
+    "casts": [
+      "何炅",
+      "陈伟霆",
+      "大张伟",
+      "李诞",
+      "戚薇"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2611817724.jpg",
+    "id": "34894502",
+    "cover_y": 830
+  },
+  {
+    "directors": [
+      "马克·森卓斯基"
+    ],
+    "rate": "9.3",
+    "cover_x": 864,
+    "star": "45",
+    "title": "生活大爆炸 第十季",
+    "url": "https://movie.douban.com/subject/25845401/",
+    "casts": [
+      "约翰尼·盖尔克奇",
+      "吉姆·帕森斯",
+      "凯莉·库柯",
+      "西蒙·赫尔伯格",
+      "昆瑙·内亚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2376308621.jpg",
+    "id": "25845401",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "黄真真"
+    ],
+    "rate": "5.9",
+    "cover_x": 8858,
+    "star": "30",
+    "title": "被偷走的那五年",
+    "url": "https://movie.douban.com/subject/20513059/",
+    "casts": [
+      "白百何",
+      "张孝全",
+      "范玮琪",
+      "安心亚",
+      "伍思凯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2089491965.jpg",
+    "id": "20513059",
+    "cover_y": 12530
+  },
+  {
+    "directors": [
+      "吴基焕"
+    ],
+    "rate": "5.8",
+    "cover_x": 8858,
+    "star": "30",
+    "title": "分手合约",
+    "url": "https://movie.douban.com/subject/19973815/",
+    "casts": [
+      "白百何",
+      "彭于晏",
+      "吴佩慈",
+      "蒋劲夫",
+      "赵英俊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1916743333.jpg",
+    "id": "19973815",
+    "cover_y": 12402
+  },
+  {
+    "directors": [
+      "西尾大介"
+    ],
+    "rate": "9.3",
+    "cover_x": 2000,
+    "star": "45",
+    "title": "七龙珠",
+    "url": "https://movie.douban.com/subject/1782006/",
+    "casts": [
+      "野泽雅子",
+      "八奈见乘儿",
+      "鹤广美",
+      "田中真弓",
+      "盐泽兼人"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554011355.jpg",
+    "id": "1782006",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "罗伯特·泽米吉斯"
+    ],
+    "rate": "8.4",
+    "cover_x": 1742,
+    "star": "40",
+    "title": "回到未来3",
+    "url": "https://movie.douban.com/subject/1296666/",
+    "casts": [
+      "迈克尔·J·福克斯",
+      "克里斯托弗·洛伊德",
+      "玛丽·斯汀伯根",
+      "托马斯·F·威尔森",
+      "莉·汤普森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p475893249.jpg",
+    "id": "1296666",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "郑保瑞"
+    ],
+    "rate": "4.3",
+    "cover_x": 2148,
+    "star": "20",
+    "title": "西游记之大闹天宫",
+    "url": "https://movie.douban.com/subject/5317291/",
+    "casts": [
+      "甄子丹",
+      "周润发",
+      "郭富城",
+      "何润东",
+      "海一天"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2166490265.jpg",
+    "id": "5317291",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "迈克尔·莱拜克",
+      "彼得·博内兹",
+      "盖尔·曼库索",
+      "大卫·斯坦伯格",
+      "加里·哈勒沃尔森",
+      "詹姆斯·伯罗斯",
+      "凯文·布莱特",
+      "Dana De Vally Piazza"
+    ],
+    "rate": "9.7",
+    "cover_x": 1533,
+    "star": "50",
+    "title": "老友记  第四季",
+    "url": "https://movie.douban.com/subject/3286536/",
+    "casts": [
+      "詹妮弗·安妮斯顿",
+      "柯特妮·考克斯",
+      "丽莎·库卓",
+      "马特·勒布朗",
+      "马修·派瑞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2375152053.jpg",
+    "id": "3286536",
+    "cover_y": 2175
+  },
+  {
+    "directors": [
+      "李圳宜"
+    ],
+    "rate": "9.7",
+    "cover_x": 591,
+    "star": "50",
+    "title": "我的三体之章北海传",
+    "url": "https://movie.douban.com/subject/34892096/",
+    "casts": [
+      "刘若班",
+      "季骜杰",
+      "默伶",
+      "云鹤追",
+      "林强"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574505014.jpg",
+    "id": "34892096",
+    "cover_y": 788
+  },
+  {
+    "directors": [
+      "金尹哲"
+    ],
+    "rate": "8.5",
+    "cover_x": 460,
+    "star": "45",
+    "title": "我叫金三顺",
+    "url": "https://movie.douban.com/subject/1477894/",
+    "casts": [
+      "金宣儿",
+      "玄彬",
+      "郑丽媛",
+      "丹尼尔·海尼",
+      "金慈玉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2187873559.jpg",
+    "id": "1477894",
+    "cover_y": 697
+  },
+  {
+    "directors": [
+      "尼尔·乔丹"
+    ],
+    "rate": "8.3",
+    "cover_x": 1001,
+    "star": "40",
+    "title": "夜访吸血鬼",
+    "url": "https://movie.douban.com/subject/1299327/",
+    "casts": [
+      "布拉德·皮特",
+      "汤姆·克鲁斯",
+      "克斯汀·邓斯特",
+      "克里斯蒂安·史莱特",
+      "坦迪·牛顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1353910572.jpg",
+    "id": "1299327",
+    "cover_y": 1500
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "爱德华·兹威克"
+    ],
+    "rate": "8.8",
+    "cover_x": 503,
+    "star": "45",
+    "title": "燃情岁月",
+    "url": "https://movie.douban.com/subject/1295865/",
+    "casts": [
+      "布拉德·皮特",
+      "安东尼·霍普金斯",
+      "艾丹·奎因",
+      "朱莉娅·奥蒙德",
+      "亨利·托马斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg",
+    "id": "1295865",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "静野孔文",
+      "山本泰一郎"
+    ],
+    "rate": "6.7",
+    "cover_x": 2142,
+    "star": "35",
+    "title": "名侦探柯南：沉默的十五分钟",
+    "url": "https://movie.douban.com/subject/6007281/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "小山力也",
+      "山口胜平",
+      "草尾毅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p981385980.jpg",
+    "id": "6007281",
+    "cover_y": 3025
+  },
+  {
+    "directors": [
+      "陈可辛"
+    ],
+    "rate": "7.3",
+    "cover_x": 3014,
+    "star": "35",
+    "title": "投名状",
+    "url": "https://movie.douban.com/subject/1947089/",
+    "casts": [
+      "李连杰",
+      "金城武",
+      "刘德华",
+      "徐静蕾",
+      "郭晓东"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2167464205.jpg",
+    "id": "1947089",
+    "cover_y": 4302
+  },
+  {
+    "directors": [
+      "布莱恩·辛格"
+    ],
+    "rate": "8.6",
+    "cover_x": 1150,
+    "star": "45",
+    "title": "非常嫌疑犯",
+    "url": "https://movie.douban.com/subject/1292214/",
+    "casts": [
+      "史蒂芬·鲍德温",
+      "加布里埃尔·伯恩",
+      "本尼西奥·德尔·托罗",
+      "凯文·波拉克",
+      "凯文·史派西"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537319495.jpg",
+    "id": "1292214",
+    "cover_y": 1715
+  },
+  {
+    "directors": [
+      "山本泰一郎"
+    ],
+    "rate": "7.1",
+    "cover_x": 2871,
+    "star": "35",
+    "title": "名侦探柯南：战栗的乐谱",
+    "url": "https://movie.douban.com/subject/2357719/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "神谷明",
+      "松井菜樱子",
+      "山口胜平"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453739518.jpg",
+    "id": "2357719",
+    "cover_y": 4057
+  },
+  {
+    "directors": [
+      "程伟豪"
+    ],
+    "rate": "8.2",
+    "cover_x": 1448,
+    "star": "40",
+    "title": "目击者之追凶",
+    "url": "https://movie.douban.com/subject/11600078/",
+    "casts": [
+      "庄凯勋",
+      "许玮甯",
+      "柯佳嬿",
+      "李铭顺",
+      "李淳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494647817.jpg",
+    "id": "11600078",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "山本泰一郎"
+    ],
+    "rate": "7.7",
+    "cover_x": 800,
+    "star": "40",
+    "title": "名侦探柯南：水平线上的阴谋",
+    "url": "https://movie.douban.com/subject/2357713/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "神谷明",
+      "山口胜平",
+      "林原惠美"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1954012128.jpg",
+    "id": "2357713",
+    "cover_y": 1129
+  },
+  {
+    "directors": [
+      "曹慧生",
+      "韩杰"
+    ],
+    "rate": "3.3",
+    "cover_x": 1080,
+    "star": "15",
+    "title": "爱我就别想太多",
+    "url": "https://movie.douban.com/subject/27012998/",
+    "casts": [
+      "陈建斌",
+      "李一桐",
+      "潘粤明",
+      "许文广",
+      "张姝"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500704842.jpg",
+    "id": "27012998",
+    "cover_y": 1440
+  },
+  {
+    "directors": [
+      "朴赞郁"
+    ],
+    "rate": "8.2",
+    "cover_x": 750,
+    "star": "40",
+    "title": "老男孩",
+    "url": "https://movie.douban.com/subject/1308865/",
+    "casts": [
+      "崔岷植",
+      "刘智泰",
+      "姜惠贞",
+      "金秉玉",
+      "吴达洙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2166892850.jpg",
+    "id": "1308865",
+    "cover_y": 1076
+  },
+  {
+    "directors": [
+      "安德鲁·斯坦顿",
+      "安格斯·麦克莱恩"
+    ],
+    "rate": "7.5",
+    "cover_x": 1900,
+    "star": "40",
+    "title": "海底总动员2：多莉去哪儿",
+    "url": "https://movie.douban.com/subject/11524967/",
+    "casts": [
+      "艾伦·德杰尼勒斯",
+      "艾伯特·布鲁克斯",
+      "艾德·奥尼尔",
+      "凯特琳·奥尔森",
+      "海登·罗兰斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2356015154.jpg",
+    "id": "11524967",
+    "cover_y": 2661
+  },
+  {
+    "directors": [
+      "大卫·R·艾里斯"
+    ],
+    "rate": "7.4",
+    "cover_x": 1415,
+    "star": "35",
+    "title": "死神来了2",
+    "url": "https://movie.douban.com/subject/1307956/",
+    "casts": [
+      "艾丽·拉特",
+      "A·J·库克",
+      "迈克尔·兰德斯",
+      "大卫·佩特考",
+      "贾斯蒂娜·马查多"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p498462827.jpg",
+    "id": "1307956",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "唐彬",
+      "杨龙"
+    ],
+    "rate": "7.2",
+    "cover_x": 1142,
+    "star": "35",
+    "title": "致我们单纯的小美好",
+    "url": "https://movie.douban.com/subject/27008416/",
+    "casts": [
+      "胡一天",
+      "沈月",
+      "高至霆",
+      "王梓薇",
+      "孙宁"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503805665.jpg",
+    "id": "27008416",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "朱塞佩·托纳多雷"
+    ],
+    "rate": "8.4",
+    "cover_x": 2070,
+    "star": "40",
+    "title": "最佳出价",
+    "url": "https://movie.douban.com/subject/7059671/",
+    "casts": [
+      "杰弗里·拉什",
+      "吉姆·斯特吉斯",
+      "西尔维娅·侯克斯",
+      "唐纳德·萨瑟兰",
+      "菲利普·杰克森"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2039855496.jpg",
+    "id": "7059671",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "菲利普·卡德尔巴赫"
+    ],
+    "rate": "9.6",
+    "cover_x": 2024,
+    "star": "50",
+    "title": "我们的父辈",
+    "url": "https://movie.douban.com/subject/22623816/",
+    "casts": [
+      "汤姆·希林",
+      "沃尔克·布鲁赫",
+      "卡塔琳娜·舒特勒",
+      "米里亚姆·斯坦因",
+      "路德维格.特内普特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2182571149.jpg",
+    "id": "22623816",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "8.1",
+    "cover_x": 2376,
+    "star": "40",
+    "title": "集结号",
+    "url": "https://movie.douban.com/subject/1907464/",
+    "casts": [
+      "张涵予",
+      "邓超",
+      "袁文康",
+      "汤嬿",
+      "廖凡"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1655611025.jpg",
+    "id": "1907464",
+    "cover_y": 3329
+  },
+  {
+    "directors": [
+      "三池崇史"
+    ],
+    "rate": "8.0",
+    "cover_x": 2149,
+    "star": "40",
+    "title": "热血高校2",
+    "url": "https://movie.douban.com/subject/3074408/",
+    "casts": [
+      "小栗旬",
+      "矢部享佑",
+      "黑木美沙",
+      "金子统昭",
+      "三浦春马"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p936977410.jpg",
+    "id": "3074408",
+    "cover_y": 3015
+  },
+  {
+    "directors": [
+      "大卫·阿耶"
+    ],
+    "rate": "7.9",
+    "cover_x": 5953,
+    "star": "40",
+    "title": "狂怒",
+    "url": "https://movie.douban.com/subject/23331914/",
+    "casts": [
+      "布拉德·皮特",
+      "希亚·拉博夫",
+      "罗根·勒曼",
+      "迈克尔·佩纳",
+      "乔·博恩瑟"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2209858994.jpg",
+    "id": "23331914",
+    "cover_y": 8315
+  },
+  {
+    "directors": [
+      "霍穗强"
+    ],
+    "rate": "4.8",
+    "cover_x": 1080,
+    "star": "25",
+    "title": "武动乾坤",
+    "url": "https://movie.douban.com/subject/35145653/",
+    "casts": [
+      "王珞嘉",
+      "李觅尔",
+      "张亚奇",
+      "黎真安",
+      "程涛"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2616427167.jpg",
+    "id": "35145653",
+    "cover_y": 1688
+  },
+  {
+    "directors": [
+      "托尼·吉尔罗伊"
+    ],
+    "rate": "6.8",
+    "cover_x": 1350,
+    "star": "35",
+    "title": "谍影重重4",
+    "url": "https://movie.douban.com/subject/3001077/",
+    "casts": [
+      "杰瑞米·雷纳",
+      "蕾切尔·薇兹",
+      "爱德华·诺顿",
+      "琼·艾伦",
+      "奥斯卡·伊萨克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1706819167.jpg",
+    "id": "3001077",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "罗杰·米歇尔"
+    ],
+    "rate": "8.0",
+    "cover_x": 2020,
+    "star": "40",
+    "title": "诺丁山",
+    "url": "https://movie.douban.com/subject/1298038/",
+    "casts": [
+      "朱莉娅·罗伯茨",
+      "休·格兰特",
+      "理查德·麦凯布",
+      "瑞斯·伊凡斯",
+      "詹姆斯·德雷福斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480943589.jpg",
+    "id": "1298038",
+    "cover_y": 3000
+  }
+]

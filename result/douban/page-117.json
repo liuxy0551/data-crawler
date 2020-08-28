@@ -1,0 +1,421 @@
+[
+  {
+    "directors": [
+      "斯坦利·库布里克"
+    ],
+    "rate": "7.8",
+    "cover_x": 800,
+    "star": "40",
+    "title": "洛丽塔",
+    "url": "https://movie.douban.com/subject/1296992/",
+    "casts": [
+      "詹姆斯·梅森",
+      "谢利·温特斯",
+      "苏·莱恩",
+      "加里·科克雷尔",
+      "杰里·斯托文"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564370214.jpg",
+    "id": "1296992",
+    "cover_y": 1074
+  },
+  {
+    "directors": [
+      "沃尔夫冈·彼德森"
+    ],
+    "rate": "7.5",
+    "cover_x": 511,
+    "star": "40",
+    "title": "特洛伊",
+    "url": "https://movie.douban.com/subject/1308751/",
+    "casts": [
+      "布拉德·皮特",
+      "黛安·克鲁格",
+      "奥兰多·布鲁姆",
+      "朱利安·格洛弗",
+      "布莱恩·考克斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p727373711.jpg",
+    "id": "1308751",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "迈克尔·艾普特"
+    ],
+    "rate": "6.7",
+    "cover_x": 1016,
+    "star": "35",
+    "title": "纳尼亚传奇3：黎明踏浪号",
+    "url": "https://movie.douban.com/subject/2131291/",
+    "casts": [
+      "本·巴恩斯",
+      "斯堪德·凯恩斯",
+      "乔芝·韩莉",
+      "威尔·保尔特",
+      "西蒙·佩吉"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p743270605.jpg",
+    "id": "2131291",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "武本康弘",
+      "木上益治",
+      "石原立也",
+      "山田尚子",
+      "石立太一",
+      "北之原孝将",
+      "坂本一也",
+      "小川太一",
+      "内海纮子",
+      "河浪荣作"
+    ],
+    "rate": "9.0",
+    "cover_x": 900,
+    "star": "45",
+    "title": "冰果",
+    "url": "https://movie.douban.com/subject/10001418/",
+    "casts": [
+      "中村悠一",
+      "佐藤聪美",
+      "阪口大助",
+      "茅野爱衣",
+      "雪野五月"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1353973170.jpg",
+    "id": "10001418",
+    "cover_y": 1236
+  },
+  {
+    "directors": [
+      "周防正行"
+    ],
+    "rate": "7.8",
+    "cover_x": 1452,
+    "star": "40",
+    "title": "默片解说员",
+    "url": "https://movie.douban.com/subject/30135942/",
+    "casts": [
+      "成田凌",
+      "黑岛结菜",
+      "永濑正敏",
+      "高良健吾",
+      "井上真央"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2571079312.jpg",
+    "id": "30135942",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "康拉德·弗农",
+      "格雷格·蒂曼"
+    ],
+    "rate": "7.2",
+    "cover_x": 1382,
+    "star": "35",
+    "title": "香肠派对",
+    "url": "https://movie.douban.com/subject/4944008/",
+    "casts": [
+      "塞斯·罗根",
+      "克里斯汀·韦格",
+      "詹姆斯·弗兰科",
+      "乔纳·希尔",
+      "爱德华·诺顿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2371145119.jpg",
+    "id": "4944008",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "冯德伦"
+    ],
+    "rate": "5.7",
+    "cover_x": 717,
+    "star": "30",
+    "title": "太极1：从零开始",
+    "url": "https://movie.douban.com/subject/5996800/",
+    "casts": [
+      "袁晓超",
+      "梁家辉",
+      "杨颖",
+      "彭于晏",
+      "冯绍峰"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1710333164.jpg",
+    "id": "5996800",
+    "cover_y": 1025
+  },
+  {
+    "directors": [
+      "杨永春"
+    ],
+    "rate": "3.7",
+    "cover_x": 5906,
+    "star": "20",
+    "title": "李雷和韩梅梅",
+    "url": "https://movie.douban.com/subject/26289138/",
+    "casts": [
+      "张子枫",
+      "张逸杰",
+      "成梓宁",
+      "李砚",
+      "常铖"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461589633.jpg",
+    "id": "26289138",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "罗英石"
+    ],
+    "rate": "9.5",
+    "cover_x": 951,
+    "star": "50",
+    "title": "新西游记 第七季",
+    "url": "https://movie.douban.com/subject/33459775/",
+    "casts": [
+      "曹圭贤",
+      "姜虎东",
+      "李寿根",
+      "宋旻浩",
+      "殷志源"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574517506.jpg",
+    "id": "33459775",
+    "cover_y": 1350
+  },
+  {
+    "directors": [
+      "黛博拉·周",
+      "瑞克·法穆易瓦",
+      "戴夫·菲洛尼",
+      "布莱丝·达拉斯·霍华德",
+      "塔伊加·维迪提",
+      "乔恩·费儒"
+    ],
+    "rate": "9.2",
+    "cover_x": 1688,
+    "star": "45",
+    "title": "曼达洛人 第一季",
+    "url": "https://movie.douban.com/subject/30344167/",
+    "casts": [
+      "佩德罗·帕斯卡",
+      "泰特·弗莱彻",
+      "吉娜·卡拉诺",
+      "布伦丹·维恩",
+      "沃纳·赫尔佐格"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566627804.jpg",
+    "id": "30344167",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "让-马克·瓦雷"
+    ],
+    "rate": "9.0",
+    "cover_x": 2700,
+    "star": "45",
+    "title": "大小谎言 第一季",
+    "url": "https://movie.douban.com/subject/25953429/",
+    "casts": [
+      "瑞茜·威瑟斯彭",
+      "妮可·基德曼",
+      "谢琳·伍德蕾",
+      "劳拉·邓恩",
+      "亚历山大·斯卡斯加德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2415240173.jpg",
+    "id": "25953429",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "克里斯托弗·麦奎里"
+    ],
+    "rate": "6.3",
+    "cover_x": 3385,
+    "star": "30",
+    "title": "侠探杰克",
+    "url": "https://movie.douban.com/subject/3231740/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "裴淳华",
+      "理查德·詹金斯",
+      "杰·科特尼",
+      "罗伯特·杜瓦尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1740079049.jpg",
+    "id": "3231740",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "斯蒂文·莱维坦",
+      "盖尔·曼库索",
+      "贝丝·麦卡锡-米勒"
+    ],
+    "rate": "9.5",
+    "cover_x": 600,
+    "star": "50",
+    "title": "摩登家庭 第四季",
+    "url": "https://movie.douban.com/subject/10748074/",
+    "casts": [
+      "艾德·奥尼尔",
+      "索菲娅·维加拉",
+      "朱丽·鲍温",
+      "泰·布利尔",
+      "杰西·泰勒·弗格森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2201084723.jpg",
+    "id": "10748074",
+    "cover_y": 882
+  },
+  {
+    "directors": [
+      "刘伟强",
+      "麦兆辉"
+    ],
+    "rate": "9.0",
+    "cover_x": 806,
+    "star": "45",
+    "title": "无间道(正序版)",
+    "url": "https://movie.douban.com/subject/4860078/",
+    "casts": [
+      "刘德华",
+      "梁朝伟",
+      "黎明",
+      "陈道明",
+      "吴镇宇"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2236103938.jpg",
+    "id": "4860078",
+    "cover_y": 1153
+  },
+  {
+    "directors": [
+      "雅克·范·多梅尔"
+    ],
+    "rate": "8.2",
+    "cover_x": 1383,
+    "star": "40",
+    "title": "无姓之人",
+    "url": "https://movie.douban.com/subject/2076181/",
+    "casts": [
+      "杰瑞德·莱托",
+      "萨拉·波莉",
+      "黛安·克鲁格",
+      "范林丹",
+      "瑞斯·伊凡斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2133687605.jpg",
+    "id": "2076181",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "徐晴"
+    ],
+    "rate": "7.6",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "巧手神探",
+    "url": "https://movie.douban.com/subject/34861441/",
+    "casts": [
+      "杨颖",
+      "谭卓",
+      "肖央",
+      "杜海涛",
+      "周震南"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595809469.jpg",
+    "id": "34861441",
+    "cover_y": 1644
+  },
+  {
+    "directors": [
+      "路易斯·莱特里尔"
+    ],
+    "rate": "7.3",
+    "cover_x": 945,
+    "star": "35",
+    "title": "玩命快递2",
+    "url": "https://movie.douban.com/subject/1419974/",
+    "casts": [
+      "杰森·斯坦森",
+      "亚历山德罗·加斯曼",
+      "安贝·瓦莱塔",
+      "凯特·娜乌塔",
+      "马修·莫迪恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1439362483.jpg",
+    "id": "1419974",
+    "cover_y": 1400
+  },
+  {
+    "directors": [
+      "相国强"
+    ],
+    "rate": "6.8",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "少年巴比伦",
+    "url": "https://movie.douban.com/subject/25876760/",
+    "casts": [
+      "董子健",
+      "李梦",
+      "尚铁龙",
+      "李大光",
+      "唐小然"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2410887742.jpg",
+    "id": "25876760",
+    "cover_y": 1397
+  },
+  {
+    "directors": [
+      "马克·福斯特"
+    ],
+    "rate": "6.6",
+    "cover_x": 1900,
+    "star": "35",
+    "title": "007：大破量子危机",
+    "url": "https://movie.douban.com/subject/1946882/",
+    "casts": [
+      "丹尼尔·克雷格",
+      "朱迪·丹奇",
+      "欧嘉·柯瑞兰寇",
+      "马修·阿马立克",
+      "杰玛·阿特登"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p976999823.jpg",
+    "id": "1946882",
+    "cover_y": 2573
+  },
+  {
+    "directors": [
+      "甄子丹",
+      "林超贤"
+    ],
+    "rate": "5.8",
+    "cover_x": 476,
+    "star": "30",
+    "title": "千机变",
+    "url": "https://movie.douban.com/subject/1307740/",
+    "casts": [
+      "钟欣潼",
+      "蔡卓妍",
+      "郑伊健",
+      "何超仪",
+      "成龙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1969877241.jpg",
+    "id": "1307740",
+    "cover_y": 698
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "directors": [
+      "罗伯特·泽米吉斯"
+    ],
+    "rate": "8.6",
+    "cover_x": 904,
+    "star": "45",
+    "title": "荒岛余生",
+    "url": "https://movie.douban.com/subject/1298653/",
+    "casts": [
+      "汤姆·汉克斯",
+      "海伦·亨特",
+      "克里斯·诺斯",
+      "尼克·瑟西",
+      "Valerie Wildman"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2207673534.jpg",
+    "id": "1298653",
+    "cover_y": 1378
+  },
+  {
+    "directors": [
+      "大卫·芬奇"
+    ],
+    "rate": "8.1",
+    "cover_x": 1600,
+    "star": "40",
+    "title": "社交网络",
+    "url": "https://movie.douban.com/subject/3205624/",
+    "casts": [
+      "杰西·艾森伯格",
+      "安德鲁·加菲尔德",
+      "贾斯汀·汀布莱克",
+      "鲁妮·玛拉",
+      "约瑟夫·梅泽罗"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553756806.jpg",
+    "id": "3205624",
+    "cover_y": 2370
+  },
+  {
+    "directors": [
+      "赵天宇"
+    ],
+    "rate": "4.9",
+    "cover_x": 4690,
+    "star": "25",
+    "title": "微微一笑很倾城",
+    "url": "https://movie.douban.com/subject/26301582/",
+    "casts": [
+      "井柏然",
+      "杨颖",
+      "李沁",
+      "王思聪",
+      "刘循子墨"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2358355793.jpg",
+    "id": "26301582",
+    "cover_y": 6614
+  },
+  {
+    "directors": [
+      "詹姆斯·伯罗斯",
+      "惠特妮·卡明",
+      "泰德·瓦斯",
+      "弗莱德·萨维奇",
+      "斯科特·埃利斯",
+      "托马斯·凯尔",
+      "让·萨加尔",
+      "约翰·福滕贝里",
+      "朱莉·安妮·罗宾逊"
+    ],
+    "rate": "9.0",
+    "cover_x": 1400,
+    "star": "45",
+    "title": "破产姐妹 第一季",
+    "url": "https://movie.douban.com/subject/6395245/",
+    "casts": [
+      "凯特·戴琳斯",
+      "贝丝·比厄",
+      "诺亚·米尔斯",
+      "加勒特·莫里斯",
+      "乔纳森·克特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2608652488.jpg",
+    "id": "6395245",
+    "cover_y": 2101
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "7.7",
+    "cover_x": 449,
+    "star": "40",
+    "title": "审死官",
+    "url": "https://movie.douban.com/subject/1305355/",
+    "casts": [
+      "周星驰",
+      "梅艳芳",
+      "吴家丽",
+      "吴孟达",
+      "秦沛"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2265204834.jpg",
+    "id": "1305355",
+    "cover_y": 630
+  },
+  {
+    "directors": [
+      "雷德利·斯科特"
+    ],
+    "rate": "7.4",
+    "cover_x": 1126,
+    "star": "35",
+    "title": "异形：契约",
+    "url": "https://movie.douban.com/subject/11803087/",
+    "casts": [
+      "迈克尔·法斯宾德",
+      "凯瑟琳·沃特斯顿",
+      "比利·克鲁德普",
+      "丹尼·麦克布莱德",
+      "德米安·比齐尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2459944375.jpg",
+    "id": "11803087",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "儿玉兼嗣"
+    ],
+    "rate": "8.3",
+    "cover_x": 800,
+    "star": "40",
+    "title": "名侦探柯南：瞳孔中的暗杀者",
+    "url": "https://movie.douban.com/subject/2357701/",
+    "casts": [
+      "茶风林",
+      "千叶一伸",
+      "百百麻子",
+      "江川央生",
+      "深见梨加"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453729514.jpg",
+    "id": "2357701",
+    "cover_y": 1138
+  },
+  {
+    "directors": [
+      "西奥多·梅尔菲"
+    ],
+    "rate": "8.8",
+    "cover_x": 2025,
+    "star": "45",
+    "title": "隐藏人物",
+    "url": "https://movie.douban.com/subject/26615208/",
+    "casts": [
+      "塔拉吉·P·汉森",
+      "奥克塔维亚·斯宾瑟",
+      "加奈儿·梦奈",
+      "凯文·科斯特纳",
+      "克斯汀·邓斯特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2408791085.jpg",
+    "id": "26615208",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "八木龙一",
+      "山崎贵"
+    ],
+    "rate": "8.0",
+    "cover_x": 6496,
+    "star": "40",
+    "title": "哆啦A梦：伴我同行",
+    "url": "https://movie.douban.com/subject/25769362/",
+    "casts": [
+      "水田山葵",
+      "大原惠美",
+      "嘉数由美",
+      "木村昴",
+      "关智一"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2244958975.jpg",
+    "id": "25769362",
+    "cover_y": 9094
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "7.9",
+    "cover_x": 5984,
+    "star": "40",
+    "title": "归来",
+    "url": "https://movie.douban.com/subject/21352814/",
+    "casts": [
+      "陈道明",
+      "巩俐",
+      "张慧雯",
+      "郭涛",
+      "刘佩琦"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2181207835.jpg",
+    "id": "21352814",
+    "cover_y": 8346
+  },
+  {
+    "directors": [
+      "罗兰·艾默里奇"
+    ],
+    "rate": "8.1",
+    "cover_x": 525,
+    "star": "40",
+    "title": "独立日",
+    "url": "https://movie.douban.com/subject/1293013/",
+    "casts": [
+      "威尔·史密斯",
+      "比尔·普尔曼",
+      "杰夫·高布伦",
+      "玛丽·麦克唐纳",
+      "贾德·赫希"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453518655.jpg",
+    "id": "1293013",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "于蕾"
+    ],
+    "rate": "9.1",
+    "cover_x": 1432,
+    "star": "45",
+    "title": "国家宝藏 第一季",
+    "url": "https://movie.douban.com/subject/27186619/",
+    "casts": [
+      "张国立",
+      "李晨",
+      "王凯",
+      "梁家辉",
+      "刘涛"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508947440.jpg",
+    "id": "27186619",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "克雷格·比贝洛斯"
+    ],
+    "rate": "8.3",
+    "cover_x": 680,
+    "star": "40",
+    "title": "无人生还",
+    "url": "https://movie.douban.com/subject/25839052/",
+    "casts": [
+      "查尔斯·丹斯",
+      "梅芙·德莫迪",
+      "艾丹·特纳",
+      "伯恩·戈曼",
+      "托比·斯蒂芬斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2302407696.jpg",
+    "id": "25839052",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "瑞秋·塔拉蕾",
+      "尼克·赫伦",
+      "本·卡隆"
+    ],
+    "rate": "8.5",
+    "cover_x": 1055,
+    "star": "45",
+    "title": "神探夏洛克 第四季",
+    "url": "https://movie.douban.com/subject/25750923/",
+    "casts": [
+      "本尼迪克特·康伯巴奇",
+      "马丁·弗瑞曼",
+      "鲁珀特·格雷夫斯",
+      "马克·加蒂斯",
+      "安德鲁·斯科特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2412027382.jpg",
+    "id": "25750923",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "林玉芬",
+      "梁胜权",
+      "任海涛",
+      "郭虎"
+    ],
+    "rate": "8.3",
+    "cover_x": 5906,
+    "star": "40",
+    "title": "宸汐缘",
+    "url": "https://movie.douban.com/subject/30230682/",
+    "casts": [
+      "张震",
+      "倪妮",
+      "李东学",
+      "张芷溪",
+      "李嘉铭"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566157626.jpg",
+    "id": "30230682",
+    "cover_y": 9055
+  },
+  {
+    "directors": [
+      "米凯尔·哈弗斯特罗姆"
+    ],
+    "rate": "7.7",
+    "cover_x": 3543,
+    "star": "40",
+    "title": "金蝉脱壳",
+    "url": "https://movie.douban.com/subject/3025447/",
+    "casts": [
+      "西尔维斯特·史泰龙",
+      "阿诺·施瓦辛格",
+      "吉姆·卡维泽",
+      "法兰·塔希尔",
+      "艾米·莱安"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2155236151.jpg",
+    "id": "3025447",
+    "cover_y": 4961
+  },
+  {
+    "directors": [
+      "亚当·罗比特尔"
+    ],
+    "rate": "7.2",
+    "cover_x": 1153,
+    "star": "35",
+    "title": "密室逃生",
+    "url": "https://movie.douban.com/subject/27109679/",
+    "casts": [
+      "泰勒·拉塞尔",
+      "洛根·米勒",
+      "黛博拉·安沃尔",
+      "泰勒·莱伯恩",
+      "杰·埃利斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2543631842.jpg",
+    "id": "27109679",
+    "cover_y": 1700
+  },
+  {
+    "directors": [
+      "陈凯歌"
+    ],
+    "rate": "7.4",
+    "cover_x": 2058,
+    "star": "35",
+    "title": "搜索",
+    "url": "https://movie.douban.com/subject/6799191/",
+    "casts": [
+      "高圆圆",
+      "姚晨",
+      "赵又廷",
+      "陈红",
+      "王学圻"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1598153958.jpg",
+    "id": "6799191",
+    "cover_y": 3022
+  },
+  {
+    "directors": [
+      "保罗·安德森"
+    ],
+    "rate": "6.2",
+    "cover_x": 691,
+    "star": "30",
+    "title": "生化危机5：惩罚",
+    "url": "https://movie.douban.com/subject/6532822/",
+    "casts": [
+      "米拉·乔沃维奇",
+      "米歇尔·罗德里格兹",
+      "西耶娜·盖尔利",
+      "李冰冰",
+      "凯文·杜兰"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1624130437.jpg",
+    "id": "6532822",
+    "cover_y": 1024
+  },
+  {
+    "directors": [
+      "李豪凌",
+      "王昕"
+    ],
+    "rate": "8.8",
+    "cover_x": 700,
+    "star": "45",
+    "title": "一人之下 第一季",
+    "url": "https://movie.douban.com/subject/26815153/",
+    "casts": [
+      "田丸笃志",
+      "饭田友子",
+      "早见沙织",
+      "野岛健儿",
+      "立花慎之介"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2370126919.jpg",
+    "id": "26815153",
+    "cover_y": 982
+  }
+]

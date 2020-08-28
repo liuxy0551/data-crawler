@@ -1,0 +1,414 @@
+[
+  {
+    "directors": [
+      "乔·舒马赫"
+    ],
+    "rate": "8.5",
+    "cover_x": 400,
+    "star": "45",
+    "title": "歌剧魅影",
+    "url": "https://movie.douban.com/subject/1291554/",
+    "casts": [
+      "杰拉德·巴特勒",
+      "埃米·罗森",
+      "帕特里克·威尔森",
+      "米兰达·理查森",
+      "明妮·德里弗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910825990.jpg",
+    "id": "1291554",
+    "cover_y": 592
+  },
+  {
+    "directors": [
+      "叶伟民"
+    ],
+    "rate": "4.8",
+    "cover_x": 5906,
+    "star": "25",
+    "title": "京城81号",
+    "url": "https://movie.douban.com/subject/20513061/",
+    "casts": [
+      "吴镇宇",
+      "林心如",
+      "杨祐宁",
+      "秦海璐",
+      "莫小棋"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187047385.jpg",
+    "id": "20513061",
+    "cover_y": 8425
+  },
+  {
+    "directors": [
+      "盖·里奇"
+    ],
+    "rate": "8.5",
+    "cover_x": 2065,
+    "star": "45",
+    "title": "偷拐抢骗",
+    "url": "https://movie.douban.com/subject/1301171/",
+    "casts": [
+      "本尼西奥·德尔·托罗",
+      "丹尼斯·法里纳",
+      "维尼·琼斯",
+      "布拉德·皮特",
+      "拉德·舍博德兹加"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p616753227.jpg",
+    "id": "1301171",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "萨姆·门德斯"
+    ],
+    "rate": "8.1",
+    "cover_x": 1359,
+    "star": "40",
+    "title": "革命之路",
+    "url": "https://movie.douban.com/subject/2037012/",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "凯特·温丝莱特",
+      "迈克尔·珊农",
+      "芮安·辛普金斯",
+      "克里斯托弗·菲茨杰拉德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480460526.jpg",
+    "id": "2037012",
+    "cover_y": 2016
+  },
+  {
+    "directors": [
+      "特伟",
+      "钱家骏",
+      "唐澄"
+    ],
+    "rate": "8.8",
+    "cover_x": 459,
+    "star": "45",
+    "title": "小蝌蚪找妈妈",
+    "url": "https://movie.douban.com/subject/3335371/",
+    "casts": [
+      "张瑞芳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2384509188.jpg",
+    "id": "3335371",
+    "cover_y": 604
+  },
+  {
+    "directors": [
+      "弗朗索瓦·欧容"
+    ],
+    "rate": "8.5",
+    "cover_x": 1650,
+    "star": "45",
+    "title": "登堂入室",
+    "url": "https://movie.douban.com/subject/6537486/",
+    "casts": [
+      "法布莱斯·鲁奇尼",
+      "恩斯特·吴默埃",
+      "克里斯汀·斯科特·托马斯",
+      "艾玛纽尔·塞尼耶",
+      "德尼·梅诺谢"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1581587840.jpg",
+    "id": "6537486",
+    "cover_y": 2201
+  },
+  {
+    "directors": [
+      "张鑫炎"
+    ],
+    "rate": "8.2",
+    "cover_x": 766,
+    "star": "40",
+    "title": "少林寺",
+    "url": "https://movie.douban.com/subject/1301198/",
+    "casts": [
+      "李连杰",
+      "于海",
+      "丁岚",
+      "于承惠",
+      "计春华"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457784081.jpg",
+    "id": "1301198",
+    "cover_y": 1024
+  },
+  {
+    "directors": [
+      "樱井弘明",
+      "笠井贤一",
+      "则座诚",
+      "富永恒雄",
+      "高田耕一 ",
+      "相浦和也",
+      "永居慎平",
+      "奥野浩行",
+      "铃木拓磨",
+      "饭村正之",
+      "岛崎奈奈子",
+      "铃木轮流郎",
+      "宫田亮"
+    ],
+    "rate": "9.4",
+    "cover_x": 1556,
+    "star": "45",
+    "title": "齐木楠雄的灾难",
+    "url": "https://movie.douban.com/subject/26801048/",
+    "casts": [
+      "神谷浩史",
+      "小野大辅",
+      "岛崎信长",
+      "岩田光央",
+      "爱河里花子"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2356774246.jpg",
+    "id": "26801048",
+    "cover_y": 2200
+  },
+  {
+    "directors": [
+      "成龙"
+    ],
+    "rate": "7.9",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "警察故事",
+    "url": "https://movie.douban.com/subject/1400868/",
+    "casts": [
+      "成龙",
+      "林青霞",
+      "张曼玉",
+      "董骠",
+      "楚原"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1748521747.jpg",
+    "id": "1400868",
+    "cover_y": 1504
+  },
+  {
+    "directors": [
+      "陈可辛",
+      "赵良骏"
+    ],
+    "rate": "7.7",
+    "cover_x": 3014,
+    "star": "40",
+    "title": "如果·爱",
+    "url": "https://movie.douban.com/subject/1418070/",
+    "casts": [
+      "金城武",
+      "周迅",
+      "张学友",
+      "池珍熙",
+      "曾志伟"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p461379838.jpg",
+    "id": "1418070",
+    "cover_y": 4302
+  },
+  {
+    "directors": [
+      "王晶"
+    ],
+    "rate": "7.6",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "城市猎人",
+    "url": "https://movie.douban.com/subject/1295064/",
+    "casts": [
+      "成龙",
+      "王祖贤",
+      "邱淑贞",
+      "后藤久美子",
+      "单立文"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557560791.jpg",
+    "id": "1295064",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "姜允成"
+    ],
+    "rate": "7.6",
+    "cover_x": 740,
+    "star": "40",
+    "title": "犯罪都市",
+    "url": "https://movie.douban.com/subject/26946510/",
+    "casts": [
+      "马东锡",
+      "尹启相",
+      "赵在允",
+      "崔奎华",
+      "林炯俊"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496564367.jpg",
+    "id": "26946510",
+    "cover_y": 1060
+  },
+  {
+    "directors": [
+      "丁晟"
+    ],
+    "rate": "6.8",
+    "cover_x": 1200,
+    "star": "35",
+    "title": "大兵小将",
+    "url": "https://movie.douban.com/subject/3279107/",
+    "casts": [
+      "成龙",
+      "王力宏",
+      "刘承俊",
+      "杜玉明",
+      "林鹏"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1682724960.jpg",
+    "id": "3279107",
+    "cover_y": 1676
+  },
+  {
+    "directors": [
+      "汪俊",
+      "程源海"
+    ],
+    "rate": "7.9",
+    "cover_x": 688,
+    "star": "40",
+    "title": "小别离",
+    "url": "https://movie.douban.com/subject/26322639/",
+    "casts": [
+      "黄磊",
+      "海清",
+      "张子枫",
+      "朱媛媛",
+      "韩青"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2266304416.jpg",
+    "id": "26322639",
+    "cover_y": 950
+  },
+  {
+    "directors": [
+      "约瑟夫·科辛斯基"
+    ],
+    "rate": "7.0",
+    "cover_x": 1396,
+    "star": "35",
+    "title": "遗落战境",
+    "url": "https://movie.douban.com/subject/3895511/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "摩根·弗里曼",
+      "欧嘉·柯瑞兰寇",
+      "尼古拉·科斯特-瓦尔道",
+      "佐伊·贝尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1870772842.jpg",
+    "id": "3895511",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "林德禄 "
+    ],
+    "rate": "6.0",
+    "cover_x": 1432,
+    "star": "30",
+    "title": "反贪风暴",
+    "url": "https://movie.douban.com/subject/25792690/",
+    "casts": [
+      "古天乐",
+      "林家栋",
+      "陈静",
+      "夏嫣",
+      "王敏德"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2195270848.jpg",
+    "id": "25792690",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "李仁港"
+    ],
+    "rate": "5.9",
+    "cover_x": 1790,
+    "star": "30",
+    "title": "天将雄师",
+    "url": "https://movie.douban.com/subject/25823833/",
+    "casts": [
+      "成龙",
+      "约翰·库萨克",
+      "艾德里安·布洛迪",
+      "崔始源",
+      "林鹏"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2224484447.jpg",
+    "id": "25823833",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "李政孝"
+    ],
+    "rate": "9.0",
+    "cover_x": 700,
+    "star": "45",
+    "title": "火星生活",
+    "url": "https://movie.douban.com/subject/27622822/",
+    "casts": [
+      "郑敬淏",
+      "朴圣雄",
+      "高雅星",
+      "吴代焕",
+      "卢宗贤"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521727980.jpg",
+    "id": "27622822",
+    "cover_y": 1059
+  },
+  {
+    "directors": [
+      "永田琴"
+    ],
+    "rate": "8.4",
+    "cover_x": 486,
+    "star": "40",
+    "title": "一吻定情",
+    "url": "https://movie.douban.com/subject/21339675/",
+    "casts": [
+      "矢作穗香",
+      "古川雄辉",
+      "山田裕贵",
+      "西村知美",
+      "田中要次"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1918801412.jpg",
+    "id": "21339675",
+    "cover_y": 702
+  },
+  {
+    "directors": [
+      "史蒂夫·班德莱克"
+    ],
+    "rate": "8.0",
+    "cover_x": 1013,
+    "star": "40",
+    "title": "憨豆的黄金周",
+    "url": "https://movie.douban.com/subject/1829654/",
+    "casts": [
+      "罗温·艾金森",
+      "马克思·鲍德里",
+      "埃玛·德·科内",
+      "威廉·达福",
+      "让·雷谢夫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2191830473.jpg",
+    "id": "1829654",
+    "cover_y": 1500
+  }
+]

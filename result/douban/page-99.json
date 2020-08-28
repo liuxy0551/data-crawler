@@ -1,0 +1,425 @@
+[
+  {
+    "directors": [
+      "戴夫·威尔逊"
+    ],
+    "rate": "5.6",
+    "cover_x": 1080,
+    "star": "30",
+    "title": "喋血战士",
+    "url": "https://movie.douban.com/subject/4830483/",
+    "casts": [
+      "范·迪塞尔",
+      "艾莎·冈萨雷斯",
+      "萨姆·修汉",
+      "托比·凯贝尔",
+      "妲露拉·莱莉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614385032.jpg",
+    "id": "4830483",
+    "cover_y": 1512
+  },
+  {
+    "directors": [
+      "彼得·博格"
+    ],
+    "rate": "8.1",
+    "cover_x": 450,
+    "star": "40",
+    "title": "恐袭波士顿",
+    "url": "https://movie.douban.com/subject/26357945/",
+    "casts": [
+      "马克·沃尔伯格",
+      "凯文·贝肯",
+      "约翰·古德曼",
+      "米歇尔·莫纳汉",
+      "J·K·西蒙斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502466029.jpg",
+    "id": "26357945",
+    "cover_y": 628
+  },
+  {
+    "directors": [
+      "金容勋"
+    ],
+    "rate": "6.9",
+    "cover_x": 1187,
+    "star": "35",
+    "title": "抓住救命稻草的野兽们",
+    "url": "https://movie.douban.com/subject/30180781/",
+    "casts": [
+      "全度妍",
+      "郑雨盛",
+      "裴晟祐",
+      "尹汝贞",
+      "郑满植"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2593860359.jpg",
+    "id": "30180781",
+    "cover_y": 1701
+  },
+  {
+    "directors": [
+      "李玉"
+    ],
+    "rate": "6.6",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "苹果",
+    "url": "https://movie.douban.com/subject/1966464/",
+    "casts": [
+      "梁家辉",
+      "佟大为",
+      "范冰冰",
+      "金燕玲",
+      "曾美慧孜"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558318647.jpg",
+    "id": "1966464",
+    "cover_y": 1426
+  },
+  {
+    "directors": [
+      "蒂姆·肯德尔"
+    ],
+    "rate": "4.5",
+    "cover_x": 3189,
+    "star": "25",
+    "title": "横冲直撞好莱坞",
+    "url": "https://movie.douban.com/subject/25908042/",
+    "casts": [
+      "赵薇",
+      "黄晓明",
+      "佟大为",
+      "黎一墨",
+      "姜成镐"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2244110255.jpg",
+    "id": "25908042",
+    "cover_y": 4465
+  },
+  {
+    "directors": [
+      "陈晓卿",
+      "李勇"
+    ],
+    "rate": "9.1",
+    "cover_x": 5001,
+    "star": "45",
+    "title": "风味人间 第二季",
+    "url": "https://movie.douban.com/subject/35014718/",
+    "casts": [
+      "李立宏"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2596089823.jpg",
+    "id": "35014718",
+    "cover_y": 7502
+  },
+  {
+    "directors": [
+      "石立太一",
+      "藤田春香",
+      "木上益治",
+      "武本康弘",
+      "小川太一",
+      "山村卓也",
+      "北之原孝将"
+    ],
+    "rate": "8.9",
+    "cover_x": 600,
+    "star": "45",
+    "title": "紫罗兰永恒花园",
+    "url": "https://movie.douban.com/subject/26805209/",
+    "casts": [
+      "石川由依",
+      "子安武人",
+      "浪川大辅",
+      "远藤绫",
+      "内山昂辉"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507483648.jpg",
+    "id": "26805209",
+    "cover_y": 863
+  },
+  {
+    "directors": [
+      "西德尼·吕美特"
+    ],
+    "rate": "8.4",
+    "cover_x": 1000,
+    "star": "40",
+    "title": "东方快车谋杀案",
+    "url": "https://movie.douban.com/subject/1292699/",
+    "casts": [
+      "阿尔伯特·芬尼",
+      "劳伦·白考尔",
+      "马丁·鲍尔萨姆",
+      "英格丽·褒曼",
+      "杰奎琳·比塞特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2248650355.jpg",
+    "id": "1292699",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "布尔·斯蒂尔斯"
+    ],
+    "rate": "7.3",
+    "cover_x": 600,
+    "star": "35",
+    "title": "重返十七岁",
+    "url": "https://movie.douban.com/subject/2213591/",
+    "casts": [
+      "扎克·埃夫隆",
+      "莱斯利·曼恩",
+      "托马斯·列农",
+      "马修·派瑞",
+      "Tyler Steelman"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480922128.jpg",
+    "id": "2213591",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "郑晓龙"
+    ],
+    "rate": "5.8",
+    "cover_x": 1000,
+    "star": "30",
+    "title": "芈月传",
+    "url": "https://movie.douban.com/subject/21766654/",
+    "casts": [
+      "孙俪",
+      "刘涛",
+      "方中信",
+      "黄轩",
+      "马苏"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2196596996.jpg",
+    "id": "21766654",
+    "cover_y": 1357
+  },
+  {
+    "directors": [
+      "安娜·波顿",
+      "瑞安·弗雷克",
+      "阿马·阿桑特",
+      "劳瑞·德·克莱蒙特-托奈尔",
+      "加妮克扎·布拉沃"
+    ],
+    "rate": "9.2",
+    "cover_x": 600,
+    "star": "45",
+    "title": "美国夫人",
+    "url": "https://movie.douban.com/subject/30366454/",
+    "casts": [
+      "凯特·布兰切特",
+      "罗丝·伯恩",
+      "莎拉·保罗森",
+      "玛格·马丁戴尔",
+      "乌佐·阿杜巴"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2591071133.jpg",
+    "id": "30366454",
+    "cover_y": 900
+  },
+  {
+    "directors": [
+      "石川淳一"
+    ],
+    "rate": "9.0",
+    "cover_x": 800,
+    "star": "45",
+    "title": "胜者即是正义SP",
+    "url": "https://movie.douban.com/subject/21332518/",
+    "casts": [
+      "堺雅人",
+      "新垣结衣",
+      "生濑胜久",
+      "小池荣子",
+      "田口淳之介"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2151557606.jpg",
+    "id": "21332518",
+    "cover_y": 1090
+  },
+  {
+    "directors": [
+      "约瑟夫·鲁斯纳克"
+    ],
+    "rate": "8.4",
+    "cover_x": 580,
+    "star": "40",
+    "title": "异次元骇客",
+    "url": "https://movie.douban.com/subject/1300282/",
+    "casts": [
+      "克雷格·比尔克",
+      "阿明·缪勒-斯塔尔",
+      "格瑞辰·摩尔",
+      "文森特·多诺费奥",
+      "丹尼斯·海斯伯特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1932438619.jpg",
+    "id": "1300282",
+    "cover_y": 858
+  },
+  {
+    "directors": [
+      "胡进庆",
+      "周克勤",
+      "葛桂云"
+    ],
+    "rate": "8.3",
+    "cover_x": 980,
+    "star": "40",
+    "title": "葫芦兄弟",
+    "url": "https://movie.douban.com/subject/3062897/",
+    "casts": [
+      "冯骏骅",
+      "谢添天",
+      "黄笑嬿",
+      "詹佳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2318160313.jpg",
+    "id": "3062897",
+    "cover_y": 1372
+  },
+  {
+    "directors": [
+      "太田雅彦",
+      "今泉贤一",
+      "大隈孝晴",
+      "矢花馨",
+      "守田艺成",
+      "福本洁",
+      "荒井省吾",
+      "野木森达哉"
+    ],
+    "rate": "8.1",
+    "cover_x": 560,
+    "star": "40",
+    "title": "干物妹！小埋",
+    "url": "https://movie.douban.com/subject/26282460/",
+    "casts": [
+      "田中爱美",
+      "野岛健儿",
+      "影山灯",
+      "白石晴香",
+      "古川由利奈"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2257335170.jpg",
+    "id": "26282460",
+    "cover_y": 800
+  },
+  {
+    "directors": [
+      "毕赣"
+    ],
+    "rate": "7.9",
+    "cover_x": 1865,
+    "star": "40",
+    "title": "路边野餐",
+    "url": "https://movie.douban.com/subject/26337866/",
+    "casts": [
+      "陈永忠",
+      "谢理循",
+      "余世学",
+      "郭月",
+      "赵达清"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2366570716.jpg",
+    "id": "26337866",
+    "cover_y": 2903
+  },
+  {
+    "directors": [
+      "丹尼斯·维伦纽瓦"
+    ],
+    "rate": "7.6",
+    "cover_x": 3900,
+    "star": "40",
+    "title": "边境杀手",
+    "url": "https://movie.douban.com/subject/25881247/",
+    "casts": [
+      "艾米莉·布朗特",
+      "本尼西奥·德尔·托罗",
+      "乔什·布洛林",
+      "维克多·加博",
+      "乔·博恩瑟"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2263976596.jpg",
+    "id": "25881247",
+    "cover_y": 5850
+  },
+  {
+    "directors": [
+      "米田和弘",
+      "阿部雅司",
+      "安藤贵史",
+      "重原克也"
+    ],
+    "rate": "7.3",
+    "cover_x": 450,
+    "star": "35",
+    "title": "格莱普尼尔",
+    "url": "https://movie.douban.com/subject/30482079/",
+    "casts": [
+      "花江夏树",
+      "东山奈央",
+      "花泽香菜",
+      "樱井孝宏",
+      "伊藤美来"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2595428641.jpg",
+    "id": "30482079",
+    "cover_y": 641
+  },
+  {
+    "directors": [
+      "孙在坤"
+    ],
+    "rate": "6.5",
+    "cover_x": 1400,
+    "star": "35",
+    "title": "秘密动物园",
+    "url": "https://movie.douban.com/subject/30353076/",
+    "casts": [
+      "安宰弘",
+      "姜素拉",
+      "朴英奎",
+      "金圣武",
+      "全汝彬"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2576727255.jpg",
+    "id": "30353076",
+    "cover_y": 2006
+  },
+  {
+    "directors": [
+      "本乡满",
+      "高桥涉",
+      "原惠一",
+      "水岛努",
+      "武藤裕治",
+      "臼井仪人"
+    ],
+    "rate": "9.1",
+    "cover_x": 400,
+    "star": "45",
+    "title": "蜡笔小新",
+    "url": "https://movie.douban.com/subject/1431683/",
+    "casts": [
+      "矢岛晶子",
+      "小林由美子",
+      "楢桥美纪",
+      "藤原启治",
+      "森川智之"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510330984.jpg",
+    "id": "1431683",
+    "cover_y": 565
+  }
+]

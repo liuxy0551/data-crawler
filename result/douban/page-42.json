@@ -1,0 +1,410 @@
+[
+  {
+    "directors": [
+      "宁浩"
+    ],
+    "rate": "8.1",
+    "cover_x": 2953,
+    "star": "40",
+    "title": "疯狂的赛车",
+    "url": "https://movie.douban.com/subject/2124703/",
+    "casts": [
+      "黄渤",
+      "戎祥",
+      "九孔",
+      "徐峥",
+      "王双宝"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510069458.jpg",
+    "id": "2124703",
+    "cover_y": 4163
+  },
+  {
+    "directors": [
+      "费振翔"
+    ],
+    "rate": "7.2",
+    "cover_x": 7382,
+    "star": "35",
+    "title": "怒晴湘西",
+    "url": "https://movie.douban.com/subject/27202985/",
+    "casts": [
+      "潘粤明",
+      "高伟光",
+      "辛芷蕾",
+      "曹卫宇",
+      "盛冠森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2545583652.jpg",
+    "id": "27202985",
+    "cover_y": 11629
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "6.4",
+    "cover_x": 2000,
+    "star": "30",
+    "title": "只有芸知道",
+    "url": "https://movie.douban.com/subject/33436135/",
+    "casts": [
+      "黄轩",
+      "杨采钰",
+      "徐帆",
+      "莉迪亚·佩克汉",
+      "赵淑珍"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574861328.jpg",
+    "id": "33436135",
+    "cover_y": 3083
+  },
+  {
+    "directors": [
+      "韦正"
+    ],
+    "rate": "3.2",
+    "cover_x": 2048,
+    "star": "15",
+    "title": "爱情公寓",
+    "url": "https://movie.douban.com/subject/24852545/",
+    "casts": [
+      "陈赫",
+      "袁弘",
+      "娄艺潇",
+      "邓家佳",
+      "孙艺洲"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521648155.jpg",
+    "id": "24852545",
+    "cover_y": 2867
+  },
+  {
+    "directors": [
+      "吴宇森"
+    ],
+    "rate": "8.4",
+    "cover_x": 895,
+    "star": "40",
+    "title": "英雄本色2",
+    "url": "https://movie.douban.com/subject/1297862/",
+    "casts": [
+      "狄龙",
+      "张国荣",
+      "周润发",
+      "石天",
+      "关山"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2159524495.jpg",
+    "id": "1297862",
+    "cover_y": 1280
+  },
+  {
+    "directors": [
+      "贾樟柯"
+    ],
+    "rate": "7.9",
+    "cover_x": 1616,
+    "star": "40",
+    "title": "山河故人",
+    "url": "https://movie.douban.com/subject/25890005/",
+    "casts": [
+      "赵涛",
+      "张译",
+      "梁景东",
+      "董子健",
+      "张艾嘉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2274320140.jpg",
+    "id": "25890005",
+    "cover_y": 2381
+  },
+  {
+    "directors": [
+      "梁乐民",
+      "陆剑青"
+    ],
+    "rate": "7.5",
+    "cover_x": 8267,
+    "star": "40",
+    "title": "寒战",
+    "url": "https://movie.douban.com/subject/6890730/",
+    "casts": [
+      "郭富城",
+      "梁家辉",
+      "李治廷",
+      "彭于晏",
+      "杨采妮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1741835010.jpg",
+    "id": "6890730",
+    "cover_y": 11812
+  },
+  {
+    "directors": [
+      "内森·格雷诺",
+      "拜伦·霍华德"
+    ],
+    "rate": "8.3",
+    "cover_x": 1148,
+    "star": "40",
+    "title": "魔发奇缘",
+    "url": "https://movie.douban.com/subject/1863766/",
+    "casts": [
+      "曼迪·摩尔",
+      "扎克瑞·莱维",
+      "唐纳·墨菲",
+      "朗·普尔曼",
+      "迈克·康纳·盖尼"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p707509468.jpg",
+    "id": "1863766",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "王之"
+    ],
+    "rate": "8.0",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "怪你过分美丽",
+    "url": "https://movie.douban.com/subject/30486573/",
+    "casts": [
+      "秦岚",
+      "高以翔",
+      "王子异",
+      "王耀庆",
+      "惠英红"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2607365765.jpg",
+    "id": "30486573",
+    "cover_y": 1520
+  },
+  {
+    "directors": [
+      "克里斯托弗·麦奎里"
+    ],
+    "rate": "7.8",
+    "cover_x": 4658,
+    "star": "40",
+    "title": "碟中谍5：神秘国度",
+    "url": "https://movie.douban.com/subject/10727641/",
+    "casts": [
+      "汤姆·克鲁斯",
+      "杰瑞米·雷纳",
+      "丽贝卡·弗格森",
+      "西蒙·佩吉",
+      "文·瑞姆斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2263582212.jpg",
+    "id": "10727641",
+    "cover_y": 7000
+  },
+  {
+    "directors": [
+      "克林特·伊斯特伍德"
+    ],
+    "rate": "8.3",
+    "cover_x": 2764,
+    "star": "40",
+    "title": "萨利机长",
+    "url": "https://movie.douban.com/subject/26416603/",
+    "casts": [
+      "汤姆·汉克斯",
+      "艾伦·艾克哈特",
+      "劳拉·琳妮",
+      "杰瑞·费拉拉",
+      "安娜·冈"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363503306.jpg",
+    "id": "26416603",
+    "cover_y": 4096
+  },
+  {
+    "directors": [
+      "娄烨"
+    ],
+    "rate": "7.9",
+    "cover_x": 4000,
+    "star": "40",
+    "title": "推拿",
+    "url": "https://movie.douban.com/subject/20020577/",
+    "casts": [
+      "郭晓东",
+      "秦昊",
+      "张磊",
+      "梅婷",
+      "黄轩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2211024574.jpg",
+    "id": "20020577",
+    "cover_y": 5600
+  },
+  {
+    "directors": [
+      "任鹏远"
+    ],
+    "rate": "5.7",
+    "cover_x": 2126,
+    "star": "30",
+    "title": "幕后玩家",
+    "url": "https://movie.douban.com/subject/26774033/",
+    "casts": [
+      "徐峥",
+      "王丽坤",
+      "王砚辉",
+      "段博文",
+      "任达华"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520543845.jpg",
+    "id": "26774033",
+    "cover_y": 2976
+  },
+  {
+    "directors": [
+      "史蒂夫·麦奎因"
+    ],
+    "rate": "8.1",
+    "cover_x": 2025,
+    "star": "40",
+    "title": "为奴十二年",
+    "url": "https://movie.douban.com/subject/6879185/",
+    "casts": [
+      "切瓦特·埃加福",
+      "迈克尔·法斯宾德",
+      "本尼迪克特·康伯巴奇",
+      "拜伦·巴特",
+      "保罗·达诺"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167964789.jpg",
+    "id": "6879185",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "克里斯·雷纳德"
+    ],
+    "rate": "7.0",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "爱宠大机密2",
+    "url": "https://movie.douban.com/subject/26848167/",
+    "casts": [
+      "帕顿·奥斯瓦尔特",
+      "凯文·哈特",
+      "哈里森·福特",
+      "艾瑞克·斯通斯崔特",
+      "珍妮·斯蕾特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555923582.jpg",
+    "id": "26848167",
+    "cover_y": 1428
+  },
+  {
+    "directors": [
+      "徐克"
+    ],
+    "rate": "5.5",
+    "cover_x": 1786,
+    "star": "30",
+    "title": "西游伏妖篇",
+    "url": "https://movie.douban.com/subject/25801066/",
+    "casts": [
+      "吴亦凡",
+      "林更新",
+      "姚晨",
+      "林允",
+      "包贝尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411953504.jpg",
+    "id": "25801066",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "阿兰·泰勒",
+      "埃里克·萨哈罗夫",
+      "大卫·彼特拉克",
+      "大卫·纳特",
+      "尼尔·马歇尔"
+    ],
+    "rate": "9.5",
+    "cover_x": 2025,
+    "star": "50",
+    "title": "权力的游戏  第二季",
+    "url": "https://movie.douban.com/subject/6558062/",
+    "casts": [
+      "麦茜·威廉姆斯",
+      "艾米莉亚·克拉克",
+      "理查德·麦登",
+      "伊萨克·亨普斯特德-怀特",
+      "斯蒂芬·迪兰"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1441478479.jpg",
+    "id": "6558062",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "伍迪·艾伦"
+    ],
+    "rate": "7.4",
+    "cover_x": 1385,
+    "star": "35",
+    "title": "纽约的一个雨天",
+    "url": "https://movie.douban.com/subject/27089612/",
+    "casts": [
+      "蒂莫西·柴勒梅德",
+      "艾丽·范宁",
+      "赛琳娜·戈麦斯",
+      "裘德·洛",
+      "迭戈·卢纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556824333.jpg",
+    "id": "27089612",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "李平",
+      "陈烈"
+    ],
+    "rate": "7.2",
+    "cover_x": 500,
+    "star": "35",
+    "title": "情深深雨濛濛",
+    "url": "https://movie.douban.com/subject/1786742/",
+    "casts": [
+      "赵薇",
+      "林心如",
+      "古巨基",
+      "苏有朋",
+      "寇振海"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p666215349.jpg",
+    "id": "1786742",
+    "cover_y": 689
+  },
+  {
+    "directors": [
+      "巴里·库克",
+      "托尼·班克罗夫特"
+    ],
+    "rate": "7.8",
+    "cover_x": 1620,
+    "star": "40",
+    "title": "花木兰",
+    "url": "https://movie.douban.com/subject/1294833/",
+    "casts": [
+      "温明娜",
+      "艾迪·墨菲",
+      "哈维·费斯特恩",
+      "米盖尔·弗尔",
+      "吴汉章"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1315561128.jpg",
+    "id": "1294833",
+    "cover_y": 2400
+  }
+]

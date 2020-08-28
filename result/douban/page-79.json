@@ -1,0 +1,410 @@
+[
+  {
+    "directors": [
+      "彼得·维纳"
+    ],
+    "rate": "8.6",
+    "cover_x": 2363,
+    "star": "45",
+    "title": "叫我第一名",
+    "url": "https://movie.douban.com/subject/4798888/",
+    "casts": [
+      "詹姆斯·沃克",
+      "特里特·威廉斯",
+      "多米尼克·斯科特·凯伊",
+      "莎拉·德鲁",
+      "凯瑟琳·约克"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p628364149.jpg",
+    "id": "4798888",
+    "cover_y": 3151
+  },
+  {
+    "directors": [
+      "布莱恩·菲"
+    ],
+    "rate": "7.0",
+    "cover_x": 984,
+    "star": "35",
+    "title": "赛车总动员3：极速挑战",
+    "url": "https://movie.douban.com/subject/25849480/",
+    "casts": [
+      "欧文·威尔逊",
+      "克里斯黛拉·阿朗索",
+      "克里斯·库珀",
+      "内森·菲利安",
+      "王牌接线员拉里"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2492869476.jpg",
+    "id": "25849480",
+    "cover_y": 1378
+  },
+  {
+    "directors": [
+      "李海准",
+      "金丙书"
+    ],
+    "rate": "6.4",
+    "cover_x": 1187,
+    "star": "30",
+    "title": "白头山",
+    "url": "https://movie.douban.com/subject/30200087/",
+    "casts": [
+      "李秉宪",
+      "河正宇",
+      "马东锡",
+      "全慧珍",
+      "裴秀智"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575684177.jpg",
+    "id": "30200087",
+    "cover_y": 1701
+  },
+  {
+    "directors": [
+      "迪安·德夫林"
+    ],
+    "rate": "6.0",
+    "cover_x": 3440,
+    "star": "30",
+    "title": "全球风暴",
+    "url": "https://movie.douban.com/subject/22266012/",
+    "casts": [
+      "杰拉德·巴特勒",
+      "吉姆·斯特吉斯",
+      "艾比·考尼什",
+      "亚历山德拉·玛丽亚·拉娜",
+      "吴彦祖"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501769525.jpg",
+    "id": "22266012",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "马克·伯顿",
+      "理查德·斯塔扎克"
+    ],
+    "rate": "8.4",
+    "cover_x": 2000,
+    "star": "40",
+    "title": "小羊肖恩",
+    "url": "https://movie.douban.com/subject/24397586/",
+    "casts": [
+      "贾斯汀·弗莱彻",
+      "约翰·斯帕克斯",
+      "欧米德·吉亚李利",
+      "理查德·韦伯",
+      "凯特·哈伯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2249261202.jpg",
+    "id": "24397586",
+    "cover_y": 2893
+  },
+  {
+    "directors": [
+      "克里斯·桑德斯",
+      "迪恩·德布洛斯"
+    ],
+    "rate": "8.3",
+    "cover_x": 674,
+    "star": "40",
+    "title": "星际宝贝",
+    "url": "https://movie.douban.com/subject/1307547/",
+    "casts": [
+      "黛维·切斯",
+      "克里斯·桑德斯",
+      "蒂亚·卡雷尔",
+      "戴维·奥格登·施蒂尔斯",
+      "凯文·麦克唐纳德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510798502.jpg",
+    "id": "1307547",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "乔治·卢卡斯"
+    ],
+    "rate": "8.2",
+    "cover_x": 1230,
+    "star": "40",
+    "title": "星球大战前传1：幽灵的威胁",
+    "url": "https://movie.douban.com/subject/1294362/",
+    "casts": [
+      "连姆·尼森",
+      "伊万·麦克格雷格",
+      "娜塔莉·波特曼",
+      "杰克·洛伊德",
+      "伊恩·麦克迪阿梅德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2308392633.jpg",
+    "id": "1294362",
+    "cover_y": 1845
+  },
+  {
+    "directors": [
+      "沈严"
+    ],
+    "rate": "6.3",
+    "cover_x": 950,
+    "star": "30",
+    "title": "我的前半生",
+    "url": "https://movie.douban.com/subject/26358696/",
+    "casts": [
+      "靳东",
+      "马伊琍",
+      "袁泉",
+      "雷佳音",
+      "吴越"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2478928137.jpg",
+    "id": "26358696",
+    "cover_y": 1356
+  },
+  {
+    "directors": [
+      "姚译添"
+    ],
+    "rate": "5.6",
+    "cover_x": 750,
+    "star": "30",
+    "title": "奔跑吧 第二季",
+    "url": "https://movie.douban.com/subject/30156227/",
+    "casts": [
+      "邓超",
+      "李晨",
+      "陈赫",
+      "郑恺",
+      "王祖蓝"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519364278.jpg",
+    "id": "30156227",
+    "cover_y": 1086
+  },
+  {
+    "directors": [
+      "奉俊昊"
+    ],
+    "rate": "8.3",
+    "cover_x": 1457,
+    "star": "40",
+    "title": "母亲",
+    "url": "https://movie.douban.com/subject/3036460/",
+    "casts": [
+      "金惠子",
+      "元斌",
+      "晋久",
+      "尹宰文",
+      "全美善"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1518748581.jpg",
+    "id": "3036460",
+    "cover_y": 2086
+  },
+  {
+    "directors": [
+      "杨军"
+    ],
+    "rate": "7.8",
+    "cover_x": 639,
+    "star": "40",
+    "title": "穿越时空的爱恋",
+    "url": "https://movie.douban.com/subject/2229479/",
+    "casts": [
+      "张庭",
+      "徐峥",
+      "万弘杰",
+      "刘莉莉",
+      "孙宝光"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2456120160.jpg",
+    "id": "2229479",
+    "cover_y": 1157
+  },
+  {
+    "directors": [
+      "黄建新",
+      "杨亚洲"
+    ],
+    "rate": "9.4",
+    "cover_x": 400,
+    "star": "45",
+    "title": "背靠背，脸对脸",
+    "url": "https://movie.douban.com/subject/1307856/",
+    "casts": [
+      "牛振华",
+      "雷恪生",
+      "李强",
+      "句号",
+      "王劲松"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512625908.jpg",
+    "id": "1307856",
+    "cover_y": 560
+  },
+  {
+    "directors": [
+      "安东尼·明格拉"
+    ],
+    "rate": "8.2",
+    "cover_x": 1022,
+    "star": "40",
+    "title": "天才瑞普利",
+    "url": "https://movie.douban.com/subject/1295045/",
+    "casts": [
+      "马特·达蒙",
+      "格温妮斯·帕特洛",
+      "裘德·洛",
+      "凯特·布兰切特",
+      "菲利普·塞默·霍夫曼"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1915065575.jpg",
+    "id": "1295045",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "盖瑞·马歇尔"
+    ],
+    "rate": "6.9",
+    "cover_x": 675,
+    "star": "35",
+    "title": "公主日记2",
+    "url": "https://movie.douban.com/subject/1308753/",
+    "casts": [
+      "安妮·海瑟薇",
+      "朱莉·安德鲁斯",
+      "克里斯·派恩",
+      "埃克托尔·埃利松多",
+      "约翰·瑞斯-戴维斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p812852241.jpg",
+    "id": "1308753",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "蔡岳勋"
+    ],
+    "rate": "8.2",
+    "cover_x": 500,
+    "star": "40",
+    "title": "流星花园",
+    "url": "https://movie.douban.com/subject/2978224/",
+    "casts": [
+      "徐熙媛",
+      "言承旭",
+      "周渝民",
+      "朱孝天",
+      "吴建豪"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p622968363.jpg",
+    "id": "2978224",
+    "cover_y": 679
+  },
+  {
+    "directors": [
+      "加里·哈勒沃尔森",
+      "凯文·布莱特",
+      "大卫·休默",
+      "罗杰·克里斯琴森"
+    ],
+    "rate": "9.8",
+    "cover_x": 1170,
+    "star": "50",
+    "title": "老友记 第十季",
+    "url": "https://movie.douban.com/subject/3286552/",
+    "casts": [
+      "詹妮弗·安妮斯顿",
+      "柯特妮·考克斯",
+      "丽莎·库卓",
+      "马特·勒布朗",
+      "马修·派瑞"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2187822907.jpg",
+    "id": "3286552",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "马克·森卓斯基",
+      "彼得·查克斯"
+    ],
+    "rate": "9.2",
+    "cover_x": 1330,
+    "star": "45",
+    "title": "生活大爆炸 第七季",
+    "url": "https://movie.douban.com/subject/21339708/",
+    "casts": [
+      "约翰尼·盖尔克奇",
+      "吉姆·帕森斯",
+      "凯莉·库柯",
+      "西蒙·赫尔伯格",
+      "昆瑙·内亚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2152929743.jpg",
+    "id": "21339708",
+    "cover_y": 1721
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "8.7",
+    "cover_x": 600,
+    "star": "45",
+    "title": "枪火",
+    "url": "https://movie.douban.com/subject/1300741/",
+    "casts": [
+      "吴镇宇",
+      "任达华",
+      "黄秋生",
+      "吕颂贤",
+      "张耀扬"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1538646661.jpg",
+    "id": "1300741",
+    "cover_y": 763
+  },
+  {
+    "directors": [
+      "董易"
+    ],
+    "rate": "7.9",
+    "cover_x": 2480,
+    "star": "40",
+    "title": "百妖谱",
+    "url": "https://movie.douban.com/subject/30409801/",
+    "casts": [
+      "赵小双",
+      "常蓉珊",
+      "曹云图",
+      "涂小鸦",
+      "李兰陵"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2602726278.jpg",
+    "id": "30409801",
+    "cover_y": 3508
+  },
+  {
+    "directors": [
+      "刘璋牧"
+    ],
+    "rate": "6.1",
+    "cover_x": 1080,
+    "star": "30",
+    "title": "痕迹",
+    "url": "https://movie.douban.com/subject/33385793/",
+    "casts": [
+      "徐正溪",
+      "姚笛",
+      "王新",
+      "高煜霏",
+      "张钧然"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2608228659.jpg",
+    "id": "33385793",
+    "cover_y": 1532
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "directors": [
+      "吴梦知",
+      "晏吉"
+    ],
+    "rate": "7.7",
+    "cover_x": 1080,
+    "star": "40",
+    "title": "乘风破浪的姐姐",
+    "url": "https://movie.douban.com/subject/34894589/",
+    "casts": [
+      "宁静",
+      "张雨绮",
+      "黄圣依",
+      "伊能静",
+      "万茜"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2608297477.jpg",
+    "id": "34894589",
+    "cover_y": 1556
+  },
+  {
+    "directors": [
+      "斯蒂芬·加汉"
+    ],
+    "rate": "5.8",
+    "cover_x": 4500,
+    "star": "30",
+    "title": "多力特的奇幻冒险",
+    "url": "https://movie.douban.com/subject/27000981/",
+    "casts": [
+      "小罗伯特·唐尼",
+      "汤姆·赫兰德",
+      "拉米·马雷克",
+      "麦克·辛",
+      "杰西·巴克利"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614594787.jpg",
+    "id": "27000981",
+    "cover_y": 7134
+  },
+  {
+    "directors": [
+      "雷德利·斯科特"
+    ],
+    "rate": "8.5",
+    "cover_x": 1200,
+    "star": "45",
+    "title": "火星救援",
+    "url": "https://movie.douban.com/subject/25864085/",
+    "casts": [
+      "马特·达蒙",
+      "杰西卡·查斯坦",
+      "克里斯汀·韦格",
+      "杰夫·丹尼尔斯",
+      "迈克尔·佩纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2280097442.jpg",
+    "id": "25864085",
+    "cover_y": 1809
+  },
+  {
+    "directors": [
+      "陈国富"
+    ],
+    "rate": "7.6",
+    "cover_x": 400,
+    "star": "40",
+    "title": "双瞳",
+    "url": "https://movie.douban.com/subject/1305046/",
+    "casts": [
+      "梁家辉",
+      "刘若英",
+      "戴立忍",
+      "大卫·摩斯",
+      "杨贵媚"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2185662998.jpg",
+    "id": "1305046",
+    "cover_y": 569
+  },
+  {
+    "directors": [
+      "大卫·叶茨"
+    ],
+    "rate": "8.3",
+    "cover_x": 2633,
+    "star": "40",
+    "title": "哈利·波特与死亡圣器(上)",
+    "url": "https://movie.douban.com/subject/2051007/",
+    "casts": [
+      "丹尼尔·雷德克里夫",
+      "艾玛·沃森",
+      "鲁伯特·格林特",
+      "海伦娜·伯翰·卡特",
+      "拉尔夫·费因斯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p721429854.jpg",
+    "id": "2051007",
+    "cover_y": 3900
+  },
+  {
+    "directors": [
+      "金秉祐"
+    ],
+    "rate": "8.8",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "恐怖直播",
+    "url": "https://movie.douban.com/subject/21360417/",
+    "casts": [
+      "河正宇",
+      "李璟荣",
+      "全慧珍",
+      "李大卫",
+      "金弘波"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg",
+    "id": "21360417",
+    "cover_y": 1433
+  },
+  {
+    "directors": [
+      "梅尔·吉布森"
+    ],
+    "rate": "8.7",
+    "cover_x": 1417,
+    "star": "45",
+    "title": "血战钢锯岭",
+    "url": "https://movie.douban.com/subject/26325320/",
+    "casts": [
+      "安德鲁·加菲尔德",
+      "萨姆·沃辛顿",
+      "文斯·沃恩",
+      "雨果·维文",
+      "卢克·布雷西"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg",
+    "id": "26325320",
+    "cover_y": 2076
+  },
+  {
+    "directors": [
+      "大卫·叶茨"
+    ],
+    "rate": "8.0",
+    "cover_x": 3244,
+    "star": "40",
+    "title": "哈利·波特与混血王子",
+    "url": "https://movie.douban.com/subject/1433330/",
+    "casts": [
+      "丹尼尔·雷德克里夫",
+      "迈克尔·刚本",
+      "大卫·勒格诺",
+      "埃拉丽卡·加拉切",
+      "吉姆·布劳德本特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1108070214.jpg",
+    "id": "1433330",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "乔恩·费儒"
+    ],
+    "rate": "7.6",
+    "cover_x": 2290,
+    "star": "40",
+    "title": "钢铁侠2",
+    "url": "https://movie.douban.com/subject/3066739/",
+    "casts": [
+      "小罗伯特·唐尼",
+      "格温妮斯·帕特洛",
+      "米基·洛克",
+      "斯嘉丽·约翰逊",
+      "山姆·洛克威尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p451885601.jpg",
+    "id": "3066739",
+    "cover_y": 3198
+  },
+  {
+    "directors": [
+      "李安"
+    ],
+    "rate": "8.5",
+    "cover_x": 1051,
+    "star": "45",
+    "title": "色，戒",
+    "url": "https://movie.douban.com/subject/1828115/",
+    "casts": [
+      "梁朝伟",
+      "汤唯",
+      "陈冲",
+      "王力宏",
+      "庹宗华"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453716305.jpg",
+    "id": "1828115",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "乔·沃茨"
+    ],
+    "rate": "7.4",
+    "cover_x": 703,
+    "star": "35",
+    "title": "蜘蛛侠：英雄归来",
+    "url": "https://movie.douban.com/subject/24753477/",
+    "casts": [
+      "汤姆·赫兰德",
+      "小罗伯特·唐尼",
+      "玛丽莎·托梅",
+      "迈克尔·基顿",
+      "雅各布·巴特朗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497756471.jpg",
+    "id": "24753477",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "林超贤"
+    ],
+    "rate": "8.0",
+    "cover_x": 1429,
+    "star": "40",
+    "title": "湄公河行动",
+    "url": "https://movie.douban.com/subject/25815034/",
+    "casts": [
+      "张涵予",
+      "彭于晏",
+      "孙淳",
+      "陈宝国",
+      "冯文娟"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2380677316.jpg",
+    "id": "25815034",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "吕行"
+    ],
+    "rate": "8.2",
+    "cover_x": 877,
+    "star": "40",
+    "title": "无证之罪",
+    "url": "https://movie.douban.com/subject/26930540/",
+    "casts": [
+      "秦昊",
+      "邓家佳",
+      "姚橹",
+      "代旭",
+      "王真儿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497732763.jpg",
+    "id": "26930540",
+    "cover_y": 1279
+  },
+  {
+    "directors": [
+      "大卫·芬奇"
+    ],
+    "rate": "8.9",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "本杰明·巴顿奇事",
+    "url": "https://movie.douban.com/subject/1485260/",
+    "casts": [
+      "凯特·布兰切特",
+      "布拉德·皮特",
+      "朱莉娅·奥蒙德",
+      "芳妮·A·钱勃丝",
+      "伊莱亚斯·科泰斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg",
+    "id": "1485260",
+    "cover_y": 1545
+  },
+  {
+    "directors": [
+      "奥利维埃·纳卡什",
+      "埃里克·托莱达诺"
+    ],
+    "rate": "9.2",
+    "cover_x": 2181,
+    "star": "45",
+    "title": "触不可及",
+    "url": "https://movie.douban.com/subject/6786002/",
+    "casts": [
+      "弗朗索瓦·克鲁塞",
+      "奥玛·希",
+      "安娜·勒尼",
+      "奥德雷·弗勒罗",
+      "托马·索利韦尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+    "id": "6786002",
+    "cover_y": 3120
+  },
+  {
+    "directors": [
+      "徐峥"
+    ],
+    "rate": "7.4",
+    "cover_x": 4134,
+    "star": "35",
+    "title": "人再囧途之泰囧",
+    "url": "https://movie.douban.com/subject/10574622/",
+    "casts": [
+      "徐峥",
+      "王宝强",
+      "黄渤",
+      "陶虹",
+      "谢楠"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1793720172.jpg",
+    "id": "10574622",
+    "cover_y": 5906
+  },
+  {
+    "directors": [
+      "迪恩·德布洛斯",
+      "克里斯·桑德斯"
+    ],
+    "rate": "8.7",
+    "cover_x": 1290,
+    "star": "45",
+    "title": "驯龙高手",
+    "url": "https://movie.douban.com/subject/2353023/",
+    "casts": [
+      "杰伊·巴鲁切尔",
+      "杰拉德·巴特勒",
+      "克雷格·费格森",
+      "亚美莉卡·费雷拉",
+      "乔纳·希尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2210954024.jpg",
+    "id": "2353023",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "克里斯托弗·诺兰"
+    ],
+    "rate": "8.4",
+    "cover_x": 3500,
+    "star": "40",
+    "title": "敦刻尔克",
+    "url": "https://movie.douban.com/subject/26607693/",
+    "casts": [
+      "菲恩·怀特海德",
+      "汤姆·格林-卡尼",
+      "杰克·劳登",
+      "哈里·斯泰尔斯",
+      "阿奈林·巴纳德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494950714.jpg",
+    "id": "26607693",
+    "cover_y": 5155
+  },
+  {
+    "directors": [
+      "卡比尔·汗"
+    ],
+    "rate": "8.4",
+    "cover_x": 698,
+    "star": "40",
+    "title": "小萝莉的猴神大叔",
+    "url": "https://movie.douban.com/subject/26393561/",
+    "casts": [
+      "萨尔曼·汗",
+      "哈莎莉·马洛特拉",
+      "卡琳娜·卡普尔",
+      "纳瓦祖丁·席迪圭",
+      "欧姆·普瑞"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.jpg",
+    "id": "26393561",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "岩井俊二"
+    ],
+    "rate": "8.9",
+    "cover_x": 510,
+    "star": "45",
+    "title": "情书",
+    "url": "https://movie.douban.com/subject/1292220/",
+    "casts": [
+      "中山美穗",
+      "丰川悦司",
+      "酒井美纪",
+      "柏原崇",
+      "范文雀"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg",
+    "id": "1292220",
+    "cover_y": 723
+  }
+]

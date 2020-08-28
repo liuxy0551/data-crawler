@@ -1,0 +1,403 @@
+[
+  {
+    "directors": [
+      "周可"
+    ],
+    "rate": "5.4",
+    "cover_x": 1786,
+    "star": "25",
+    "title": "保持沉默",
+    "url": "https://movie.douban.com/subject/26331839/",
+    "casts": [
+      "周迅",
+      "吴镇宇",
+      "祖峰",
+      "孙睿",
+      "寇家瑞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565877341.jpg",
+    "id": "26331839",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "郭大雷"
+    ],
+    "rate": "5.2",
+    "cover_x": 714,
+    "star": "25",
+    "title": "女汉子真爱公式",
+    "url": "https://movie.douban.com/subject/26345736/",
+    "casts": [
+      "赵丽颖",
+      "张翰",
+      "童飞",
+      "丁一宇",
+      "涂世旻"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2324372895.jpg",
+    "id": "26345736",
+    "cover_y": 1000
+  },
+  {
+    "directors": [
+      "卡罗尔·巴拉德"
+    ],
+    "rate": "8.9",
+    "cover_x": 1008,
+    "star": "45",
+    "title": "伴你高飞",
+    "url": "https://movie.douban.com/subject/1292642/",
+    "casts": [
+      "安娜·帕奎因",
+      "杰夫·丹尼尔斯",
+      "达娜·德拉尼",
+      "特里·金尼",
+      "霍尔特·格拉汉姆"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1378705974.jpg",
+    "id": "1292642",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "易军"
+    ],
+    "rate": "7.2",
+    "cover_x": 2048,
+    "star": "35",
+    "title": "媚者无疆",
+    "url": "https://movie.douban.com/subject/27089387/",
+    "casts": [
+      "李一桐",
+      "屈楚萧",
+      "汪铎",
+      "李子峰",
+      "郭雪芙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527086138.jpg",
+    "id": "27089387",
+    "cover_y": 3196
+  },
+  {
+    "directors": [
+      "棚田由纪"
+    ],
+    "rate": "8.7",
+    "cover_x": 2842,
+    "star": "45",
+    "title": "东京女子图鉴",
+    "url": "https://movie.douban.com/subject/26921674/",
+    "casts": [
+      "水川麻美",
+      "阿部力",
+      "阳月华",
+      "山本亚依",
+      "夏子"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2445723847.jpg",
+    "id": "26921674",
+    "cover_y": 4027
+  },
+  {
+    "directors": [
+      "北野武"
+    ],
+    "rate": "8.5",
+    "cover_x": 500,
+    "star": "45",
+    "title": "坏孩子的天空",
+    "url": "https://movie.douban.com/subject/1299062/",
+    "casts": [
+      "金子贤",
+      "安藤政信",
+      "森本治行",
+      "山谷初男",
+      "大家由祐子"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2197513152.jpg",
+    "id": "1299062",
+    "cover_y": 650
+  },
+  {
+    "directors": [
+      "迈克尔·肖沃特"
+    ],
+    "rate": "5.9",
+    "cover_x": 1953,
+    "star": "30",
+    "title": "爱情鸟的自救",
+    "url": "https://movie.douban.com/subject/30435840/",
+    "casts": [
+      "库梅尔·南贾尼",
+      "伊萨·雷",
+      "安娜·坎普",
+      "保罗·斯帕克斯",
+      "凯尔·柏海莫"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2581065467.jpg",
+    "id": "30435840",
+    "cover_y": 2887
+  },
+  {
+    "directors": [
+      "高希希"
+    ],
+    "rate": "4.8",
+    "cover_x": 2000,
+    "star": "25",
+    "title": "露水红颜",
+    "url": "https://movie.douban.com/subject/25831308/",
+    "casts": [
+      "刘亦菲",
+      "郑智薰",
+      "王学兵",
+      "陈冲",
+      "邵峰"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205519937.jpg",
+    "id": "25831308",
+    "cover_y": 2790
+  },
+  {
+    "directors": [
+      "James Alan Hensz"
+    ],
+    "rate": "9.4",
+    "cover_x": 1535,
+    "star": "45",
+    "title": "摩登家庭 第七季",
+    "url": "https://movie.douban.com/subject/26385630/",
+    "casts": [
+      "艾德·奥尼尔",
+      "索菲娅·维加拉",
+      "朱丽·鲍温",
+      "泰·布利尔",
+      "杰西·泰勒·弗格森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266517563.jpg",
+    "id": "26385630",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "罗伯·莱纳"
+    ],
+    "rate": "8.9",
+    "cover_x": 400,
+    "star": "45",
+    "title": "伴我同行",
+    "url": "https://movie.douban.com/subject/1292925/",
+    "casts": [
+      "瑞凡·菲尼克斯",
+      "威尔·惠顿",
+      "科里·费尔德曼",
+      "杰瑞·奥康奈尔",
+      "约翰·库萨克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1979379460.jpg",
+    "id": "1292925",
+    "cover_y": 600
+  },
+  {
+    "directors": [
+      "史蒂文·索德伯格"
+    ],
+    "rate": "8.4",
+    "cover_x": 510,
+    "star": "40",
+    "title": "永不妥协",
+    "url": "https://movie.douban.com/subject/1293050/",
+    "casts": [
+      "朱莉娅·罗伯茨",
+      "阿尔伯特·芬尼",
+      "康查塔·费雷尔",
+      "艾伦·艾克哈特",
+      "玛格·海根柏格"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p643400568.jpg",
+    "id": "1293050",
+    "cover_y": 755
+  },
+  {
+    "directors": [
+      "全昌根"
+    ],
+    "rate": "8.1",
+    "cover_x": 1200,
+    "star": "40",
+    "title": "双甲路边摊",
+    "url": "https://movie.douban.com/subject/34334385/",
+    "casts": [
+      "黄正音",
+      "陆星材",
+      "崔元英",
+      "李俊赫",
+      "多恩"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2601259776.jpg",
+    "id": "34334385",
+    "cover_y": 1710
+  },
+  {
+    "directors": [
+      "钱永强"
+    ],
+    "rate": "7.4",
+    "cover_x": 580,
+    "star": "35",
+    "title": "新天龙八部之天山童姥",
+    "url": "https://movie.douban.com/subject/1297517/",
+    "casts": [
+      "林青霞",
+      "巩俐",
+      "张敏",
+      "林文龙",
+      "徐少强"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2168076509.jpg",
+    "id": "1297517",
+    "cover_y": 773
+  },
+  {
+    "directors": [
+      "佐米·希尔拉"
+    ],
+    "rate": "7.1",
+    "cover_x": 6846,
+    "star": "35",
+    "title": "鲨滩",
+    "url": "https://movie.douban.com/subject/26000205/",
+    "casts": [
+      "布蕾克·莱弗利",
+      "奥斯卡·贾恩那达",
+      "布莱特·卡伦",
+      "塞多娜·莱格"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2376093772.jpg",
+    "id": "26000205",
+    "cover_y": 9743
+  },
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "7.1",
+    "cover_x": 2025,
+    "star": "35",
+    "title": "夺宝奇兵4",
+    "url": "https://movie.douban.com/subject/1428051/",
+    "casts": [
+      "哈里森·福特",
+      "希亚·拉博夫",
+      "凯特·布兰切特",
+      "凯伦·阿兰",
+      "雷·温斯顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1703349212.jpg",
+    "id": "1428051",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "丹·特拉亨伯格"
+    ],
+    "rate": "6.9",
+    "cover_x": 1730,
+    "star": "35",
+    "title": "科洛弗道10号",
+    "url": "https://movie.douban.com/subject/2977957/",
+    "casts": [
+      "约翰·古德曼",
+      "玛丽·伊丽莎白·温斯特德",
+      "小约翰·加拉赫",
+      "布莱德利·库珀",
+      "道格拉斯·M·格里芬"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2310097289.jpg",
+    "id": "2977957",
+    "cover_y": 2563
+  },
+  {
+    "directors": [
+      "詹姆斯·德莫纳克"
+    ],
+    "rate": "6.4",
+    "cover_x": 2362,
+    "star": "30",
+    "title": "人类清除计划2：无政府状态",
+    "url": "https://movie.douban.com/subject/25775571/",
+    "casts": [
+      "弗兰克·格里罗",
+      "卡门·艾乔戈",
+      "扎克·吉尔福德",
+      "基拉·桑切斯",
+      "贾斯蒂娜·马查多"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2205028302.jpg",
+    "id": "25775571",
+    "cover_y": 3374
+  },
+  {
+    "directors": [
+      "杨文军",
+      "谢泽",
+      "李才"
+    ],
+    "rate": "4.7",
+    "cover_x": 1878,
+    "star": "25",
+    "title": "扶摇",
+    "url": "https://movie.douban.com/subject/26640097/",
+    "casts": [
+      "杨幂",
+      "阮经天",
+      "刘奕君",
+      "王劲松",
+      "高伟光"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500515153.jpg",
+    "id": "26640097",
+    "cover_y": 3134
+  },
+  {
+    "directors": [
+      "山下宏幸"
+    ],
+    "rate": "8.3",
+    "cover_x": 640,
+    "star": "40",
+    "title": "火影忍者剧场版：博人传",
+    "url": "https://movie.douban.com/subject/26282448/",
+    "casts": [
+      "三瓶由布子",
+      "菊池心",
+      "木岛隆一",
+      "竹内顺子",
+      "中村千绘"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2251539632.jpg",
+    "id": "26282448",
+    "cover_y": 895
+  },
+  {
+    "directors": [
+      "皮埃尔·莫瑞尔"
+    ],
+    "rate": "8.0",
+    "cover_x": 550,
+    "star": "40",
+    "title": "暴力街区",
+    "url": "https://movie.douban.com/subject/1292326/",
+    "casts": [
+      "塞瑞尔·拉菲利",
+      "大卫·贝利",
+      "毕比·纳西利",
+      "丹妮·沃瑞西莫",
+      "萨米尔·盖丝米"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p642981690.jpg",
+    "id": "1292326",
+    "cover_y": 733
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "directors": [
+      "布拉德·佩顿"
+    ],
+    "rate": "7.0",
+    "cover_x": 4465,
+    "star": "35",
+    "title": "末日崩塌",
+    "url": "https://movie.douban.com/subject/25786077/",
+    "casts": [
+      "道恩·强森",
+      "亚历珊德拉·达达里奥",
+      "卡拉·古奇诺",
+      "雨果·约翰斯通-伯特",
+      "雅奇·潘嘉比"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2247341513.jpg",
+    "id": "25786077",
+    "cover_y": 6354
+  },
+  {
+    "directors": [
+      "彭浩翔"
+    ],
+    "rate": "7.1",
+    "cover_x": 1071,
+    "star": "35",
+    "title": "春娇救志明",
+    "url": "https://movie.douban.com/subject/26639958/",
+    "casts": [
+      "余文乐",
+      "杨千嬅",
+      "蒋梦婕",
+      "曾国祥",
+      "秦沛"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2456056900.jpg",
+    "id": "26639958",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "8.3",
+    "cover_x": 799,
+    "star": "40",
+    "title": "甲方乙方",
+    "url": "https://movie.douban.com/subject/1303173/",
+    "casts": [
+      "葛优",
+      "刘蓓",
+      "何冰",
+      "冯小刚",
+      "英达"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2436823425.jpg",
+    "id": "1303173",
+    "cover_y": 1200
+  },
+  {
+    "directors": [
+      "郭柯"
+    ],
+    "rate": "9.4",
+    "cover_x": 564,
+    "star": "45",
+    "title": "三十二",
+    "url": "https://movie.douban.com/subject/26236632/",
+    "casts": [
+      "韦绍兰",
+      "罗善学"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2335693756.jpg",
+    "id": "26236632",
+    "cover_y": 882
+  },
+  {
+    "directors": [
+      "朴勋政"
+    ],
+    "rate": "7.6",
+    "cover_x": 1500,
+    "star": "40",
+    "title": "魔女",
+    "url": "https://movie.douban.com/subject/26602900/",
+    "casts": [
+      "金多美",
+      "赵敏修",
+      "朴熙顺",
+      "崔宇植",
+      "高敏诗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2524056711.jpg",
+    "id": "26602900",
+    "cover_y": 2145
+  },
+  {
+    "directors": [
+      "佐藤信介"
+    ],
+    "rate": "6.4",
+    "cover_x": 1454,
+    "star": "30",
+    "title": "王者天下",
+    "url": "https://movie.douban.com/subject/27611498/",
+    "casts": [
+      "山崎贤人",
+      "吉泽亮",
+      "长泽雅美",
+      "桥本环奈",
+      "本乡奏多"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548852197.jpg",
+    "id": "27611498",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "安德鲁·亚当森",
+      "维基·詹森"
+    ],
+    "rate": "7.9",
+    "cover_x": 674,
+    "star": "40",
+    "title": "怪物史瑞克",
+    "url": "https://movie.douban.com/subject/1291581/",
+    "casts": [
+      "麦克·梅尔斯",
+      "艾迪·墨菲",
+      "卡梅隆·迪亚兹",
+      "约翰·利思戈",
+      "文森特·卡索"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910896706.jpg",
+    "id": "1291581",
+    "cover_y": 996
+  },
+  {
+    "directors": [],
+    "rate": "6.8",
+    "cover_x": 1080,
+    "star": "35",
+    "title": "跨界歌王 第五季",
+    "url": "https://movie.douban.com/subject/35120735/",
+    "casts": [
+      "秦海璐",
+      "李小萌",
+      "王凯",
+      "小沈阳",
+      "郑恺"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2611677679.jpg",
+    "id": "35120735",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "徐静蕾"
+    ],
+    "rate": "4.9",
+    "cover_x": 1200,
+    "star": "25",
+    "title": "有一个地方只有我们知道",
+    "url": "https://movie.douban.com/subject/25858759/",
+    "casts": [
+      "吴亦凡",
+      "王丽坤",
+      "徐静蕾",
+      "戈登·亚历山大",
+      "丛珊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2223068290.jpg",
+    "id": "25858759",
+    "cover_y": 1714
+  },
+  {
+    "directors": [
+      "柳济元"
+    ],
+    "rate": "8.2",
+    "cover_x": 700,
+    "star": "40",
+    "title": "哦我的鬼神大人",
+    "url": "https://movie.douban.com/subject/26367601/",
+    "casts": [
+      "朴宝英",
+      "曹政奭",
+      "金瑟祺",
+      "郭时旸",
+      "林周焕"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2250194439.jpg",
+    "id": "26367601",
+    "cover_y": 1023
+  },
+  {
+    "directors": [
+      "管虎"
+    ],
+    "rate": "7.8",
+    "cover_x": 8858,
+    "star": "40",
+    "title": "杀生",
+    "url": "https://movie.douban.com/subject/4176542/",
+    "casts": [
+      "黄渤",
+      "任达华",
+      "余男",
+      "苏有朋",
+      "马精武"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1513799776.jpg",
+    "id": "4176542",
+    "cover_y": 12402
+  },
+  {
+    "directors": [
+      "泰勒·海克福德"
+    ],
+    "rate": "8.3",
+    "cover_x": 1400,
+    "star": "40",
+    "title": "魔鬼代言人",
+    "url": "https://movie.douban.com/subject/1298909/",
+    "casts": [
+      "基努·里维斯",
+      "阿尔·帕西诺",
+      "查理兹·塞隆",
+      "杰弗瑞·琼斯",
+      "朱迪思·爱薇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2453505560.jpg",
+    "id": "1298909",
+    "cover_y": 2100
+  },
+  {
+    "directors": [
+      "迈克尔·斯洛维斯",
+      "马克·米罗",
+      "杰雷米·波德斯瓦",
+      "米格尔·萨普什尼克",
+      "大卫·纳特"
+    ],
+    "rate": "9.3",
+    "cover_x": 5076,
+    "star": "45",
+    "title": "权力的游戏 第五季",
+    "url": "https://movie.douban.com/subject/25826612/",
+    "casts": [
+      "艾米莉亚·克拉克",
+      "彼特·丁拉基",
+      "基特·哈灵顿",
+      "琳娜·海蒂",
+      "尼古拉·科斯特-瓦尔道"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2230256732.jpg",
+    "id": "25826612",
+    "cover_y": 7520
+  },
+  {
+    "directors": [
+      "尹钟彬"
+    ],
+    "rate": "8.6",
+    "cover_x": 690,
+    "star": "45",
+    "title": "特工",
+    "url": "https://movie.douban.com/subject/26683421/",
+    "casts": [
+      "黄政民",
+      "李星民",
+      "赵震雄",
+      "朱智勋",
+      "朴圣雄"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528281606.jpg",
+    "id": "26683421",
+    "cover_y": 986
+  },
+  {
+    "directors": [
+      "束焕",
+      "邵丹"
+    ],
+    "rate": "5.4",
+    "cover_x": 2000,
+    "star": "25",
+    "title": "鼠胆英雄",
+    "url": "https://movie.douban.com/subject/27073057/",
+    "casts": [
+      "岳云鹏",
+      "佟丽娅",
+      "田雨",
+      "袁弘",
+      "韩童生"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564458983.jpg",
+    "id": "27073057",
+    "cover_y": 2758
+  },
+  {
+    "directors": [
+      "彼得·勒文"
+    ],
+    "rate": "8.1",
+    "cover_x": 1280,
+    "star": "40",
+    "title": "风雨哈佛路",
+    "url": "https://movie.douban.com/subject/1433990/",
+    "casts": [
+      "索拉·伯奇",
+      "凯莉·林奇",
+      "艾伦·佩吉",
+      "迈克尔·莱利",
+      "玛克拉·史密斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575910688.jpg",
+    "id": "1433990",
+    "cover_y": 1918
+  },
+  {
+    "directors": [
+      "布莱克·爱德华兹"
+    ],
+    "rate": "8.1",
+    "cover_x": 1808,
+    "star": "40",
+    "title": "蒂凡尼的早餐",
+    "url": "https://movie.douban.com/subject/1325958/",
+    "casts": [
+      "奥黛丽·赫本",
+      "乔治·佩帕德",
+      "帕德里夏·妮尔",
+      "巴迪·艾布森",
+      "马丁·鲍尔萨姆"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1114467603.jpg",
+    "id": "1325958",
+    "cover_y": 2760
+  },
+  {
+    "directors": [
+      "夏目真悟",
+      "吉泽俊一",
+      "牛岛新一郎",
+      "山冈实",
+      "久木晃嗣",
+      "八田洋介",
+      "武藤信宏"
+    ],
+    "rate": "9.4",
+    "cover_x": 640,
+    "star": "45",
+    "title": "一拳超人",
+    "url": "https://movie.douban.com/subject/26339248/",
+    "casts": [
+      "古川慎",
+      "石川界人",
+      "梶裕贵",
+      "悠木碧",
+      "中村悠一"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2265301781.jpg",
+    "id": "26339248",
+    "cover_y": 911
+  },
+  {
+    "directors": [
+      "姜伟",
+      "付玮"
+    ],
+    "rate": "9.3",
+    "cover_x": 1134,
+    "star": "45",
+    "title": "潜伏",
+    "url": "https://movie.douban.com/subject/3314870/",
+    "casts": [
+      "孙红雷",
+      "姚晨",
+      "沈傲君",
+      "祖峰",
+      "冯恩鹤"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189694504.jpg",
+    "id": "3314870",
+    "cover_y": 1531
+  },
+  {
+    "directors": [
+      "成龙"
+    ],
+    "rate": "8.0",
+    "cover_x": 950,
+    "star": "40",
+    "title": "A计划",
+    "url": "https://movie.douban.com/subject/1297909/",
+    "casts": [
+      "成龙",
+      "洪金宝",
+      "元彪",
+      "黄曼凝",
+      "狄威"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p945210238.jpg",
+    "id": "1297909",
+    "cover_y": 1429
+  }
+]

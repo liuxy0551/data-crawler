@@ -1,0 +1,398 @@
+[
+  {
+    "directors": [
+      "秋昌旼",
+      "孙昌敏"
+    ],
+    "rate": "9.0",
+    "cover_x": 1343,
+    "star": "45",
+    "title": "我爱你",
+    "url": "https://movie.douban.com/subject/5908478/",
+    "casts": [
+      "宋在浩",
+      "李顺载",
+      "尹秀晶",
+      "金秀美",
+      "宋智孝"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg",
+    "id": "5908478",
+    "cover_y": 1913
+  },
+  {
+    "directors": [
+      "彭浩翔"
+    ],
+    "rate": "5.7",
+    "cover_x": 5984,
+    "star": "30",
+    "title": "撒娇女人最好命",
+    "url": "https://movie.douban.com/subject/4881607/",
+    "casts": [
+      "周迅",
+      "黄晓明",
+      "隋棠",
+      "谢依霖",
+      "康晋荣"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2213388572.jpg",
+    "id": "4881607",
+    "cover_y": 8346
+  },
+  {
+    "directors": [
+      "山本泰一郎"
+    ],
+    "rate": "7.8",
+    "cover_x": 2199,
+    "star": "40",
+    "title": "名侦探柯南：侦探们的镇魂歌",
+    "url": "https://movie.douban.com/subject/1827955/",
+    "casts": [
+      "高山南",
+      "堀川亮",
+      "神谷明",
+      "山口胜平",
+      "山崎和佳奈"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2249750926.jpg",
+    "id": "1827955",
+    "cover_y": 3088
+  },
+  {
+    "directors": [
+      "山姆·哈格雷夫"
+    ],
+    "rate": "7.1",
+    "cover_x": 1500,
+    "star": "35",
+    "title": "惊天营救",
+    "url": "https://movie.douban.com/subject/30314127/",
+    "casts": [
+      "克里斯·海姆斯沃斯",
+      "大卫·哈伯",
+      "格什菲·法拉哈尼",
+      "德里克·卢克",
+      "兰迪普·弘达"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2593425210.jpg",
+    "id": "30314127",
+    "cover_y": 2222
+  },
+  {
+    "directors": [
+      "赵真奎"
+    ],
+    "rate": "4.8",
+    "cover_x": 3000,
+    "star": "25",
+    "title": "夏有乔木 雅望天堂",
+    "url": "https://movie.douban.com/subject/25843976/",
+    "casts": [
+      "吴亦凡",
+      "韩庚",
+      "卢杉",
+      "包贝尔",
+      "周元"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2355434506.jpg",
+    "id": "25843976",
+    "cover_y": 4200
+  },
+  {
+    "directors": [
+      "巴伦·博·欧达尔"
+    ],
+    "rate": "9.3",
+    "cover_x": 1382,
+    "star": "45",
+    "title": "暗黑 第二季",
+    "url": "https://movie.douban.com/subject/27611018/",
+    "casts": [
+      "路易斯·霍夫曼",
+      "玛雅·舍内",
+      "丽莎·维卡里",
+      "保罗·勒克斯",
+      "彼得·施耐德"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560267326.jpg",
+    "id": "27611018",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "林德禄 "
+    ],
+    "rate": "6.0",
+    "cover_x": 1500,
+    "star": "30",
+    "title": "反贪风暴4",
+    "url": "https://movie.douban.com/subject/27202819/",
+    "casts": [
+      "古天乐",
+      "郑嘉颖",
+      "林峯",
+      "林家栋",
+      "周秀娜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551353482.jpg",
+    "id": "27202819",
+    "cover_y": 2127
+  },
+  {
+    "directors": [
+      "张嘉佳"
+    ],
+    "rate": "4.1",
+    "cover_x": 916,
+    "star": "20",
+    "title": "摆渡人",
+    "url": "https://movie.douban.com/subject/25911694/",
+    "casts": [
+      "梁朝伟",
+      "金城武",
+      "陈奕迅",
+      "杨颖",
+      "张榕容"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2390687452.jpg",
+    "id": "25911694",
+    "cover_y": 1280
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "7.8",
+    "cover_x": 1029,
+    "star": "40",
+    "title": "一九四二",
+    "url": "https://movie.douban.com/subject/6011805/",
+    "casts": [
+      "张国立",
+      "张默",
+      "徐帆",
+      "李雪健",
+      "陈道明"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1767278057.jpg",
+    "id": "6011805",
+    "cover_y": 1440
+  },
+  {
+    "directors": [
+      "曲江涛"
+    ],
+    "rate": "8.4",
+    "cover_x": 622,
+    "star": "40",
+    "title": "孙子从美国来",
+    "url": "https://movie.douban.com/subject/10467774/",
+    "casts": [
+      "罗京民",
+      "丁佳明",
+      "刘天佐"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2157878128.jpg",
+    "id": "10467774",
+    "cover_y": 923
+  },
+  {
+    "directors": [
+      "格里格·伯兰蒂"
+    ],
+    "rate": "8.3",
+    "cover_x": 2309,
+    "star": "40",
+    "title": "爱你，西蒙",
+    "url": "https://movie.douban.com/subject/26654498/",
+    "casts": [
+      "尼克·罗宾森",
+      "詹妮弗·加纳",
+      "乔什·杜哈明",
+      "小豪尔赫·兰登伯格",
+      "凯瑟琳·兰福德"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523592367.jpg",
+    "id": "26654498",
+    "cover_y": 3464
+  },
+  {
+    "directors": [
+      "陈晓卿"
+    ],
+    "rate": "9.4",
+    "cover_x": 1237,
+    "star": "45",
+    "title": "舌尖上的中国 第一季",
+    "url": "https://movie.douban.com/subject/10606004/",
+    "casts": [
+      "李立宏"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1560286285.jpg",
+    "id": "10606004",
+    "cover_y": 1751
+  },
+  {
+    "directors": [
+      "安德鲁·尼科尔"
+    ],
+    "rate": "8.6",
+    "cover_x": 2026,
+    "star": "45",
+    "title": "战争之王",
+    "url": "https://movie.douban.com/subject/1419936/",
+    "casts": [
+      "尼古拉斯·凯奇",
+      "布丽姬·穆娜",
+      "杰瑞德·莱托",
+      "伊安·霍姆",
+      "伊桑·霍克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792282381.jpg",
+    "id": "1419936",
+    "cover_y": 3000
+  },
+  {
+    "directors": [
+      "R·巴尔基"
+    ],
+    "rate": "7.7",
+    "cover_x": 4500,
+    "star": "40",
+    "title": "印度合伙人",
+    "url": "https://movie.douban.com/subject/27198855/",
+    "casts": [
+      "阿克谢·库玛尔",
+      "拉迪卡·艾普特",
+      "索娜姆·卡普尔",
+      "乔蒂·苏巴",
+      "森尔·辛"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2540940050.jpg",
+    "id": "27198855",
+    "cover_y": 6450
+  },
+  {
+    "directors": [
+      "孙元平"
+    ],
+    "rate": "6.5",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "侵入者",
+    "url": "https://movie.douban.com/subject/34845342/",
+    "casts": [
+      "宋智孝",
+      "金武烈",
+      "艺秀晶",
+      "许俊硕",
+      "李海云"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2608495324.jpg",
+    "id": "34845342",
+    "cover_y": 2860
+  },
+  {
+    "directors": [
+      "胡波"
+    ],
+    "rate": "8.1",
+    "cover_x": 1280,
+    "star": "40",
+    "title": "大象席地而坐",
+    "url": "https://movie.douban.com/subject/27172891/",
+    "casts": [
+      "彭昱畅",
+      "章宇",
+      "王玉雯",
+      "李从喜",
+      "董向荣"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511811355.jpg",
+    "id": "27172891",
+    "cover_y": 1791
+  },
+  {
+    "directors": [
+      "沙维琪"
+    ],
+    "rate": "7.3",
+    "cover_x": 2000,
+    "star": "35",
+    "title": "陪你到世界之巅",
+    "url": "https://movie.douban.com/subject/27068601/",
+    "casts": [
+      "王一博",
+      "王子璇",
+      "严禹豪",
+      "丁冠森",
+      "吕小雨"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556612482.jpg",
+    "id": "27068601",
+    "cover_y": 2838
+  },
+  {
+    "directors": [
+      "格恩迪·塔塔科夫斯基"
+    ],
+    "rate": "6.7",
+    "cover_x": 1063,
+    "star": "35",
+    "title": "精灵旅社3：疯狂假期",
+    "url": "https://movie.douban.com/subject/26630714/",
+    "casts": [
+      "亚当·桑德勒",
+      "凯瑟琳·哈恩",
+      "史蒂夫·布西密",
+      "赛琳娜·戈麦斯",
+      "阿什·布林克夫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2530591543.jpg",
+    "id": "26630714",
+    "cover_y": 1488
+  },
+  {
+    "directors": [
+      "青山刚昌",
+      "山本泰一郎"
+    ],
+    "rate": "9.2",
+    "cover_x": 500,
+    "star": "45",
+    "title": "名侦探柯南",
+    "url": "https://movie.douban.com/subject/1463371/",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "神谷明",
+      "小山力也",
+      "林原惠美"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2235972558.jpg",
+    "id": "1463371",
+    "cover_y": 709
+  },
+  {
+    "directors": [
+      "森田宏幸"
+    ],
+    "rate": "8.1",
+    "cover_x": 635,
+    "star": "40",
+    "title": "猫的报恩",
+    "url": "https://movie.douban.com/subject/1304970/",
+    "casts": [
+      "池胁千鹤",
+      "袴田吉彦",
+      "丹波哲郎",
+      "前田亚季",
+      "山田孝之"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453858009.jpg",
+    "id": "1304970",
+    "cover_y": 904
+  }
+]

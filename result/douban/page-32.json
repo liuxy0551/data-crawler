@@ -1,0 +1,406 @@
+[
+  {
+    "directors": [
+      "宫崎骏"
+    ],
+    "rate": "8.5",
+    "cover_x": 1767,
+    "star": "45",
+    "title": "红猪",
+    "url": "https://movie.douban.com/subject/1291838/",
+    "casts": [
+      "森山周一郎",
+      "加藤登纪子",
+      "冈村明美",
+      "桂三枝",
+      "上条恒彦"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1637195728.jpg",
+    "id": "1291838",
+    "cover_y": 2500
+  },
+  {
+    "directors": [
+      "亚当·艾略特"
+    ],
+    "rate": "8.9",
+    "cover_x": 1132,
+    "star": "45",
+    "title": "玛丽和马克思",
+    "url": "https://movie.douban.com/subject/3072124/",
+    "casts": [
+      "托妮·科莱特",
+      "菲利普·塞默·霍夫曼",
+      "巴瑞·哈姆弗莱斯",
+      "艾瑞克·巴纳",
+      "贝塔尼·维特莫尔"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2162822165.jpg",
+    "id": "3072124",
+    "cover_y": 1600
+  },
+  {
+    "directors": [
+      "邱礼涛"
+    ],
+    "rate": "6.0",
+    "cover_x": 1020,
+    "star": "30",
+    "title": "扫毒2天地对决",
+    "url": "https://movie.douban.com/subject/30171425/",
+    "casts": [
+      "刘德华",
+      "古天乐",
+      "苗侨伟",
+      "林嘉欣",
+      "周秀娜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561172733.jpg",
+    "id": "30171425",
+    "cover_y": 1428
+  },
+  {
+    "directors": [
+      "爱德华·兹威克"
+    ],
+    "rate": "8.7",
+    "cover_x": 1000,
+    "star": "45",
+    "title": "血钻",
+    "url": "https://movie.douban.com/subject/1428175/",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "杰曼·翰苏",
+      "詹妮弗·康纳利",
+      "阿诺德·沃斯洛",
+      "大卫·哈雷伍德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg",
+    "id": "1428175",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "让-马克·瓦雷"
+    ],
+    "rate": "8.8",
+    "cover_x": 4051,
+    "star": "45",
+    "title": "达拉斯买家俱乐部",
+    "url": "https://movie.douban.com/subject/1793929/",
+    "casts": [
+      "马修·麦康纳",
+      "詹妮弗·加纳",
+      "杰瑞德·莱托",
+      "斯蒂夫·扎恩",
+      "达拉斯·罗伯特斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg",
+    "id": "1793929",
+    "cover_y": 6001
+  },
+  {
+    "directors": [
+      "罗兰·艾默里奇"
+    ],
+    "rate": "7.7",
+    "cover_x": 2416,
+    "star": "40",
+    "title": "决战中途岛",
+    "url": "https://movie.douban.com/subject/26786669/",
+    "casts": [
+      "艾德·斯克林",
+      "帕特里克·威尔森",
+      "伍迪·哈里森",
+      "卢克·伊万斯",
+      "丹尼斯·奎德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2573582192.jpg",
+    "id": "26786669",
+    "cover_y": 3375
+  },
+  {
+    "directors": [
+      "克里斯·哥伦布"
+    ],
+    "rate": "8.3",
+    "cover_x": 936,
+    "star": "40",
+    "title": "小鬼当家",
+    "url": "https://movie.douban.com/subject/1293088/",
+    "casts": [
+      "麦考利·卡尔金",
+      "乔·佩西",
+      "丹尼尔·斯特恩",
+      "约翰·赫德",
+      "罗伯茨·布洛瑟姆"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1529668801.jpg",
+    "id": "1293088",
+    "cover_y": 1377
+  },
+  {
+    "directors": [
+      "冯小刚"
+    ],
+    "rate": "7.7",
+    "cover_x": 1432,
+    "star": "40",
+    "title": "唐山大地震",
+    "url": "https://movie.douban.com/subject/3596502/",
+    "casts": [
+      "徐帆",
+      "张静初",
+      "李晨",
+      "陈道明",
+      "张子枫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p545837150.jpg",
+    "id": "3596502",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "王晶",
+      "刘伟强"
+    ],
+    "rate": "4.3",
+    "cover_x": 1429,
+    "star": "20",
+    "title": "澳门风云3",
+    "url": "https://movie.douban.com/subject/26334559/",
+    "casts": [
+      "周润发",
+      "刘德华",
+      "张家辉",
+      "张学友",
+      "余文乐"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2309171908.jpg",
+    "id": "26334559",
+    "cover_y": 2000
+  },
+  {
+    "directors": [
+      "申源浩"
+    ],
+    "rate": "9.4",
+    "cover_x": 900,
+    "star": "45",
+    "title": "机智牢房生活",
+    "url": "https://movie.douban.com/subject/27081753/",
+    "casts": [
+      "朴海秀",
+      "郑敬淏",
+      "郑秀晶",
+      "林华映",
+      "丁海寅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506561091.jpg",
+    "id": "27081753",
+    "cover_y": 1275
+  },
+  {
+    "directors": [
+      "朱锐斌",
+      "古志威",
+      "李秉光"
+    ],
+    "rate": "7.1",
+    "cover_x": 5906,
+    "star": "35",
+    "title": "冰糖炖雪梨",
+    "url": "https://movie.douban.com/subject/30327835/",
+    "casts": [
+      "吴倩",
+      "张新成",
+      "周占",
+      "陈楚月",
+      "曹博"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2591402175.jpg",
+    "id": "30327835",
+    "cover_y": 9055
+  },
+  {
+    "directors": [
+      "廉欣"
+    ],
+    "rate": "6.9",
+    "cover_x": 2645,
+    "star": "35",
+    "title": "猎谎者",
+    "url": "https://movie.douban.com/subject/35027709/",
+    "casts": [
+      "王茂蕾",
+      "孙梦纯",
+      "张圣鹏",
+      "秦雪",
+      "马小茜"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2611124274.jpg",
+    "id": "35027709",
+    "cover_y": 4000
+  },
+  {
+    "directors": [
+      "孙树培",
+      "鹿峰"
+    ],
+    "rate": "8.4",
+    "cover_x": 663,
+    "star": "40",
+    "title": "还珠格格",
+    "url": "https://movie.douban.com/subject/1786739/",
+    "casts": [
+      "赵薇",
+      "苏有朋",
+      "林心如",
+      "周杰",
+      "陈志朋"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2370846705.jpg",
+    "id": "1786739",
+    "cover_y": 955
+  },
+  {
+    "directors": [
+      "克里斯·韦兹"
+    ],
+    "rate": "6.7",
+    "cover_x": 2400,
+    "star": "35",
+    "title": "暮光之城2：新月",
+    "url": "https://movie.douban.com/subject/3148027/",
+    "casts": [
+      "克里斯汀·斯图尔特",
+      "罗伯特·帕丁森",
+      "泰勒·洛特纳",
+      "达科塔·范宁",
+      "安娜·肯德里克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p850945243.jpg",
+    "id": "3148027",
+    "cover_y": 3600
+  },
+  {
+    "directors": [
+      "约翰·辛格顿"
+    ],
+    "rate": "7.4",
+    "cover_x": 1000,
+    "star": "35",
+    "title": "速度与激情2",
+    "url": "https://movie.douban.com/subject/1307442/",
+    "casts": [
+      "保罗·沃克",
+      "泰瑞斯·吉布森",
+      "伊娃·门德斯",
+      "科尔·豪瑟",
+      "卢达克里斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1034021738.jpg",
+    "id": "1307442",
+    "cover_y": 1500
+  },
+  {
+    "directors": [
+      "西娅·夏罗克"
+    ],
+    "rate": "7.9",
+    "cover_x": 4050,
+    "star": "40",
+    "title": "遇见你之前",
+    "url": "https://movie.douban.com/subject/25929151/",
+    "casts": [
+      "艾米莉亚·克拉克",
+      "山姆·克拉弗林",
+      "珍妮·麦克蒂尔",
+      "查尔斯·丹斯",
+      "布兰登·柯伊尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2317441943.jpg",
+    "id": "25929151",
+    "cover_y": 6000
+  },
+  {
+    "directors": [
+      "徐克"
+    ],
+    "rate": "6.1",
+    "cover_x": 2500,
+    "star": "30",
+    "title": "狄仁杰之四大天王",
+    "url": "https://movie.douban.com/subject/25882296/",
+    "casts": [
+      "赵又廷",
+      "冯绍峰",
+      "林更新",
+      "阮经天",
+      "马思纯"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526405034.jpg",
+    "id": "25882296",
+    "cover_y": 3500
+  },
+  {
+    "directors": [
+      "姚婷婷"
+    ],
+    "rate": "6.6",
+    "cover_x": 4429,
+    "star": "35",
+    "title": "谁的青春不迷茫",
+    "url": "https://movie.douban.com/subject/26290367/",
+    "casts": [
+      "白敬亭",
+      "郭姝彤",
+      "李宏毅",
+      "王鹤润",
+      "丁冠森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2332755749.jpg",
+    "id": "26290367",
+    "cover_y": 6201
+  },
+  {
+    "directors": [
+      "马丁·斯科塞斯"
+    ],
+    "rate": "8.8",
+    "cover_x": 2000,
+    "star": "45",
+    "title": "爱尔兰人",
+    "url": "https://movie.douban.com/subject/6981153/",
+    "casts": [
+      "罗伯特·德尼罗",
+      "阿尔·帕西诺",
+      "乔·佩西",
+      "安娜·帕奎因",
+      "杰西·普莱蒙"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2568902055.jpg",
+    "id": "6981153",
+    "cover_y": 2929
+  },
+  {
+    "directors": [
+      "肯尼思·布拉纳"
+    ],
+    "rate": "6.9",
+    "cover_x": 2048,
+    "star": "35",
+    "title": "东方快车谋杀案",
+    "url": "https://movie.douban.com/subject/25790761/",
+    "casts": [
+      "肯尼思·布拉纳",
+      "佩内洛普·克鲁兹",
+      "威廉·达福",
+      "朱迪·丹奇",
+      "约翰尼·德普"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502165084.jpg",
+    "id": "25790761",
+    "cover_y": 3025
+  }
+]

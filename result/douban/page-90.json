@@ -1,0 +1,414 @@
+[
+  {
+    "directors": [
+      "菲尔·罗德",
+      "克里斯托弗·米勒"
+    ],
+    "rate": "7.5",
+    "cover_x": 900,
+    "star": "40",
+    "title": "天降美食",
+    "url": "https://movie.douban.com/subject/3102668/",
+    "casts": [
+      "比尔·哈德尔",
+      "安娜·法瑞丝",
+      "詹姆斯·肯恩",
+      "安迪·萨姆伯格",
+      "布鲁斯·坎贝尔 "
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p501492695.jpg",
+    "id": "3102668",
+    "cover_y": 1337
+  },
+  {
+    "directors": [
+      "刘惠宁",
+      "李少飞"
+    ],
+    "rate": "6.6",
+    "cover_x": 1432,
+    "star": "35",
+    "title": "少年派",
+    "url": "https://movie.douban.com/subject/27598254/",
+    "casts": [
+      "张嘉益",
+      "闫妮",
+      "赵今麦",
+      "郭俊辰",
+      "姜冠南"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558828119.jpg",
+    "id": "27598254",
+    "cover_y": 2048
+  },
+  {
+    "directors": [
+      "罗伯特·斯文克"
+    ],
+    "rate": "6.0",
+    "cover_x": 4275,
+    "star": "30",
+    "title": "分歧者2：绝地反击",
+    "url": "https://movie.douban.com/subject/25794212/",
+    "casts": [
+      "谢琳·伍德蕾",
+      "西奥·詹姆斯",
+      "凯特·温丝莱特",
+      "奥克塔维亚·斯宾瑟",
+      "杰·科特尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2246877123.jpg",
+    "id": "25794212",
+    "cover_y": 5925
+  },
+  {
+    "directors": [
+      "贾斯汀·库泽尔 "
+    ],
+    "rate": "5.4",
+    "cover_x": 1670,
+    "star": "25",
+    "title": "刺客信条",
+    "url": "https://movie.douban.com/subject/11526817/",
+    "casts": [
+      "迈克尔·法斯宾德",
+      "玛丽昂·歌迪亚",
+      "杰瑞米·艾恩斯",
+      "布莱丹·格里森",
+      "夏洛特·兰普林"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2432597986.jpg",
+    "id": "11526817",
+    "cover_y": 2332
+  },
+  {
+    "directors": [
+      "石铭泉",
+      "吴锦源",
+      "文伟鸿"
+    ],
+    "rate": "8.4",
+    "cover_x": 750,
+    "star": "40",
+    "title": "寻秦记",
+    "url": "https://movie.douban.com/subject/2983389/",
+    "casts": [
+      "古天乐",
+      "江华",
+      "宣萱",
+      "郭羡妮",
+      "林峯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564379422.jpg",
+    "id": "2983389",
+    "cover_y": 1056
+  },
+  {
+    "directors": [
+      "沈严",
+      "刘海波"
+    ],
+    "rate": "8.1",
+    "cover_x": 2126,
+    "star": "40",
+    "title": "天盛长歌",
+    "url": "https://movie.douban.com/subject/26761328/",
+    "casts": [
+      "陈坤",
+      "倪妮",
+      "赵立新",
+      "倪大红",
+      "袁弘"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530496815.jpg",
+    "id": "26761328",
+    "cover_y": 2976
+  },
+  {
+    "directors": [
+      "克林特·伊斯特伍德"
+    ],
+    "rate": "7.7",
+    "cover_x": 2764,
+    "star": "40",
+    "title": "美国狙击手",
+    "url": "https://movie.douban.com/subject/21263666/",
+    "casts": [
+      "布莱德利·库珀",
+      "西耶娜·米勒",
+      "卢克·葛莱姆斯",
+      "凯尔·加尔纳",
+      "杰克·麦克道曼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2203481530.jpg",
+    "id": "21263666",
+    "cover_y": 4096
+  },
+  {
+    "directors": [
+      "麦兆辉",
+      "庄文强"
+    ],
+    "rate": "6.9",
+    "cover_x": 5906,
+    "star": "35",
+    "title": "听风者",
+    "url": "https://movie.douban.com/subject/6041191/",
+    "casts": [
+      "梁朝伟",
+      "周迅",
+      "范晓萱",
+      "王学兵",
+      "董勇"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1635929376.jpg",
+    "id": "6041191",
+    "cover_y": 8268
+  },
+  {
+    "directors": [
+      "萨拉雷"
+    ],
+    "rate": "5.9",
+    "cover_x": 1080,
+    "star": "30",
+    "title": "烈阳天道",
+    "url": "https://movie.douban.com/subject/34661803/",
+    "casts": [
+      "林强",
+      "云鹤追",
+      "赵成晨",
+      "韦琪",
+      "图特哈蒙"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2615551979.jpg",
+    "id": "34661803",
+    "cover_y": 1920
+  },
+  {
+    "directors": [
+      "洪成昌"
+    ],
+    "rate": "7.8",
+    "cover_x": 689,
+    "star": "40",
+    "title": "原来是美男啊",
+    "url": "https://movie.douban.com/subject/3992226/",
+    "casts": [
+      "张根硕",
+      "朴信惠",
+      "郑容和",
+      "李弘基",
+      "郑灿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p547468842.jpg",
+    "id": "3992226",
+    "cover_y": 976
+  },
+  {
+    "directors": [
+      "爱德华·兹威克"
+    ],
+    "rate": "7.1",
+    "cover_x": 3370,
+    "star": "35",
+    "title": "爱情与灵药",
+    "url": "https://movie.douban.com/subject/3078609/",
+    "casts": [
+      "安妮·海瑟薇",
+      "杰克·吉伦哈尔",
+      "朱迪·格雷尔",
+      "汉克·阿扎利亚",
+      "乔什·加德"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1525267789.jpg",
+    "id": "3078609",
+    "cover_y": 5000
+  },
+  {
+    "directors": [
+      "彭三源"
+    ],
+    "rate": "6.7",
+    "cover_x": 5953,
+    "star": "35",
+    "title": "失孤",
+    "url": "https://movie.douban.com/subject/25835293/",
+    "casts": [
+      "刘德华",
+      "井柏然",
+      "吴君如",
+      "梁家辉",
+      "倪景阳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2231791943.jpg",
+    "id": "25835293",
+    "cover_y": 8315
+  },
+  {
+    "directors": [
+      "朱延平"
+    ],
+    "rate": "7.9",
+    "cover_x": 464,
+    "star": "40",
+    "title": "笑林小子",
+    "url": "https://movie.douban.com/subject/1408312/",
+    "casts": [
+      "林志颖",
+      "郝劭文",
+      "释小龙",
+      "徐濠萦",
+      "张震岳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2352121968.jpg",
+    "id": "1408312",
+    "cover_y": 675
+  },
+  {
+    "directors": [
+      "蒂姆·希尔"
+    ],
+    "rate": "7.5",
+    "cover_x": 2008,
+    "star": "40",
+    "title": "鼠来宝",
+    "url": "https://movie.douban.com/subject/2139553/",
+    "casts": [
+      "杰森·李",
+      "大卫·克罗斯",
+      "卡梅隆·理查德森",
+      "贾斯汀·朗",
+      "Jillian Barberie"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456298793.jpg",
+    "id": "2139553",
+    "cover_y": 2840
+  },
+  {
+    "directors": [
+      "爱丽丝·洛尔瓦彻"
+    ],
+    "rate": "8.6",
+    "cover_x": 640,
+    "star": "45",
+    "title": "幸福的拉扎罗",
+    "url": "https://movie.douban.com/subject/27072795/",
+    "casts": [
+      "阿德里亚诺·塔尔迪奥洛",
+      "阿涅塞·格拉齐亚尼",
+      "卢卡·奇科瓦尼",
+      "阿尔芭·洛尔瓦彻",
+      "塞尔希·洛佩斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521583093.jpg",
+    "id": "27072795",
+    "cover_y": 914
+  },
+  {
+    "directors": [
+      "金沙"
+    ],
+    "rate": "5.2",
+    "cover_x": 890,
+    "star": "25",
+    "title": "一千零一夜",
+    "url": "https://movie.douban.com/subject/27088995/",
+    "casts": [
+      "迪丽热巴",
+      "邓伦",
+      "陈奕龙",
+      "王瑞子",
+      "张昊唯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510461740.jpg",
+    "id": "27088995",
+    "cover_y": 1300
+  },
+  {
+    "directors": [],
+    "rate": "7.7",
+    "cover_x": 4840,
+    "star": "40",
+    "title": "欢天喜地好哥们",
+    "url": "https://movie.douban.com/subject/35140051/",
+    "casts": [
+      "花少北",
+      "老番茄",
+      "王瀚哲",
+      "周宇翔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614630937.jpg",
+    "id": "35140051",
+    "cover_y": 7374
+  },
+  {
+    "directors": [
+      "伊丽莎白·班克斯"
+    ],
+    "rate": "5.5",
+    "cover_x": 2000,
+    "star": "30",
+    "title": "霹雳娇娃",
+    "url": "https://movie.douban.com/subject/26612258/",
+    "casts": [
+      "克里斯汀·斯图尔特",
+      "娜奥米·斯科特",
+      "埃拉·巴林斯卡",
+      "伊丽莎白·班克斯",
+      "帕特里克·斯图尔特"
+    ],
+    "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2572654905.jpg",
+    "id": "26612258",
+    "cover_y": 2929
+  },
+  {
+    "directors": [
+      "布莱恩·科兰斯顿",
+      "亚当·伯恩斯坦",
+      "米歇尔·麦克拉伦",
+      "斯科特·怀南特",
+      "约翰·伦克",
+      "约翰·施班",
+      "科林·巴克西",
+      "迈克尔·斯洛维斯",
+      "莱恩·约翰逊",
+      "文斯·吉里根"
+    ],
+    "rate": "9.3",
+    "cover_x": 1519,
+    "star": "45",
+    "title": "绝命毒师  第三季",
+    "url": "https://movie.douban.com/subject/4256328/",
+    "casts": [
+      "布莱恩·科兰斯顿",
+      "亚伦·保尔",
+      "安娜·冈",
+      "吉安卡罗·埃斯波西托",
+      "迪恩·诺里斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1674838460.jpg",
+    "id": "4256328",
+    "cover_y": 2250
+  },
+  {
+    "directors": [
+      "细田守"
+    ],
+    "rate": "8.6",
+    "cover_x": 2142,
+    "star": "45",
+    "title": "夏日大作战",
+    "url": "https://movie.douban.com/subject/3908423/",
+    "casts": [
+      "神木隆之介",
+      "樱庭奈奈美",
+      "富司纯子",
+      "谷村美月",
+      "斋藤步"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1031772057.jpg",
+    "id": "3908423",
+    "cover_y": 3025
+  }
+]
